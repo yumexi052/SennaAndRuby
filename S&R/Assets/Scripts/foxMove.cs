@@ -15,6 +15,7 @@ public class foxMove : MonoBehaviour
     private float timerDoor = 0.0f;
 
     public Animator animator;//Animator Controller
+    //public Animation anim;
     private CharacterController characterController;
     private Vector3 moveDirection;
     private Vector3 rotationDirection;
@@ -107,6 +108,9 @@ public class foxMove : MonoBehaviour
                 trapTrigger = true;
                 Debug.Log("TrapDanger triggered");
             }
+            if (hit.collider.gameObject.tag == "Arrow")
+            {
+            }
             //else
             //{
             //    GameObject door;
@@ -124,7 +128,7 @@ public class foxMove : MonoBehaviour
 
     private void Move()
     {
-        if (Input.GetAxis("Run") != 0)
+        if (Input.GetAxis("Run") != 0 && !foxAnimation.died)
         {
 
             animator.SetBool("isSkill", false);
@@ -150,7 +154,7 @@ public class foxMove : MonoBehaviour
             characterController.Move(moveDirection * Time.deltaTime);
 
         }
-        else
+        else if (Input.GetAxis("Walk") != 0 && !foxAnimation.died)
         {
             animator.SetBool("isSkill", false);
             animator.SetBool("isWalk", true);

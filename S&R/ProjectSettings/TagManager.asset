@@ -10,6 +10,7 @@ TagManager:
   - TrapDanger
   - TipsParticle
   - TrapParticle
+  - Arrow
   layers:
   - Default
   - TransparentFX

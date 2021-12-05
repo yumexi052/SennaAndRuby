@@ -10,11 +10,14 @@ public class foxAnimation : MonoBehaviour
     public static bool rockSpeedUp = false;
     private float timer = 0.0f;
     private float timerDoor = 0.0f;
+    public static bool trapTrigger = false;
+    public static bool died = false;
 
     public Animator animator;//Animator Controller
 
     void Awake()
     {
+        died = false;
         animator.SetBool("isDied", false);
     }
 
@@ -23,6 +26,7 @@ public class foxAnimation : MonoBehaviour
     {
         if (Input.GetAxis("Vertical") == 0 && Input.GetAxis("Horizontal") == 0)
         {
+            animator.SetBool("isSkill", false);
             animator.SetBool("isWalk", false);
             animator.SetBool("isRun", false);
             animator.SetBool("isJump", false);
@@ -46,31 +50,22 @@ public class foxAnimation : MonoBehaviour
             {
                 animator.SetBool("isJump", false);
             }
+            if (Input.GetAxis("Skill") != 0)
+            {
+                animator.SetBool("isSkill", true);
+            }
         }
 
-        if (rockRoll.isHit)
+        if (rockRoll.isHit || foxMove.trapTrigger)
         {
+            died = true;
             animator.SetBool("isDied", true);
         }
 
-        RaycastHit hit;
-        Debug.DrawRay(transform.position, transform.forward, Color.black);
-        if (Physics.Raycast(transform.position, transform.forward, out hit, 1.0f))
+        if (Input.GetAxis("Skill") != 0)
         {
-            if (hit.collider.gameObject.tag == "TrapFast")
-            {
-                rockSpeedUp = true;
-                Debug.Log("TrapFast triggered");
-            }
-            if (hit.collider.gameObject.tag == "Door")
-            {
-                hit.collider.gameObject.SetActive(false);
-                Debug.Log("Door triggered");
-                timerDoor += Time.deltaTime;
-
-            }
+            animator.SetBool("isSkill", true);
         }
-
     }
 
     private void movement()

@@ -31,12 +31,12 @@ public class rockRoll : MonoBehaviour
 
     void Update()
     {
-        if (foxMove.rockSpeedUp)
+        if (foxAnimation.rockSpeedUp)
         {
             rigidbody.AddForce(0, -forceValue, 0, ForceMode.Impulse);
         }
 
-        if (Input.GetKey(KeyCode.E) && rockSpawn.noOfEnemy >= 1)
+        if (Input.GetAxis("Collect") != 0 && rockSpawn.noOfEnemy >= 1 && !foxAnimation.died)
         {
             destroyRock = true;
             Destroy(gameObject);

@@ -16,7 +16,7 @@ public class changeLight : MonoBehaviour
 
     void Update()
     {
-        if (Input.GetKey(KeyCode.J) && !isLightChange)
+        if (Input.GetAxis("Skill") != 0 && !isLightChange && !foxAnimation.died)
         {
             lightObject.color = myColor;
             isLightChange = true;

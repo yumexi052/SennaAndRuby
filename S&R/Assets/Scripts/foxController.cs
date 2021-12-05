@@ -19,8 +19,6 @@ public class foxController : MonoBehaviour
     Vector3 velocity;
     bool isGrounded;
 
-
-
     // Update is called once per frame
     void Update()
     {
@@ -37,16 +35,25 @@ public class foxController : MonoBehaviour
 
         if (Input.GetAxis("Run") != 0)
         {
-            controller.Move(move * runSpeed * Time.deltaTime);
+            if (!foxAnimation.died)
+            {
+                controller.Move(move * runSpeed * Time.deltaTime);
+            } 
         }
         else
         {
-            controller.Move(move * speed * Time.deltaTime);
+            if (!foxAnimation.died)
+            {
+                controller.Move(move * speed * Time.deltaTime);
+            }
         }
 
         if (Input.GetButtonDown("Jump") && isGrounded)
         {
-            velocity.y = Mathf.Sqrt(jumpHeight * -2f * gravity);
+            if (!foxAnimation.died)
+            {
+                velocity.y = Mathf.Sqrt(jumpHeight * -2f * gravity);
+            }  
         }
 
         velocity.y += gravity * Time.deltaTime;

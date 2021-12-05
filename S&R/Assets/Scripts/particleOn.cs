@@ -16,7 +16,7 @@ public class particleOn : MonoBehaviour
         //tips = GameObject.FindWithTag("TipsParticle");
         //traps = GameObject.FindWithTag("TrapParticle");
 
-        if (Input.GetKey(KeyCode.J) && !isParticleOn)
+        if (Input.GetAxis("Skill") != 0 && !isParticleOn && !foxAnimation.died)
         {
             isParticleOn = true;
         }
