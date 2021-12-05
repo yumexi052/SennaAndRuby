@@ -7,6 +7,7 @@ public class rockSpawn : MonoBehaviour
     public GameObject rock;
     private float timer = 0.0f;
     public static int noOfEnemy = 1;
+    //public static bool isRockRestart = false;
 
     // Start is called before the first frame update
     void Awake()
@@ -18,18 +19,19 @@ public class rockSpawn : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
+
         if (rockRoll.destroyRock)
         {
             noOfEnemy = 0;
             rockRoll.destroyRock = false;
         }
 
-        if (noOfEnemy == 0)
+        if (noOfEnemy <= 2)
         {
             timer += Time.deltaTime;
         }
 
-        if (timer > 5)
+        if (timer > 15)
         {
             GameObject temp = Instantiate(rock, transform.position, transform.rotation);
             temp.name = "Rock";
@@ -42,6 +44,11 @@ public class rockSpawn : MonoBehaviour
                 temp.AddComponent<Rigidbody>();
                 Physics.IgnoreCollision(transform.root.GetComponent<Collider>(), temp.GetComponent<Collider>(), true);
             }
+        }
+
+        if (foxMove.isControlDestroy)
+        {
+            Destroy(gameObject);
         }
     }
 }

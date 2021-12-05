@@ -11,6 +11,8 @@ public class foxMove : MonoBehaviour
     public static bool OnTheGround = true;
     public static bool trapTrigger = false;
     public static bool rockSpeedUp = false;
+    public static bool isRockDestroy = false;
+    public static bool isControlDestroy = false;
     private float timer = 0.0f;
     private float timerDoor = 0.0f;
 
@@ -108,8 +110,18 @@ public class foxMove : MonoBehaviour
                 trapTrigger = true;
                 Debug.Log("TrapDanger triggered");
             }
-            if (hit.collider.gameObject.tag == "Arrow")
+            if (hit.collider.gameObject.tag == "Arrow" && Input.GetAxis("Collect") != 0)
             {
+                hit.collider.gameObject.SetActive(false);
+                Debug.Log("Rock Destroy");
+                isRockDestroy = true;
+            }
+            if (hit.collider.gameObject.tag == "Sun" && Input.GetAxis("Collect") != 0)
+            {
+                hit.collider.gameObject.SetActive(false);
+                Debug.Log("Main Control Destroy!");
+                isControlDestroy = true;
+                isRockDestroy = true;
             }
             //else
             //{
@@ -123,7 +135,6 @@ public class foxMove : MonoBehaviour
             //    }   
             //}
         }
-
     }
 
     private void Move()

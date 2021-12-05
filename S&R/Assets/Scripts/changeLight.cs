@@ -4,14 +4,16 @@ using UnityEngine;
 
 public class changeLight : MonoBehaviour
 {
-    Light lightObject;
+    public Light lightObject;
     public Color myColor;
     private bool isLightChange = false;
     private float timer = 0.0f;
+    Renderer rend;
 
     void Start()
     {
-        lightObject = GetComponent<Light>();
+        //lightObject = GetComponent<Light>();
+        rend = GetComponent<Renderer>();
     }
 
     void Update()
@@ -20,7 +22,7 @@ public class changeLight : MonoBehaviour
         {
             lightObject.color = myColor;
             isLightChange = true;
-            
+            rend.material.color = myColor;
         }
 
         if (isLightChange)
@@ -32,6 +34,7 @@ public class changeLight : MonoBehaviour
         {
             isLightChange = false;
             lightObject.color = Color.white;
+            rend.material.color = Color.white;
             timer = 0.0f;
         }
     }

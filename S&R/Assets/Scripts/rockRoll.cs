@@ -6,12 +6,17 @@ using UnityEngine;
 public class rockRoll : MonoBehaviour
 {
     public int moveSpeed = 3;
-    private float forceValue = 5f;
+    private float forceValue = 10f;
     public static bool isHit = false;
     Rigidbody rigidbody;
     public static bool destroyRock = false;
     //public AudioClip hitSound;
     //public AudioClip resetSound;
+
+    void Awake()
+    {
+        destroyRock = false;
+    }
 
     void Start()
     {
@@ -36,10 +41,41 @@ public class rockRoll : MonoBehaviour
             rigidbody.AddForce(0, -forceValue, 0, ForceMode.Impulse);
         }
 
-        if (Input.GetAxis("Collect") != 0 && rockSpawn.noOfEnemy >= 1 && !foxAnimation.died)
+        if (foxMove.isRockDestroy && rockSpawn.noOfEnemy >= 1 && !foxAnimation.died)
+        //if (foxMove.isRockDestroy && rockSpawn.noOfEnemy >= 1 && !foxAnimation.died && !lightOff.isLightOff)
         {
+            //lightOff.isLightOff = true;
             destroyRock = true;
             Destroy(gameObject);
+            foxMove.isRockDestroy = false;
         }
+        //if (this.transform.position.y < 21.0f)
+        //{ 
+        //    destroyRock = true;
+        //    Destroy(gameObject, 5);
+        //    foxMove.isRockDestroy = false;
+        //}
+        
+
+        //if (rockSpawn.isRockRestart)
+        //{
+        //    rockSpawn.isRockRestart = true;
+        //    Destroy(gameObject);
+        //    destroyRock = true;
+        //}
     }
+
+    //IEnumerator Again()
+    //{
+    //    yield return new WaitForSeconds(0.1f);
+    //    DestroyObjectDelayed();
+    //}
+
+    //void DestroyObjectDelayed()
+    //{
+    //    // Kills the game object in 1 second after loading the object
+    //    Destroy(gameObject, 3);
+    //    destroyRock = true;
+    //    foxMove.isRockDestroy = false;
+    //}
 }

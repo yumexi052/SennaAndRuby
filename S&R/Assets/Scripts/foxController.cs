@@ -18,6 +18,7 @@ public class foxController : MonoBehaviour
 
     Vector3 velocity;
     bool isGrounded;
+    private Vector3 rotationDirection;
 
     // Update is called once per frame
     void Update()
@@ -59,5 +60,7 @@ public class foxController : MonoBehaviour
         velocity.y += gravity * Time.deltaTime;
 
         controller.Move(velocity * Time.deltaTime);
+        rotationDirection = new Vector3(0, x, 0);
+        transform.Rotate(this.rotationDirection);
     }
 }

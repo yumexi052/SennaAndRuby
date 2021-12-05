@@ -11,6 +11,7 @@ TagManager:
   - TipsParticle
   - TrapParticle
   - Arrow
+  - Sun
   layers:
   - Default
   - TransparentFX
