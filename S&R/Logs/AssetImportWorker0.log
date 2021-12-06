@@ -1,378 +1,152 @@
 Using pre-set license
 Built from '2020.3/staging' branch; Version is '2020.3.21f1 (a38c86f6690f) revision 10718342'; Using compiler version '192528614'; Build Type 'Release'
-OS: 'Windows 10 Home Single Language; OS build 19042.1348; Version 2009; 64bit' Language: 'en' Physical Memory: 8013 MB
+OS: 'Windows 10 Home Single Language; OS build 19042.1348; Version 2009; 64bit' Language: 'en' Physical Memory: 8036 MB
 BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
 
 COMMAND LINE ARGUMENTS:
-D:\2020.3.21f1\Editor\Unity.exe
+C:\Program Files\Unity\Hub\Editor\2020.3.21f1\Editor\Unity.exe
 -adb2
 -batchMode
 -noUpm
 -name
 AssetImportWorker0
 -projectPath
-C:/Users/Hui Ru/Documents/Goh Hui Ru/Goh Hui Ru/Year3/Sem 2/Game Assignment/SennaAndRuby/S&R
+C:/Users/yikch/Documents/GitHub/SennaAndRuby/S&R
 -logFile
 Logs/AssetImportWorker0.log
 -srvPort
-51648
-Successfully changed project path to: C:/Users/Hui Ru/Documents/Goh Hui Ru/Goh Hui Ru/Year3/Sem 2/Game Assignment/SennaAndRuby/S&R
-C:/Users/Hui Ru/Documents/Goh Hui Ru/Goh Hui Ru/Year3/Sem 2/Game Assignment/SennaAndRuby/S&R
+53488
+Successfully changed project path to: C:/Users/yikch/Documents/GitHub/SennaAndRuby/S&R
+C:/Users/yikch/Documents/GitHub/SennaAndRuby/S&R
 Using Asset Import Pipeline V2.
-Refreshing native plugins compatible for Editor in 52.69 ms, found 4 plugins.
+Refreshing native plugins compatible for Editor in 71.67 ms, found 4 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2020.3.21f1 (a38c86f6690f)
-[Subsystems] Discovering subsystems at path D:/2020.3.21f1/Editor/Data/Resources/UnitySubsystems
-[Subsystems] Discovering subsystems at path C:/Users/Hui Ru/Documents/Goh Hui Ru/Goh Hui Ru/Year3/Sem 2/Game Assignment/SennaAndRuby/S&R/Assets
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.21f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/yikch/Documents/GitHub/SennaAndRuby/S&R/Assets
 GfxDevice: creating device client; threaded=0
 Direct3D:
     Version:  Direct3D 11.0 [level 11.1]
-    Renderer: NVIDIA GeForce GTX 1650 Ti with Max-Q Design (ID=0x1f95)
+    Renderer: NVIDIA GeForce GTX 1650 (ID=0x1f91)
     Vendor:   
     VRAM:     3962 MB
-    Driver:   27.21.14.6221
+    Driver:   30.0.14.7141
 Initialize mono
-Mono path[0] = 'D:/2020.3.21f1/Editor/Data/Managed'
-Mono path[1] = 'D:/2020.3.21f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
-Mono config path = 'D:/2020.3.21f1/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56668
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.21f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.21f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.21f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56616
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
-Register platform support module: D:/2020.3.21f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.000855 seconds.
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.21f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.21f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.002972 seconds.
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 44.94 ms, found 4 plugins.
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 60.48 ms, found 4 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.313 seconds
+- Completed reload, in  2.418 seconds
 Domain Reload Profiling:
-	ReloadAssembly (1313ms)
-		BeginReloadAssembly (46ms)
+	ReloadAssembly (2418ms)
+		BeginReloadAssembly (63ms)
 			ExecutionOrderSort (0ms)
 			DisableScriptedObjects (0ms)
 			BackupInstance (0ms)
 			ReleaseScriptingObjects (0ms)
 			CreateAndSetChildDomain (1ms)
-		EndReloadAssembly (383ms)
-			LoadAssemblies (45ms)
+		EndReloadAssembly (522ms)
+			LoadAssemblies (61ms)
 			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (139ms)
+			SetupTypeCache (175ms)
 			ReleaseScriptCaches (0ms)
-			RebuildScriptCaches (25ms)
-			SetupLoadedEditorAssemblies (144ms)
+			RebuildScriptCaches (36ms)
+			SetupLoadedEditorAssemblies (200ms)
 				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (3ms)
+				InitializePlatformSupportModulesInManaged (6ms)
 				SetLoadedEditorAssemblies (0ms)
-				RefreshPlugins (45ms)
-				BeforeProcessingInitializeOnLoad (7ms)
-				ProcessInitializeOnLoadAttributes (65ms)
-				ProcessInitializeOnLoadMethodAttributes (24ms)
+				RefreshPlugins (61ms)
+				BeforeProcessingInitializeOnLoad (20ms)
+				ProcessInitializeOnLoadAttributes (83ms)
+				ProcessInitializeOnLoadMethodAttributes (29ms)
 				AfterProcessingInitializeOnLoad (0ms)
 				EditorAssembliesLoaded (0ms)
 			ExecutionOrderSort2 (0ms)
 			AwakeInstancesAfterBackupRestoration (0ms)
 Platform modules already initialized, skipping
 Registering precompiled user dll's ...
-Registered in 0.009407 seconds.
+Registered in 0.012980 seconds.
 Begin MonoManager ReloadAssembly
-Symbol file data-0000025B0D985BB0 doesn't match image C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+Symbol file data-000002957B5CCBE0 doesn't match image C:\Users\yikch\Documents\GitHub\SennaAndRuby\S&R\Library\ScriptAssemblies\Unity.Services.Core.Editor.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000025B0D3B4020 doesn't match image C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\ScriptAssemblies\Cinemachine.dll
+Symbol file data-000002957B2AA030 doesn't match image C:\Users\yikch\Documents\GitHub\SennaAndRuby\S&R\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000025B0C70B230 doesn't match image C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\ScriptAssemblies\com.unity.cinemachine.editor.dll
+Symbol file data-000002957B336080 doesn't match image C:\Users\yikch\Documents\GitHub\SennaAndRuby\S&R\Library\ScriptAssemblies\Unity.Postprocessing.Runtime.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000025B0DB7F020 doesn't match image C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+Symbol file data-000002957B336080 doesn't match image C:\Users\yikch\Documents\GitHub\SennaAndRuby\S&R\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000025B080B7020 doesn't match image C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\ScriptAssemblies\Unity.Postprocessing.Editor.dll
+Symbol file data-000002957B7F99B0 doesn't match image C:\Users\yikch\Documents\GitHub\SennaAndRuby\S&R\Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000025B0C684010 doesn't match image C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\ScriptAssemblies\Unity.PlasticSCM.Editor.dll
+Symbol file data-00000293E03A8830 doesn't match image C:\Users\yikch\Documents\GitHub\SennaAndRuby\S&R\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000293E03C5020 doesn't match image C:\Users\yikch\Documents\GitHub\SennaAndRuby\S&R\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002957B336080 doesn't match image C:\Users\yikch\Documents\GitHub\SennaAndRuby\S&R\Library\ScriptAssemblies\Unity.Timeline.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002957B684E20 doesn't match image C:\Users\yikch\Documents\GitHub\SennaAndRuby\S&R\Library\ScriptAssemblies\Unity.TextMeshPro.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002957B336080 doesn't match image C:\Users\yikch\Documents\GitHub\SennaAndRuby\S&R\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002957B5CCBE0 doesn't match image C:\Users\yikch\Documents\GitHub\SennaAndRuby\S&R\Library\ScriptAssemblies\UnityEditor.UI.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002957B5CCBE0 doesn't match image C:\Users\yikch\Documents\GitHub\SennaAndRuby\S&R\Library\ScriptAssemblies\Unity.Rider.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000293E042DA30 doesn't match image C:\Users\yikch\Documents\GitHub\SennaAndRuby\S&R\Library\ScriptAssemblies\UnityEngine.UI.dll
 Symbol file LoadedFromMemory is not a mono symbol file
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.60 ms, found 4 plugins.
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.78 ms, found 4 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  0.839 seconds
+- Completed reload, in  1.748 seconds
 Domain Reload Profiling:
-	ReloadAssembly (840ms)
-		BeginReloadAssembly (123ms)
+	ReloadAssembly (1749ms)
+		BeginReloadAssembly (380ms)
 			ExecutionOrderSort (0ms)
-			DisableScriptedObjects (4ms)
+			DisableScriptedObjects (7ms)
 			BackupInstance (0ms)
 			ReleaseScriptingObjects (0ms)
-			CreateAndSetChildDomain (15ms)
-		EndReloadAssembly (672ms)
-			LoadAssemblies (75ms)
+			CreateAndSetChildDomain (21ms)
+		EndReloadAssembly (1284ms)
+			LoadAssemblies (124ms)
 			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (232ms)
-			ReleaseScriptCaches (1ms)
-			RebuildScriptCaches (39ms)
-			SetupLoadedEditorAssemblies (252ms)
+			SetupTypeCache (378ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (63ms)
+			SetupLoadedEditorAssemblies (625ms)
 				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (4ms)
-				SetLoadedEditorAssemblies (0ms)
-				RefreshPlugins (1ms)
-				BeforeProcessingInitializeOnLoad (45ms)
-				ProcessInitializeOnLoadAttributes (194ms)
-				ProcessInitializeOnLoadMethodAttributes (7ms)
-				AfterProcessingInitializeOnLoad (2ms)
-				EditorAssembliesLoaded (0ms)
-			ExecutionOrderSort2 (0ms)
-			AwakeInstancesAfterBackupRestoration (5ms)
-Platform modules already initialized, skipping
-========================================================================
-Worker process is ready to serve import requests
-Launched and connected shader compiler UnityShaderCompiler.exe after 0.03 seconds
-Refreshing native plugins compatible for Editor in 0.60 ms, found 4 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1808 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 163.8 MB.
-System memory in use after: 163.8 MB.
-
-Unloading 38 unused Assets to reduce memory usage. Loaded Objects now: 2303.
-Total: 2.693200 ms (FindLiveObjects: 0.189900 ms CreateObjectMapping: 0.058100 ms MarkObjects: 2.311400 ms  DeleteObjects: 0.133200 ms)
-
-AssetImportParameters requested are different than current active one (requested -> active):
-  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
-  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
-  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
-  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
-  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
-  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
-  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
-  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-========================================================================
-Received Import Request.
-  path: Assets/Scenes/TutorialScene.unity
-  artifactKey: Guid(ca9a40619589aa94f9e447d2d1f7cc0d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scenes/TutorialScene.unity using Guid(ca9a40619589aa94f9e447d2d1f7cc0d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7efc76c28ec76c451a38ab5edec006ec') in 0.076023 seconds 
-  Import took 0.098107 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 30.374689 seconds.
-  path: Assets/Scenes/Level1.unity
-  artifactKey: Guid(cf9694fd7c7dc3f4c88035f6ddcf4d58) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scenes/Level1.unity using Guid(cf9694fd7c7dc3f4c88035f6ddcf4d58) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ea18e0513f0594b6b3943111e91816fd') in 0.003007 seconds 
-  Import took 0.007617 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 78.214297 seconds.
-  path: Assets/Scenes/TutorialScene.unity
-  artifactKey: Guid(ca9a40619589aa94f9e447d2d1f7cc0d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scenes/TutorialScene.unity using Guid(ca9a40619589aa94f9e447d2d1f7cc0d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cd03e821b6864639ef22ba505e59e475') in 0.003162 seconds 
-  Import took 0.008508 seconds .
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.011046 seconds.
-Begin MonoManager ReloadAssembly
-Symbol file data-0000025B080F98D0 doesn't match image C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000025B0849B030 doesn't match image C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\ScriptAssemblies\Cinemachine.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000025B0D34E010 doesn't match image C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\ScriptAssemblies\com.unity.cinemachine.editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000025B07E86520 doesn't match image C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000025B0E086020 doesn't match image C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\ScriptAssemblies\Unity.Postprocessing.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000025B0CDD4010 doesn't match image C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\ScriptAssemblies\Unity.PlasticSCM.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 1.60 ms, found 4 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  1.426 seconds
-Domain Reload Profiling:
-	ReloadAssembly (1427ms)
-		BeginReloadAssembly (175ms)
-			ExecutionOrderSort (0ms)
-			DisableScriptedObjects (4ms)
-			BackupInstance (0ms)
-			ReleaseScriptingObjects (0ms)
-			CreateAndSetChildDomain (66ms)
-		EndReloadAssembly (1168ms)
-			LoadAssemblies (149ms)
-			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (443ms)
-			ReleaseScriptCaches (1ms)
-			RebuildScriptCaches (59ms)
-			SetupLoadedEditorAssemblies (392ms)
-				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (9ms)
+				InitializePlatformSupportModulesInManaged (6ms)
 				SetLoadedEditorAssemblies (1ms)
-				RefreshPlugins (2ms)
-				BeforeProcessingInitializeOnLoad (74ms)
-				ProcessInitializeOnLoadAttributes (292ms)
-				ProcessInitializeOnLoadMethodAttributes (11ms)
-				AfterProcessingInitializeOnLoad (3ms)
-				EditorAssembliesLoaded (0ms)
-			ExecutionOrderSort2 (0ms)
-			AwakeInstancesAfterBackupRestoration (8ms)
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 1.51 ms, found 4 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1760 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 159.4 MB.
-System memory in use after: 159.5 MB.
-
-Unloading 33 unused Assets to reduce memory usage. Loaded Objects now: 2305.
-Total: 6.210300 ms (FindLiveObjects: 1.068600 ms CreateObjectMapping: 0.190400 ms MarkObjects: 4.838800 ms  DeleteObjects: 0.108800 ms)
-
-AssetImportParameters requested are different than current active one (requested -> active):
-  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
-  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
-  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
-  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
-  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
-  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
-  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
-  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-========================================================================
-Received Import Request.
-  Time since last request: 168.200533 seconds.
-  path: Assets/Enviroments/SkythianCat/Glowing_Forest/Materials/Water.mat
-  artifactKey: Guid(a5e5948ac985ba54381b403abb6f9b3a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Enviroments/SkythianCat/Glowing_Forest/Materials/Water.mat using Guid(a5e5948ac985ba54381b403abb6f9b3a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '72ce0f26a630c887551aa328a8263c14') in 0.264901 seconds 
-  Import took 0.267645 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000310 seconds.
-  path: Assets/Enviroments/SkythianCat/Glowing_Forest/Materials/Water_wave.mat
-  artifactKey: Guid(79eaef812c9bef1409c3a4ad3fdee804) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Enviroments/SkythianCat/Glowing_Forest/Materials/Water_wave.mat using Guid(79eaef812c9bef1409c3a4ad3fdee804) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3a6c1c9dd66647c472e5b241c4d3feee') in 0.012075 seconds 
-  Import took 0.015407 seconds .
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.011372 seconds.
-Begin MonoManager ReloadAssembly
-Symbol file data-0000025B114C8C00 doesn't match image C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000025B0849B030 doesn't match image C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\ScriptAssemblies\Cinemachine.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000025B34D0D020 doesn't match image C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\ScriptAssemblies\com.unity.cinemachine.editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000025B12C0F020 doesn't match image C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000025B1145F080 doesn't match image C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\ScriptAssemblies\Unity.Postprocessing.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000025B0D2A6010 doesn't match image C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\ScriptAssemblies\Unity.PlasticSCM.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.89 ms, found 4 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  1.472 seconds
-Domain Reload Profiling:
-	ReloadAssembly (1473ms)
-		BeginReloadAssembly (180ms)
-			ExecutionOrderSort (0ms)
-			DisableScriptedObjects (6ms)
-			BackupInstance (0ms)
-			ReleaseScriptingObjects (0ms)
-			CreateAndSetChildDomain (72ms)
-		EndReloadAssembly (1207ms)
-			LoadAssemblies (161ms)
-			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (466ms)
-			ReleaseScriptCaches (3ms)
-			RebuildScriptCaches (59ms)
-			SetupLoadedEditorAssemblies (390ms)
-				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (6ms)
-				SetLoadedEditorAssemblies (0ms)
 				RefreshPlugins (1ms)
-				BeforeProcessingInitializeOnLoad (68ms)
-				ProcessInitializeOnLoadAttributes (298ms)
-				ProcessInitializeOnLoadMethodAttributes (12ms)
-				AfterProcessingInitializeOnLoad (3ms)
+				BeforeProcessingInitializeOnLoad (300ms)
+				ProcessInitializeOnLoadAttributes (299ms)
+				ProcessInitializeOnLoadMethodAttributes (9ms)
+				AfterProcessingInitializeOnLoad (10ms)
 				EditorAssembliesLoaded (0ms)
-			ExecutionOrderSort2 (0ms)
-			AwakeInstancesAfterBackupRestoration (8ms)
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.74 ms, found 4 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1760 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 162.8 MB.
-System memory in use after: 162.9 MB.
-
-Unloading 33 unused Assets to reduce memory usage. Loaded Objects now: 2348.
-Total: 4.862400 ms (FindLiveObjects: 0.330100 ms CreateObjectMapping: 0.092300 ms MarkObjects: 4.358500 ms  DeleteObjects: 0.078800 ms)
-
-AssetImportParameters requested are different than current active one (requested -> active):
-  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
-  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
-  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
-  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
-  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
-  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
-  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
-  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.010549 seconds.
-Begin MonoManager ReloadAssembly
-Symbol file data-0000025B114A6A30 doesn't match image C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000025B0849B030 doesn't match image C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\ScriptAssemblies\Cinemachine.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000025B12B928E0 doesn't match image C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\ScriptAssemblies\com.unity.cinemachine.editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000025B0E011220 doesn't match image C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000025B0E3AA020 doesn't match image C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\ScriptAssemblies\Unity.Postprocessing.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000025B0829FEB0 doesn't match image C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\ScriptAssemblies\Unity.PlasticSCM.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.87 ms, found 4 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  1.341 seconds
-Domain Reload Profiling:
-	ReloadAssembly (1341ms)
-		BeginReloadAssembly (170ms)
-			ExecutionOrderSort (0ms)
-			DisableScriptedObjects (6ms)
-			BackupInstance (0ms)
-			ReleaseScriptingObjects (0ms)
-			CreateAndSetChildDomain (63ms)
-		EndReloadAssembly (1095ms)
-			LoadAssemblies (139ms)
-			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (430ms)
-			ReleaseScriptCaches (1ms)
-			RebuildScriptCaches (58ms)
-			SetupLoadedEditorAssemblies (362ms)
-				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (6ms)
-				SetLoadedEditorAssemblies (0ms)
-				RefreshPlugins (1ms)
-				BeforeProcessingInitializeOnLoad (62ms)
-				ProcessInitializeOnLoadAttributes (278ms)
-				ProcessInitializeOnLoadMethodAttributes (10ms)
-				AfterProcessingInitializeOnLoad (4ms)
-				EditorAssembliesLoaded (1ms)
 			ExecutionOrderSort2 (0ms)
 			AwakeInstancesAfterBackupRestoration (7ms)
 Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.69 ms, found 4 plugins.
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.05 seconds
+Refreshing native plugins compatible for Editor in 1.25 ms, found 4 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1760 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 162.8 MB.
-System memory in use after: 162.9 MB.
+Unloading 1808 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 165.5 MB.
+System memory in use after: 165.6 MB.
 
-Unloading 33 unused Assets to reduce memory usage. Loaded Objects now: 2350.
-Total: 5.064100 ms (FindLiveObjects: 1.038500 ms CreateObjectMapping: 0.196900 ms MarkObjects: 3.675300 ms  DeleteObjects: 0.148400 ms)
+Unloading 38 unused Assets to reduce memory usage. Loaded Objects now: 2303.
+Total: 3.108100 ms (FindLiveObjects: 0.200000 ms CreateObjectMapping: 0.079500 ms MarkObjects: 2.716100 ms  DeleteObjects: 0.111400 ms)
 
 AssetImportParameters requested are different than current active one (requested -> active):
   custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
@@ -381,626 +155,97 @@ AssetImportParameters requested are different than current active one (requested
   custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
   custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
   custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
   custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
   custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
 ========================================================================
 Received Import Request.
-  Time since last request: 426.848683 seconds.
-  path: Assets/Animator/foxController.controller
-  artifactKey: Guid(abccb74e5f9011d4ea48afafca11f054) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Animator/foxController.controller using Guid(abccb74e5f9011d4ea48afafca11f054) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7d674dd9c5ca61160149c4d5f9972710') in 0.065217 seconds 
-  Import took 0.073988 seconds .
+  path: Assets/Testing1.unity
+  artifactKey: Guid(371d262287fab3540b246a9b938a7584) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Testing1.unity using Guid(371d262287fab3540b246a9b938a7584) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '819e5e13ffa87c401e2f751461fe4315') in 0.013641 seconds 
+  Import took 0.017192 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 15.826466 seconds.
+  path: Assets/New Terrain 1.asset
+  artifactKey: Guid(a58884b49e24df243a63febedfd526bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Terrain 1.asset using Guid(a58884b49e24df243a63febedfd526bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9225bb73ec52d343108808c2b419a198') in 0.370260 seconds 
+  Import took 0.380165 seconds .
 
 ========================================================================
 Received Prepare
 Registering precompiled user dll's ...
-Registered in 0.010632 seconds.
+Registered in 0.010996 seconds.
 Begin MonoManager ReloadAssembly
-Symbol file data-0000025B10D6C960 doesn't match image C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+Symbol file data-000002957BA74030 doesn't match image C:\Users\yikch\Documents\GitHub\SennaAndRuby\S&R\Library\ScriptAssemblies\Unity.Services.Core.Editor.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000025B0849B030 doesn't match image C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\ScriptAssemblies\Cinemachine.dll
+Symbol file data-000002957B4EC010 doesn't match image C:\Users\yikch\Documents\GitHub\SennaAndRuby\S&R\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000025B36F9A020 doesn't match image C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\ScriptAssemblies\com.unity.cinemachine.editor.dll
+Symbol file data-000002957B7DB030 doesn't match image C:\Users\yikch\Documents\GitHub\SennaAndRuby\S&R\Library\ScriptAssemblies\Unity.Postprocessing.Runtime.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000025B0D3C0040 doesn't match image C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+Symbol file data-00000293E406D110 doesn't match image C:\Users\yikch\Documents\GitHub\SennaAndRuby\S&R\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000025B13DBA020 doesn't match image C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\ScriptAssemblies\Unity.Postprocessing.Editor.dll
+Symbol file data-00000293E0830020 doesn't match image C:\Users\yikch\Documents\GitHub\SennaAndRuby\S&R\Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000025B35E1FEA0 doesn't match image C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\ScriptAssemblies\Unity.PlasticSCM.Editor.dll
+Symbol file data-000002957B7DB030 doesn't match image C:\Users\yikch\Documents\GitHub\SennaAndRuby\S&R\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000293E0371C20 doesn't match image C:\Users\yikch\Documents\GitHub\SennaAndRuby\S&R\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000293E1414030 doesn't match image C:\Users\yikch\Documents\GitHub\SennaAndRuby\S&R\Library\ScriptAssemblies\Unity.Timeline.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000293E6E7A870 doesn't match image C:\Users\yikch\Documents\GitHub\SennaAndRuby\S&R\Library\ScriptAssemblies\Unity.TextMeshPro.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000293E09C9020 doesn't match image C:\Users\yikch\Documents\GitHub\SennaAndRuby\S&R\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000293E0830020 doesn't match image C:\Users\yikch\Documents\GitHub\SennaAndRuby\S&R\Library\ScriptAssemblies\UnityEditor.UI.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002957BA74030 doesn't match image C:\Users\yikch\Documents\GitHub\SennaAndRuby\S&R\Library\ScriptAssemblies\Unity.Rider.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000293E02F0020 doesn't match image C:\Users\yikch\Documents\GitHub\SennaAndRuby\S&R\Library\ScriptAssemblies\UnityEngine.UI.dll
 Symbol file LoadedFromMemory is not a mono symbol file
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.86 ms, found 4 plugins.
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.65 ms, found 4 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.429 seconds
+- Completed reload, in  1.093 seconds
 Domain Reload Profiling:
-	ReloadAssembly (1430ms)
-		BeginReloadAssembly (163ms)
-			ExecutionOrderSort (0ms)
-			DisableScriptedObjects (5ms)
-			BackupInstance (0ms)
-			ReleaseScriptingObjects (0ms)
-			CreateAndSetChildDomain (64ms)
-		EndReloadAssembly (1183ms)
-			LoadAssemblies (155ms)
-			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (462ms)
-			ReleaseScriptCaches (2ms)
-			RebuildScriptCaches (57ms)
-			SetupLoadedEditorAssemblies (368ms)
-				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (6ms)
-				SetLoadedEditorAssemblies (0ms)
-				RefreshPlugins (1ms)
-				BeforeProcessingInitializeOnLoad (76ms)
-				ProcessInitializeOnLoadAttributes (272ms)
-				ProcessInitializeOnLoadMethodAttributes (10ms)
-				AfterProcessingInitializeOnLoad (2ms)
-				EditorAssembliesLoaded (0ms)
-			ExecutionOrderSort2 (0ms)
-			AwakeInstancesAfterBackupRestoration (9ms)
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 1.20 ms, found 4 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1760 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 162.9 MB.
-System memory in use after: 163.0 MB.
-
-Unloading 33 unused Assets to reduce memory usage. Loaded Objects now: 2352.
-Total: 5.205500 ms (FindLiveObjects: 0.295000 ms CreateObjectMapping: 0.106800 ms MarkObjects: 4.727200 ms  DeleteObjects: 0.075300 ms)
-
-AssetImportParameters requested are different than current active one (requested -> active):
-  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
-  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
-  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
-  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
-  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
-  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
-  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
-  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.012428 seconds.
-Begin MonoManager ReloadAssembly
-Symbol file data-0000025B3536FB00 doesn't match image C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000025B0849B030 doesn't match image C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\ScriptAssemblies\Cinemachine.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000025B36F9A020 doesn't match image C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\ScriptAssemblies\com.unity.cinemachine.editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000025B114494C0 doesn't match image C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000025B13DBA020 doesn't match image C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\ScriptAssemblies\Unity.Postprocessing.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000025B13E9A030 doesn't match image C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\ScriptAssemblies\Unity.PlasticSCM.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 1.03 ms, found 4 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  1.361 seconds
-Domain Reload Profiling:
-	ReloadAssembly (1361ms)
-		BeginReloadAssembly (151ms)
-			ExecutionOrderSort (0ms)
-			DisableScriptedObjects (6ms)
-			BackupInstance (0ms)
-			ReleaseScriptingObjects (0ms)
-			CreateAndSetChildDomain (55ms)
-		EndReloadAssembly (1117ms)
-			LoadAssemblies (136ms)
-			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (419ms)
-			ReleaseScriptCaches (1ms)
-			RebuildScriptCaches (62ms)
-			SetupLoadedEditorAssemblies (386ms)
-				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (5ms)
-				SetLoadedEditorAssemblies (1ms)
-				RefreshPlugins (1ms)
-				BeforeProcessingInitializeOnLoad (63ms)
-				ProcessInitializeOnLoadAttributes (300ms)
-				ProcessInitializeOnLoadMethodAttributes (13ms)
-				AfterProcessingInitializeOnLoad (2ms)
-				EditorAssembliesLoaded (0ms)
-			ExecutionOrderSort2 (0ms)
-			AwakeInstancesAfterBackupRestoration (10ms)
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 1.81 ms, found 4 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1760 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 162.9 MB.
-System memory in use after: 163.0 MB.
-
-Unloading 33 unused Assets to reduce memory usage. Loaded Objects now: 2354.
-Total: 4.033700 ms (FindLiveObjects: 0.255200 ms CreateObjectMapping: 0.117000 ms MarkObjects: 3.448300 ms  DeleteObjects: 0.211200 ms)
-
-AssetImportParameters requested are different than current active one (requested -> active):
-  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
-  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
-  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
-  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
-  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
-  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
-  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
-  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-========================================================================
-Received Import Request.
-  Time since last request: 222.569251 seconds.
-  path: Assets/DungeonTraps/Trap/Materials/Tex_Trap03.mat
-  artifactKey: Guid(e21ae71b25a94824c9b7d31722c1328d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/DungeonTraps/Trap/Materials/Tex_Trap03.mat using Guid(e21ae71b25a94824c9b7d31722c1328d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e4cb3e7a741c28ed99d20fcbb074529c') in 0.072876 seconds 
-  Import took 0.076284 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000318 seconds.
-  path: Assets/Enviroments/Fantasy Forest Environment Free Sample/Materials/tree_branches.mat
-  artifactKey: Guid(16a185093c7e02d40a49265c23c74417) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Enviroments/Fantasy Forest Environment Free Sample/Materials/tree_branches.mat using Guid(16a185093c7e02d40a49265c23c74417) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '93a258d05892e30ffe9ff10e6a0a7158') in 0.317798 seconds 
-  Import took 0.321781 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000408 seconds.
-  path: Assets/DungeonTraps/Effect/Materials/Tex_Eff_Smoke.mat
-  artifactKey: Guid(3479abe40889881469c8d3349ec00325) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/DungeonTraps/Effect/Materials/Tex_Eff_Smoke.mat using Guid(3479abe40889881469c8d3349ec00325) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '908e2eea70d8c03655472d4b1809b34f') in 0.033599 seconds 
-  Import took 0.037655 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000393 seconds.
-  path: Assets/DungeonTraps/Effect/Materials/Tex_Eff_Fire.mat
-  artifactKey: Guid(c6ba4799841e15244b9402d73b74ba24) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/DungeonTraps/Effect/Materials/Tex_Eff_Fire.mat using Guid(c6ba4799841e15244b9402d73b74ba24) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '50b6ee3ca5dfcabff1bb306c17faebce') in 0.013120 seconds 
-  Import took 0.016916 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000346 seconds.
-  path: Assets/Enviroments/SkythianCat/Glowing_Forest/Materials/Stump_tip.mat
-  artifactKey: Guid(549e88fcc1f31da44b2fe9da79c561f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Enviroments/SkythianCat/Glowing_Forest/Materials/Stump_tip.mat using Guid(549e88fcc1f31da44b2fe9da79c561f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '91415fd7ec7f0b47cf016cc524d0785c') in 0.014708 seconds 
-  Import took 0.018892 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000463 seconds.
-  path: Assets/DungeonTraps/Trap/Materials/Tex_Trap02.mat
-  artifactKey: Guid(0bf6b0d31cf73b8479090d219f8b9da1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/DungeonTraps/Trap/Materials/Tex_Trap02.mat using Guid(0bf6b0d31cf73b8479090d219f8b9da1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '543b1943a7404eb7fd60e1d1a70f7975') in 0.013819 seconds 
-  Import took 0.017957 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000257 seconds.
-  path: Assets/DungeonTraps/Trap/Materials/Tex_DungeonTrap.mat
-  artifactKey: Guid(c31938330139d2d42876f7993371276c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/DungeonTraps/Trap/Materials/Tex_DungeonTrap.mat using Guid(c31938330139d2d42876f7993371276c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '69073d44c8b48b14a1632c98b2f16194') in 0.022081 seconds 
-  Import took 0.025861 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000300 seconds.
-  path: Assets/DungeonTraps/Trap/Materials/Tex_Trap01.mat
-  artifactKey: Guid(f002e63151d71af4680557e0edddceef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/DungeonTraps/Trap/Materials/Tex_Trap01.mat using Guid(f002e63151d71af4680557e0edddceef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6b5b4d88800196f749e59c286ac58370') in 0.023406 seconds 
-  Import took 0.026850 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 9.473311 seconds.
-  path: Assets/Enviroments/SkythianCat/Glowing_Forest/Materials/Skybox_NIGHT.mat
-  artifactKey: Guid(538e81a3dd9acdc428c9dcefcbb6f566) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Enviroments/SkythianCat/Glowing_Forest/Materials/Skybox_NIGHT.mat using Guid(538e81a3dd9acdc428c9dcefcbb6f566) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5c74c5554fd6b1f0f44b30b7ae35f5eb') in 0.338715 seconds 
-  Import took 0.341318 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000264 seconds.
-  path: Assets/Enviroments/Fantasy Forest Environment Free Sample/Materials/skyMaterial.mat
-  artifactKey: Guid(cb20c710b0721ef4d88cabbec2aa4da7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Enviroments/Fantasy Forest Environment Free Sample/Materials/skyMaterial.mat using Guid(cb20c710b0721ef4d88cabbec2aa4da7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8dee6d95fd766fb9e260234d4b13bdeb') in 0.018918 seconds 
-  Import took 0.021707 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.992947 seconds.
-  path: Assets/Enviroments/SkythianCat/Glowing_Forest/Materials/Skybox_DAY.mat
-  artifactKey: Guid(5c378e2ef25ab334a88daa47d032b24b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Enviroments/SkythianCat/Glowing_Forest/Materials/Skybox_DAY.mat using Guid(5c378e2ef25ab334a88daa47d032b24b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ce70a228afd51a8833000001aa1e7b4a') in 0.019412 seconds 
-  Import took 0.022863 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 2.466127 seconds.
-  path: Assets/Toby Fredson/Rocky Hills Environment - Light Pack/Materials/RHEF_SpruceTrunk_Nature.mat
-  artifactKey: Guid(207ff383e28528949bc87194833679ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Toby Fredson/Rocky Hills Environment - Light Pack/Materials/RHEF_SpruceTrunk_Nature.mat using Guid(207ff383e28528949bc87194833679ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3731b26c074424f61e42f312fe279a55') in 0.010449 seconds 
-  Import took 0.013403 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000207 seconds.
-  path: Assets/Enviroments/Toby Fredson/Rocky Hills Environment - Light Pack/Materials/RHEF_SpruceTrunk_Nature.mat
-  artifactKey: Guid(b6b55900a82122d4cac45581a7cd97db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Enviroments/Toby Fredson/Rocky Hills Environment - Light Pack/Materials/RHEF_SpruceTrunk_Nature.mat using Guid(b6b55900a82122d4cac45581a7cd97db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '294e99dabfc72a8e82001a86fdf6248d') in 0.009713 seconds 
-  Import took 0.013375 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.702712 seconds.
-  path: Assets/Toby Fredson/Rocky Hills Environment - Light Pack/Materials/RHEF_SpruceTrunk.mat
-  artifactKey: Guid(1077d8bfc2e030540ac0d0cea61ba937) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Toby Fredson/Rocky Hills Environment - Light Pack/Materials/RHEF_SpruceTrunk.mat using Guid(1077d8bfc2e030540ac0d0cea61ba937) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4b09c833b807afe9c502f36db338e899') in 0.038210 seconds 
-  Import took 0.041533 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000220 seconds.
-  path: Assets/Enviroments/Toby Fredson/Rocky Hills Environment - Light Pack/Materials/RHEF_SpruceTrunk.mat
-  artifactKey: Guid(f7fe326e3e678744aa884039f16d78ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Enviroments/Toby Fredson/Rocky Hills Environment - Light Pack/Materials/RHEF_SpruceTrunk.mat using Guid(f7fe326e3e678744aa884039f16d78ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '78f42bdbb557b4af4fd09338a659e64e') in 0.017167 seconds 
-  Import took 0.020545 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 3.100709 seconds.
-  path: Assets/Toby Fredson/Rocky Hills Environment - Light Pack/Materials/RHEF_SpruceLeaves_Nature.mat
-  artifactKey: Guid(5addad89ff1ca684ca8435c532f96651) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Toby Fredson/Rocky Hills Environment - Light Pack/Materials/RHEF_SpruceLeaves_Nature.mat using Guid(5addad89ff1ca684ca8435c532f96651) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd20871d425af6177c984ad6ff640e704') in 0.014653 seconds 
-  Import took 0.017530 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000233 seconds.
-  path: Assets/Enviroments/Toby Fredson/Rocky Hills Environment - Light Pack/Materials/RHEF_SpruceLeaves_Nature.mat
-  artifactKey: Guid(36ede47c7a6a4504c8bb7ccacbb8582b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Enviroments/Toby Fredson/Rocky Hills Environment - Light Pack/Materials/RHEF_SpruceLeaves_Nature.mat using Guid(36ede47c7a6a4504c8bb7ccacbb8582b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5b56f11385008ba739d83640cd373b87') in 0.016935 seconds 
-  Import took 0.020852 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.045287 seconds.
-  path: Assets/Toby Fredson/Rocky Hills Environment - Light Pack/Materials/RHEF_SpruceLeaves.mat
-  artifactKey: Guid(7775e0e095129814e90b6a77ced7b888) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Toby Fredson/Rocky Hills Environment - Light Pack/Materials/RHEF_SpruceLeaves.mat using Guid(7775e0e095129814e90b6a77ced7b888) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0f316b799820a28baa82465cc8934aa8') in 0.329786 seconds 
-  Import took 0.333056 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000344 seconds.
-  path: Assets/Enviroments/Toby Fredson/Rocky Hills Environment - Light Pack/Materials/RHEF_SpruceLeaves.mat
-  artifactKey: Guid(28303f4da9d2ff541832c09ea9121e76) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Enviroments/Toby Fredson/Rocky Hills Environment - Light Pack/Materials/RHEF_SpruceLeaves.mat using Guid(28303f4da9d2ff541832c09ea9121e76) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '47b6d5b6baa5f4199c975af1805b2946') in 0.013549 seconds 
-  Import took 0.016336 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.044470 seconds.
-  path: Assets/Toby Fredson/Rocky Hills Environment - Light Pack/Materials/RHEF_RockMediumC.mat
-  artifactKey: Guid(7ebbf896ab84c3a419ade6b7886c3900) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Toby Fredson/Rocky Hills Environment - Light Pack/Materials/RHEF_RockMediumC.mat using Guid(7ebbf896ab84c3a419ade6b7886c3900) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4e455f447e22544de782e420c193809b') in 0.091134 seconds 
-  Import took 0.097019 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000335 seconds.
-  path: Assets/Enviroments/Toby Fredson/Rocky Hills Environment - Light Pack/Materials/RHEF_RockMediumC.mat
-  artifactKey: Guid(8f52d028c029b574ca501879a81d8bfa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Enviroments/Toby Fredson/Rocky Hills Environment - Light Pack/Materials/RHEF_RockMediumC.mat using Guid(8f52d028c029b574ca501879a81d8bfa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a2619489f408032968409f3a954d708c') in 0.053426 seconds 
-  Import took 0.058664 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 2.685180 seconds.
-  path: Assets/Toby Fredson/Rocky Hills Environment - Light Pack/Materials/RHEF_RockMediumB_Mobile.mat
-  artifactKey: Guid(bc8dfe48d4d87e040931bbe4b7761799) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Toby Fredson/Rocky Hills Environment - Light Pack/Materials/RHEF_RockMediumB_Mobile.mat using Guid(bc8dfe48d4d87e040931bbe4b7761799) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cd5f610a51ab57cceb9cfe811ec17768') in 0.217571 seconds 
-  Import took 0.220885 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000593 seconds.
-  path: Assets/Enviroments/Toby Fredson/Rocky Hills Environment - Light Pack/Materials/RHEF_RockMediumB.mat
-  artifactKey: Guid(0a535cf27e7d7dd4d8857f6b49fbbea8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Enviroments/Toby Fredson/Rocky Hills Environment - Light Pack/Materials/RHEF_RockMediumB.mat using Guid(0a535cf27e7d7dd4d8857f6b49fbbea8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f4685c03087cf7bfcd084697ca980e2d') in 0.117435 seconds 
-  Import took 0.121414 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000244 seconds.
-  path: Assets/Enviroments/Toby Fredson/Rocky Hills Environment - Light Pack/Materials/RHEF_RockMediumB_Mobile.mat
-  artifactKey: Guid(ef58bab276304d94bb9a343ed340560c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Enviroments/Toby Fredson/Rocky Hills Environment - Light Pack/Materials/RHEF_RockMediumB_Mobile.mat using Guid(ef58bab276304d94bb9a343ed340560c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5a2efb495e230f5bd0c4ae9a325289ce') in 0.014097 seconds 
-  Import took 0.018001 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000592 seconds.
-  path: Assets/Toby Fredson/Rocky Hills Environment - Light Pack/Materials/RHEF_RockMediumB.mat
-  artifactKey: Guid(ba7c7a42dec9740428fb7f97e652cd15) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Toby Fredson/Rocky Hills Environment - Light Pack/Materials/RHEF_RockMediumB.mat using Guid(ba7c7a42dec9740428fb7f97e652cd15) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6a872a19f7aa19cbce867fb6b2167e66') in 0.047410 seconds 
-  Import took 0.051680 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.468645 seconds.
-  path: Assets/Enviroments/Toby Fredson/Rocky Hills Environment - Light Pack/Materials/RHEF_RockMediumA _Mobile.mat
-  artifactKey: Guid(07fc53a408f46fe4c8f16f3f168693b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Enviroments/Toby Fredson/Rocky Hills Environment - Light Pack/Materials/RHEF_RockMediumA _Mobile.mat using Guid(07fc53a408f46fe4c8f16f3f168693b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5eb98c9915b05ab4e326d95e8d84f17a') in 0.015380 seconds 
-  Import took 0.018579 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000253 seconds.
-  path: Assets/Toby Fredson/Rocky Hills Environment - Light Pack/Materials/RHEF_RockMediumA _Mobile.mat
-  artifactKey: Guid(be690e65ca79fd242b3c6c2cc3c3126c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Toby Fredson/Rocky Hills Environment - Light Pack/Materials/RHEF_RockMediumA _Mobile.mat using Guid(be690e65ca79fd242b3c6c2cc3c3126c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '690d02128212eb52ac1be3ea5440f038') in 0.012724 seconds 
-  Import took 0.016907 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.446472 seconds.
-  path: Assets/Toby Fredson/Rocky Hills Environment - Light Pack/Materials/RHEF_RockMediumA.mat
-  artifactKey: Guid(6e0b78477656f334abbb7d11db18fb74) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Toby Fredson/Rocky Hills Environment - Light Pack/Materials/RHEF_RockMediumA.mat using Guid(6e0b78477656f334abbb7d11db18fb74) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '657f98038fae479edbd071e015002567') in 0.038634 seconds 
-  Import took 0.041702 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000311 seconds.
-  path: Assets/Enviroments/Toby Fredson/Rocky Hills Environment - Light Pack/Materials/RHEF_RockMediumA.mat
-  artifactKey: Guid(f5c7d7069c1db5c4bb8cd140222a6823) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Enviroments/Toby Fredson/Rocky Hills Environment - Light Pack/Materials/RHEF_RockMediumA.mat using Guid(f5c7d7069c1db5c4bb8cd140222a6823) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0d5bcf34f3cffe994e0e0c831d281b6a') in 0.019217 seconds 
-  Import took 0.025569 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 6.586066 seconds.
-  path: Assets/Enviroments/Toby Fredson/Rocky Hills Environment - Light Pack/Materials/RHEF_RockDetails.mat
-  artifactKey: Guid(9cf4f2921db99934bb6054905cbbb64f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Enviroments/Toby Fredson/Rocky Hills Environment - Light Pack/Materials/RHEF_RockDetails.mat using Guid(9cf4f2921db99934bb6054905cbbb64f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '656fd1e8a28f8da4cff3a073bf89e31a') in 0.038433 seconds 
-  Import took 0.042711 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000734 seconds.
-  path: Assets/Toby Fredson/Rocky Hills Environment - Light Pack/Materials/RHEF_RockDetails.mat
-  artifactKey: Guid(696cf1cabeca5d74fb5f49b992fa3a57) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Toby Fredson/Rocky Hills Environment - Light Pack/Materials/RHEF_RockDetails.mat using Guid(696cf1cabeca5d74fb5f49b992fa3a57) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '41c9b42c60f9049d76c8952bef21be59') in 0.018774 seconds 
-  Import took 0.022231 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.026405 seconds.
-  path: Assets/Enviroments/Toby Fredson/Rocky Hills Environment - Light Pack/Materials/RHEF_LowRockMedium_Mobile.mat
-  artifactKey: Guid(fda213ba68a53de4da95946ef7f5dbd2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Enviroments/Toby Fredson/Rocky Hills Environment - Light Pack/Materials/RHEF_LowRockMedium_Mobile.mat using Guid(fda213ba68a53de4da95946ef7f5dbd2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ab9eadccc5c769014b07bf4666ae21ac') in 0.024954 seconds 
-  Import took 0.029619 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000345 seconds.
-  path: Assets/Toby Fredson/Rocky Hills Environment - Light Pack/Materials/RHEF_LowRockMedium_Mobile.mat
-  artifactKey: Guid(9714a1a07d324ec4aa7201c14b746db6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Toby Fredson/Rocky Hills Environment - Light Pack/Materials/RHEF_LowRockMedium_Mobile.mat using Guid(9714a1a07d324ec4aa7201c14b746db6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6646c8e4e6c90b74e597dce21abe8175') in 0.018301 seconds 
-  Import took 0.021380 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.446670 seconds.
-  path: Assets/Toby Fredson/Rocky Hills Environment - Light Pack/Materials/RHEF_LowRockMedium.mat
-  artifactKey: Guid(481b6719ee73b964ea831c95a7e49746) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Toby Fredson/Rocky Hills Environment - Light Pack/Materials/RHEF_LowRockMedium.mat using Guid(481b6719ee73b964ea831c95a7e49746) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6514ae94e7b05dba8461eed13b46389a') in 0.073955 seconds 
-  Import took 0.079634 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000351 seconds.
-  path: Assets/Enviroments/Toby Fredson/Rocky Hills Environment - Light Pack/Materials/RHEF_GenericCliffB_Mobile.mat
-  artifactKey: Guid(9d1903eb1bcfb1d42acfbd4d8c7a90b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Enviroments/Toby Fredson/Rocky Hills Environment - Light Pack/Materials/RHEF_GenericCliffB_Mobile.mat using Guid(9d1903eb1bcfb1d42acfbd4d8c7a90b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '84742bc11138aba8e3d61c18da35c9f7') in 0.026257 seconds 
-  Import took 0.029362 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000247 seconds.
-  path: Assets/Enviroments/Toby Fredson/Rocky Hills Environment - Light Pack/Materials/RHEF_LowRockMedium.mat
-  artifactKey: Guid(acfb34e7f1f1e034ab5611b5985295a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Enviroments/Toby Fredson/Rocky Hills Environment - Light Pack/Materials/RHEF_LowRockMedium.mat using Guid(acfb34e7f1f1e034ab5611b5985295a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2a55147cf45324abe017b1362936ea70') in 0.052167 seconds 
-  Import took 0.056627 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000302 seconds.
-  path: Assets/Toby Fredson/Rocky Hills Environment - Light Pack/Materials/RHEF_GenericCliffB_Mobile.mat
-  artifactKey: Guid(268e3e6743c434746bb419b7b468269a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Toby Fredson/Rocky Hills Environment - Light Pack/Materials/RHEF_GenericCliffB_Mobile.mat using Guid(268e3e6743c434746bb419b7b468269a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '45572a23e7cdcfa6e0ba9fd19e3aa19b') in 0.016454 seconds 
-  Import took 0.020433 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000587 seconds.
-  path: Assets/Toby Fredson/Rocky Hills Environment - Light Pack/Materials/RHEF_GenericCliffB.mat
-  artifactKey: Guid(7ee0964112c9a7341aec730a3c39b670) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Toby Fredson/Rocky Hills Environment - Light Pack/Materials/RHEF_GenericCliffB.mat using Guid(7ee0964112c9a7341aec730a3c39b670) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8bc773897d6ecc7ea7a53e832c417e5c') in 0.076397 seconds 
-  Import took 0.081492 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000341 seconds.
-  path: Assets/Enviroments/Toby Fredson/Rocky Hills Environment - Light Pack/Materials/RHEF_GenericCliffB.mat
-  artifactKey: Guid(7d83b943a5802e14499a11a38ac8946d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Enviroments/Toby Fredson/Rocky Hills Environment - Light Pack/Materials/RHEF_GenericCliffB.mat using Guid(7d83b943a5802e14499a11a38ac8946d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cae4cabed34e29c5dbf4925c9d00f595') in 0.045027 seconds 
-  Import took 0.048826 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.730805 seconds.
-  path: Assets/Toby Fredson/Rocky Hills Environment - Light Pack/Materials/RHEF_GenericCliffA_DiffuseMobile.mat
-  artifactKey: Guid(ba695212c34a02a4aa6c5071b34387ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Toby Fredson/Rocky Hills Environment - Light Pack/Materials/RHEF_GenericCliffA_DiffuseMobile.mat using Guid(ba695212c34a02a4aa6c5071b34387ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a2ab6a9cbe85a306374143ad36db78fe') in 0.040345 seconds 
-  Import took 0.043769 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000270 seconds.
-  path: Assets/Enviroments/Toby Fredson/Rocky Hills Environment - Light Pack/Materials/RHEF_GenericCliffA_DiffuseMobile.mat
-  artifactKey: Guid(c38516a998ce6e94d922ad82a424e9c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Enviroments/Toby Fredson/Rocky Hills Environment - Light Pack/Materials/RHEF_GenericCliffA_DiffuseMobile.mat using Guid(c38516a998ce6e94d922ad82a424e9c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '72597ec6df4b70e709432d5133abb90a') in 0.017311 seconds 
-  Import took 0.020535 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.453627 seconds.
-  path: Assets/Enviroments/Toby Fredson/Rocky Hills Environment - Light Pack/Materials/RHEF_GenericCliffA.mat
-  artifactKey: Guid(478e0b09975d17c428b33b74656eba2e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Enviroments/Toby Fredson/Rocky Hills Environment - Light Pack/Materials/RHEF_GenericCliffA.mat using Guid(478e0b09975d17c428b33b74656eba2e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '91fff929d3b205ce100e9f3522882b18') in 0.076698 seconds 
-  Import took 0.081464 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000206 seconds.
-  path: Assets/Toby Fredson/Rocky Hills Environment - Light Pack/Materials/RHEF_GenericCliffA.mat
-  artifactKey: Guid(af1c6f6652d9787428778939655a1b0d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Toby Fredson/Rocky Hills Environment - Light Pack/Materials/RHEF_GenericCliffA.mat using Guid(af1c6f6652d9787428778939655a1b0d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e7656e6f1f335cf2868e7de830a93974') in 0.041362 seconds 
-  Import took 0.046487 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.303444 seconds.
-  path: Assets/Enviroments/Toby Fredson/Rocky Hills Environment - Light Pack/Materials/RHEF_CaveTop.mat
-  artifactKey: Guid(512599429162124479bce8a91fff86a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Enviroments/Toby Fredson/Rocky Hills Environment - Light Pack/Materials/RHEF_CaveTop.mat using Guid(512599429162124479bce8a91fff86a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cb86fb5827d16216f2833f844add2957') in 0.086657 seconds 
-  Import took 0.091924 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000265 seconds.
-  path: Assets/Toby Fredson/Rocky Hills Environment - Light Pack/Materials/RHEF_CaveTop.mat
-  artifactKey: Guid(c478e5e9544d20d49b0e4c7af6bcbff2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Toby Fredson/Rocky Hills Environment - Light Pack/Materials/RHEF_CaveTop.mat using Guid(c478e5e9544d20d49b0e4c7af6bcbff2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dffcc6be7cbe557f0f91b11a37b602c4') in 0.045351 seconds 
-  Import took 0.050522 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000237 seconds.
-  path: Assets/Enviroments/Polytope Studio/Lowpoly Medieval Environments/Sources/Materials/PT_Terrain_mat.mat
-  artifactKey: Guid(48c26796e9175d14a9b2eccded92bb92) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Enviroments/Polytope Studio/Lowpoly Medieval Environments/Sources/Materials/PT_Terrain_mat.mat using Guid(48c26796e9175d14a9b2eccded92bb92) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '907e18fa4e833647ebe35a1ac00d6d94') in 0.009867 seconds 
-  Import took 0.013094 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000305 seconds.
-  path: Assets/Enviroments/Polytope Studio/Lowpoly Medieval Environments/Sources/Materials/PT_Water_mat.mat
-  artifactKey: Guid(3e36df56c6fa5f64085c14d9d4f6f8d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Enviroments/Polytope Studio/Lowpoly Medieval Environments/Sources/Materials/PT_Water_mat.mat using Guid(3e36df56c6fa5f64085c14d9d4f6f8d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8ea14886a704bb1fea9bf90af8b0cbcc') in 0.332565 seconds 
-  Import took 0.336074 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000395 seconds.
-  path: Assets/Toby Fredson/Rocky Hills Environment - Light Pack/Materials/RHEF_Cave.mat
-  artifactKey: Guid(bfe548f879c3b8c48ab106f7ede22d63) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Toby Fredson/Rocky Hills Environment - Light Pack/Materials/RHEF_Cave.mat using Guid(bfe548f879c3b8c48ab106f7ede22d63) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4a8e4a01ac25a9bfc8344226c026f22a') in 0.113284 seconds 
-  Import took 0.120142 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000289 seconds.
-  path: Assets/Enviroments/Toby Fredson/Rocky Hills Environment - Light Pack/Materials/RHEF_Cave.mat
-  artifactKey: Guid(a1ecfe9351629e545834c8caa2156f46) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Enviroments/Toby Fredson/Rocky Hills Environment - Light Pack/Materials/RHEF_Cave.mat using Guid(a1ecfe9351629e545834c8caa2156f46) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3a6e1f0857551f95ac335e8de742635d') in 0.087301 seconds 
-  Import took 0.092607 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000274 seconds.
-  path: Assets/Enviroments/Polytope Studio/Lowpoly Medieval Environments/Sources/Materials/PT_Pine_Tree_Trunk_Mat.mat
-  artifactKey: Guid(f43a7dc4f39c5654a8211b83259e32a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Enviroments/Polytope Studio/Lowpoly Medieval Environments/Sources/Materials/PT_Pine_Tree_Trunk_Mat.mat using Guid(f43a7dc4f39c5654a8211b83259e32a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd759d51f97efe4105cc440d15cffb137') in 0.027324 seconds 
-  Import took 0.031014 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000273 seconds.
-  path: Assets/Enviroments/Polytope Studio/Lowpoly Medieval Environments/Sources/Materials/PT_Poppy_mat.mat
-  artifactKey: Guid(67c85a5a0248e2a4a98e653c8e7eeb9e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Enviroments/Polytope Studio/Lowpoly Medieval Environments/Sources/Materials/PT_Poppy_mat.mat using Guid(67c85a5a0248e2a4a98e653c8e7eeb9e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '276f1e3fba20962f05cecd1bfa7f1009') in 0.364412 seconds 
-  Import took 0.368091 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000393 seconds.
-  path: Assets/Enviroments/Polytope Studio/Lowpoly Medieval Environments/Sources/Materials/PT_Skybox_mat.mat
-  artifactKey: Guid(59573b088aaea0442bf29e0a0e9d1339) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Enviroments/Polytope Studio/Lowpoly Medieval Environments/Sources/Materials/PT_Skybox_mat.mat using Guid(59573b088aaea0442bf29e0a0e9d1339) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'efbc1ebfaf3cbbfacb0242116410c84f') in 0.066570 seconds 
-  Import took 0.070521 seconds .
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.043007 seconds.
-Begin MonoManager ReloadAssembly
-Symbol file data-0000025B107FE090 doesn't match image C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000025B0F829470 doesn't match image C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\ScriptAssemblies\Cinemachine.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000025B12E36110 doesn't match image C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\ScriptAssemblies\com.unity.cinemachine.editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000025B137F1300 doesn't match image C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000025B0FE2A0F0 doesn't match image C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\ScriptAssemblies\Unity.Postprocessing.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-0000025B136EE2B0 doesn't match image C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\ScriptAssemblies\Unity.PlasticSCM.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 1.27 ms, found 4 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  1.310 seconds
-Domain Reload Profiling:
-	ReloadAssembly (1311ms)
-		BeginReloadAssembly (197ms)
+	ReloadAssembly (1094ms)
+		BeginReloadAssembly (115ms)
 			ExecutionOrderSort (0ms)
 			DisableScriptedObjects (4ms)
 			BackupInstance (0ms)
 			ReleaseScriptingObjects (0ms)
-			CreateAndSetChildDomain (99ms)
-		EndReloadAssembly (1041ms)
-			LoadAssemblies (118ms)
+			CreateAndSetChildDomain (35ms)
+		EndReloadAssembly (915ms)
+			LoadAssemblies (93ms)
 			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (397ms)
-			ReleaseScriptCaches (4ms)
-			RebuildScriptCaches (48ms)
-			SetupLoadedEditorAssemblies (365ms)
+			SetupTypeCache (314ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (45ms)
+			SetupLoadedEditorAssemblies (358ms)
 				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (6ms)
-				SetLoadedEditorAssemblies (1ms)
+				InitializePlatformSupportModulesInManaged (8ms)
+				SetLoadedEditorAssemblies (0ms)
 				RefreshPlugins (1ms)
-				BeforeProcessingInitializeOnLoad (62ms)
-				ProcessInitializeOnLoadAttributes (280ms)
-				ProcessInitializeOnLoadMethodAttributes (10ms)
-				AfterProcessingInitializeOnLoad (3ms)
-				EditorAssembliesLoaded (1ms)
+				BeforeProcessingInitializeOnLoad (93ms)
+				ProcessInitializeOnLoadAttributes (242ms)
+				ProcessInitializeOnLoadMethodAttributes (7ms)
+				AfterProcessingInitializeOnLoad (6ms)
+				EditorAssembliesLoaded (0ms)
 			ExecutionOrderSort2 (0ms)
-			AwakeInstancesAfterBackupRestoration (6ms)
+			AwakeInstancesAfterBackupRestoration (8ms)
 Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.67 ms, found 4 plugins.
+Refreshing native plugins compatible for Editor in 0.68 ms, found 4 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1760 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 163.3 MB.
-System memory in use after: 163.4 MB.
+Unloading 1761 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 161.2 MB.
+System memory in use after: 161.3 MB.
 
-Unloading 33 unused Assets to reduce memory usage. Loaded Objects now: 2360.
-Total: 2.889100 ms (FindLiveObjects: 0.236700 ms CreateObjectMapping: 0.065600 ms MarkObjects: 2.521900 ms  DeleteObjects: 0.063900 ms)
+Unloading 33 unused Assets to reduce memory usage. Loaded Objects now: 2306.
+Total: 2.784000 ms (FindLiveObjects: 0.181800 ms CreateObjectMapping: 0.070600 ms MarkObjects: 2.466400 ms  DeleteObjects: 0.064300 ms)
 
 AssetImportParameters requested are different than current active one (requested -> active):
   custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
@@ -1009,6 +254,99 @@ AssetImportParameters requested are different than current active one (requested
   custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
   custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
   custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 98.073911 seconds.
+  path: Assets/Scripts/Ai.cs
+  artifactKey: Guid(b82c74a72631c914ea42bc42da35c3b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Ai.cs using Guid(b82c74a72631c914ea42bc42da35c3b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'be91a82fd45248cf8fff79d6b599d53a') in 0.009266 seconds 
+  Import took 0.013861 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.026576 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file data-00000293EE026990 doesn't match image C:\Users\yikch\Documents\GitHub\SennaAndRuby\S&R\Library\ScriptAssemblies\Unity.Services.Core.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002957B487020 doesn't match image C:\Users\yikch\Documents\GitHub\SennaAndRuby\S&R\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002957B7DB030 doesn't match image C:\Users\yikch\Documents\GitHub\SennaAndRuby\S&R\Library\ScriptAssemblies\Unity.Postprocessing.Runtime.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000293E406D110 doesn't match image C:\Users\yikch\Documents\GitHub\SennaAndRuby\S&R\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000293E0830020 doesn't match image C:\Users\yikch\Documents\GitHub\SennaAndRuby\S&R\Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002957B7DB030 doesn't match image C:\Users\yikch\Documents\GitHub\SennaAndRuby\S&R\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000293E73EB440 doesn't match image C:\Users\yikch\Documents\GitHub\SennaAndRuby\S&R\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000293E2E93030 doesn't match image C:\Users\yikch\Documents\GitHub\SennaAndRuby\S&R\Library\ScriptAssemblies\Unity.Timeline.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000293E6E7A870 doesn't match image C:\Users\yikch\Documents\GitHub\SennaAndRuby\S&R\Library\ScriptAssemblies\Unity.TextMeshPro.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000293E09C9020 doesn't match image C:\Users\yikch\Documents\GitHub\SennaAndRuby\S&R\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000293E0830020 doesn't match image C:\Users\yikch\Documents\GitHub\SennaAndRuby\S&R\Library\ScriptAssemblies\UnityEditor.UI.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000293EE026990 doesn't match image C:\Users\yikch\Documents\GitHub\SennaAndRuby\S&R\Library\ScriptAssemblies\Unity.Rider.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000293E02F0020 doesn't match image C:\Users\yikch\Documents\GitHub\SennaAndRuby\S&R\Library\ScriptAssemblies\UnityEngine.UI.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 1.04 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.750 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1751ms)
+		BeginReloadAssembly (202ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (6ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (69ms)
+		EndReloadAssembly (1445ms)
+			LoadAssemblies (170ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (498ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (76ms)
+			SetupLoadedEditorAssemblies (561ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (14ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (135ms)
+				ProcessInitializeOnLoadAttributes (385ms)
+				ProcessInitializeOnLoadMethodAttributes (16ms)
+				AfterProcessingInitializeOnLoad (9ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (8ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.48 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1761 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 161.2 MB.
+System memory in use after: 161.3 MB.
+
+Unloading 33 unused Assets to reduce memory usage. Loaded Objects now: 2308.
+Total: 5.050900 ms (FindLiveObjects: 0.236000 ms CreateObjectMapping: 0.091500 ms MarkObjects: 4.601300 ms  DeleteObjects: 0.120400 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
   custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
   custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
