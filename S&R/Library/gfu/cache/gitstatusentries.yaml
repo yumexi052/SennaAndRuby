@@ -13,30 +13,48 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 6
-  lastUpdatedAtString: 2021-12-06T21:52:21.018+08:00
-  initializedAtString: 2021-12-06T20:30:01.571+08:00
+  lastUpdatedAtString: 2021-12-06T22:41:50.309+08:00
+  initializedAtString: 2021-12-06T22:06:02.547+08:00
   entries:
-  - path: S&R\Assets\MouseAimCam.cs
-    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Assets\MouseAimCam.cs
-    projectPath: Assets\MouseAimCam.cs
+  - path: S&R\Assets\Animation\Mentor.controller
+    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Assets\Animation\Mentor.controller
+    projectPath: Assets\Animation\Mentor.controller
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: S&R\Assets\MouseAimCam.cs.meta
-    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Assets\MouseAimCam.cs.meta
-    projectPath: Assets\MouseAimCam.cs.meta
+  - path: S&R\Assets\Animation\Mentor.controller.meta
+    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Assets\Animation\Mentor.controller.meta
+    projectPath: Assets\Animation\Mentor.controller.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: S&R\Assets\Prefabs\Light.prefab
-    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Assets\Prefabs\Light.prefab
-    projectPath: Assets\Prefabs\Light.prefab
+  - path: S&R\Assets\Animation\mentor_anim.anim
+    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Assets\Animation\mentor_anim.anim
+    projectPath: Assets\Animation\mentor_anim.anim
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: S&R\Assets\Prefabs\Rock.prefab
-    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Assets\Prefabs\Rock.prefab
-    projectPath: Assets\Prefabs\Rock.prefab
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: S&R\Assets\Animation\mentor_anim.anim.meta
+    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Assets\Animation\mentor_anim.anim.meta
+    projectPath: Assets\Animation\mentor_anim.anim.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: S&R\Assets\Animation\mentor_correct.anim
+    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Assets\Animation\mentor_correct.anim
+    projectPath: Assets\Animation\mentor_correct.anim
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: S&R\Assets\Animation\mentor_correct.anim.meta
+    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Assets\Animation\mentor_correct.anim.meta
+    projectPath: Assets\Animation\mentor_correct.anim.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: S&R\Assets\Animator\foxController.controller
+    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Assets\Animator\foxController.controller
+    projectPath: Assets\Animator\foxController.controller
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -46,27 +64,9 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: S&R\Assets\Scripts\foxAnimation.cs
-    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Assets\Scripts\foxAnimation.cs
-    projectPath: Assets\Scripts\foxAnimation.cs
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: S&R\Assets\Scripts\foxMove.cs
-    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Assets\Scripts\foxMove.cs
-    projectPath: Assets\Scripts\foxMove.cs
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: S&R\Assets\Scripts\rockRoll.cs
-    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Assets\Scripts\rockRoll.cs
-    projectPath: Assets\Scripts\rockRoll.cs
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: S&R\Assets\Scripts\rockSpawn.cs
-    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Assets\Scripts\rockSpawn.cs
-    projectPath: Assets\Scripts\rockSpawn.cs
+  - path: S&R\Assets\Scenes\TutorialScene.unity
+    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Assets\Scenes\TutorialScene.unity
+    projectPath: Assets\Scenes\TutorialScene.unity
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -76,1638 +76,492 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: S&R\Library\Artifacts\01\01e0f6fb08bddbb12eb12f43b7da7450
-    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\Artifacts\01\01e0f6fb08bddbb12eb12f43b7da7450
-    projectPath: Library\Artifacts\01\01e0f6fb08bddbb12eb12f43b7da7450
+  - path: S&R\Library\Artifacts\00\001830a2c2dd8f2a0136ebb05d4ffb7a
+    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\Artifacts\00\001830a2c2dd8f2a0136ebb05d4ffb7a
+    projectPath: Library\Artifacts\00\001830a2c2dd8f2a0136ebb05d4ffb7a
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: S&R\Library\Artifacts\02\0234b50631ffa57b862660f6f7ff639a
-    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\Artifacts\02\0234b50631ffa57b862660f6f7ff639a
-    projectPath: Library\Artifacts\02\0234b50631ffa57b862660f6f7ff639a
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: S&R\Library\Artifacts\02\02e77113b47f5074c344e418ff22da61
+    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\Artifacts\02\02e77113b47f5074c344e418ff22da61
+    projectPath: Library\Artifacts\02\02e77113b47f5074c344e418ff22da61
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: S&R\Library\Artifacts\03\031f13050924d8a3299d67487a2fa61a
-    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\Artifacts\03\031f13050924d8a3299d67487a2fa61a
-    projectPath: Library\Artifacts\03\031f13050924d8a3299d67487a2fa61a
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: S&R\Library\Artifacts\03\037ccab2205cbed106e1a700efd3c86c
+    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\Artifacts\03\037ccab2205cbed106e1a700efd3c86c
+    projectPath: Library\Artifacts\03\037ccab2205cbed106e1a700efd3c86c
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: S&R\Library\Artifacts\03\03b4c13246197648ab3bb19ef5db5032
-    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\Artifacts\03\03b4c13246197648ab3bb19ef5db5032
-    projectPath: Library\Artifacts\03\03b4c13246197648ab3bb19ef5db5032
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: S&R\Library\Artifacts\04\04beec330c19fefab9cf231cd06739f5
+    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\Artifacts\04\04beec330c19fefab9cf231cd06739f5
+    projectPath: Library\Artifacts\04\04beec330c19fefab9cf231cd06739f5
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: S&R\Library\Artifacts\04\0486e0cd262ce070ce772cf04b6e20eb
-    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\Artifacts\04\0486e0cd262ce070ce772cf04b6e20eb
-    projectPath: Library\Artifacts\04\0486e0cd262ce070ce772cf04b6e20eb
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: S&R\Library\Artifacts\06\0669635a76ed4d0d63ec8415b0131a10
+    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\Artifacts\06\0669635a76ed4d0d63ec8415b0131a10
+    projectPath: Library\Artifacts\06\0669635a76ed4d0d63ec8415b0131a10
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: S&R\Library\Artifacts\04\048df90c79b3c6b12711924dce85c0a4
-    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\Artifacts\04\048df90c79b3c6b12711924dce85c0a4
-    projectPath: Library\Artifacts\04\048df90c79b3c6b12711924dce85c0a4
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: S&R\Library\Artifacts\08\08ab830bf3419171762cdbf05cac1760
+    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\Artifacts\08\08ab830bf3419171762cdbf05cac1760
+    projectPath: Library\Artifacts\08\08ab830bf3419171762cdbf05cac1760
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: S&R\Library\Artifacts\05\0572c6f7f003a45bcaca500b6c6073ca
-    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\Artifacts\05\0572c6f7f003a45bcaca500b6c6073ca
-    projectPath: Library\Artifacts\05\0572c6f7f003a45bcaca500b6c6073ca
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: S&R\Library\Artifacts\0b\0b29e6f8a956e68d96b97cfe43b53a6b
+    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\Artifacts\0b\0b29e6f8a956e68d96b97cfe43b53a6b
+    projectPath: Library\Artifacts\0b\0b29e6f8a956e68d96b97cfe43b53a6b
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: S&R\Library\Artifacts\07\07e0530392edd9368f7e47c0eb52c1c7
-    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\Artifacts\07\07e0530392edd9368f7e47c0eb52c1c7
-    projectPath: Library\Artifacts\07\07e0530392edd9368f7e47c0eb52c1c7
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: S&R\Library\Artifacts\08\08ec4d67d0dbcebd1e81dbae65911836
-    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\Artifacts\08\08ec4d67d0dbcebd1e81dbae65911836
-    projectPath: Library\Artifacts\08\08ec4d67d0dbcebd1e81dbae65911836
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: S&R\Library\Artifacts\08\08f209a6c690dade39939dd6940db2eb
-    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\Artifacts\08\08f209a6c690dade39939dd6940db2eb
-    projectPath: Library\Artifacts\08\08f209a6c690dade39939dd6940db2eb
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: S&R\Library\Artifacts\09\0919212900ad916c0c65811cff8a765c
-    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\Artifacts\09\0919212900ad916c0c65811cff8a765c
-    projectPath: Library\Artifacts\09\0919212900ad916c0c65811cff8a765c
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: S&R\Library\Artifacts\0a\0abe2bd5611fe1e361493e95705d35fc
-    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\Artifacts\0a\0abe2bd5611fe1e361493e95705d35fc
-    projectPath: Library\Artifacts\0a\0abe2bd5611fe1e361493e95705d35fc
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: S&R\Library\Artifacts\0c\0c202b381cc7fa73bae9500a03dd5e27
-    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\Artifacts\0c\0c202b381cc7fa73bae9500a03dd5e27
-    projectPath: Library\Artifacts\0c\0c202b381cc7fa73bae9500a03dd5e27
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: S&R\Library\Artifacts\0c\0cd145520b28f99da84adc4c669cde1b
-    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\Artifacts\0c\0cd145520b28f99da84adc4c669cde1b
-    projectPath: Library\Artifacts\0c\0cd145520b28f99da84adc4c669cde1b
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
+    indexStatus: 1
+    workTreeStatus: 1
   - path: S&R\Library\Artifacts\0e\0e14ce11acfbf084a25a0f14787a15af
     fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\Artifacts\0e\0e14ce11acfbf084a25a0f14787a15af
     projectPath: Library\Artifacts\0e\0e14ce11acfbf084a25a0f14787a15af
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: S&R\Library\Artifacts\0e\0e4e63c5aed24fb5009c56bb0c09442c
-    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\Artifacts\0e\0e4e63c5aed24fb5009c56bb0c09442c
-    projectPath: Library\Artifacts\0e\0e4e63c5aed24fb5009c56bb0c09442c
-    originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: S&R\Library\Artifacts\0e\0e67238288eab3c45c279f51b49d0d63
-    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\Artifacts\0e\0e67238288eab3c45c279f51b49d0d63
-    projectPath: Library\Artifacts\0e\0e67238288eab3c45c279f51b49d0d63
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: S&R\Library\Artifacts\0f\0f7381dfb1689e058d5ede95958bc396
-    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\Artifacts\0f\0f7381dfb1689e058d5ede95958bc396
-    projectPath: Library\Artifacts\0f\0f7381dfb1689e058d5ede95958bc396
+  - path: S&R\Library\Artifacts\0e\0ed8af595de98b3f3a03fe4b4d35cd5e
+    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\Artifacts\0e\0ed8af595de98b3f3a03fe4b4d35cd5e
+    projectPath: Library\Artifacts\0e\0ed8af595de98b3f3a03fe4b4d35cd5e
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: S&R\Library\Artifacts\10\10c2d0fa88d080871ed02effa9cbfe98
-    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\Artifacts\10\10c2d0fa88d080871ed02effa9cbfe98
-    projectPath: Library\Artifacts\10\10c2d0fa88d080871ed02effa9cbfe98
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: S&R\Library\Artifacts\13\138e6cfe4c5950afbf8390b299af4209
-    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\Artifacts\13\138e6cfe4c5950afbf8390b299af4209
-    projectPath: Library\Artifacts\13\138e6cfe4c5950afbf8390b299af4209
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: S&R\Library\Artifacts\14\144706c57b6bf128a813b01d6557313a
-    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\Artifacts\14\144706c57b6bf128a813b01d6557313a
-    projectPath: Library\Artifacts\14\144706c57b6bf128a813b01d6557313a
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: S&R\Library\Artifacts\15\150abaa0725ef1b2d799df5dba719f28
-    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\Artifacts\15\150abaa0725ef1b2d799df5dba719f28
-    projectPath: Library\Artifacts\15\150abaa0725ef1b2d799df5dba719f28
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: S&R\Library\Artifacts\15\1576896af964ca3b6546d3133c939982
-    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\Artifacts\15\1576896af964ca3b6546d3133c939982
-    projectPath: Library\Artifacts\15\1576896af964ca3b6546d3133c939982
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: S&R\Library\Artifacts\15\15e66dba7f0689f805464118ed15e0fe
-    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\Artifacts\15\15e66dba7f0689f805464118ed15e0fe
-    projectPath: Library\Artifacts\15\15e66dba7f0689f805464118ed15e0fe
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: S&R\Library\Artifacts\15\15f335aa77581c0bdd26b02c1fd807e7
-    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\Artifacts\15\15f335aa77581c0bdd26b02c1fd807e7
-    projectPath: Library\Artifacts\15\15f335aa77581c0bdd26b02c1fd807e7
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: S&R\Library\Artifacts\16\166e679ec3169532f0a3b74a5e09b826
-    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\Artifacts\16\166e679ec3169532f0a3b74a5e09b826
-    projectPath: Library\Artifacts\16\166e679ec3169532f0a3b74a5e09b826
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: S&R\Library\Artifacts\16\16dc560e822f1d328d7b34857dc66633
-    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\Artifacts\16\16dc560e822f1d328d7b34857dc66633
-    projectPath: Library\Artifacts\16\16dc560e822f1d328d7b34857dc66633
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: S&R\Library\Artifacts\17\170fe93da9e7b7abc0d508ad90cbdb52
-    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\Artifacts\17\170fe93da9e7b7abc0d508ad90cbdb52
-    projectPath: Library\Artifacts\17\170fe93da9e7b7abc0d508ad90cbdb52
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: S&R\Library\Artifacts\18\18d7c76149026d2ebd55d2795627df02
-    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\Artifacts\18\18d7c76149026d2ebd55d2795627df02
-    projectPath: Library\Artifacts\18\18d7c76149026d2ebd55d2795627df02
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: S&R\Library\Artifacts\19\19bce1b9feef60446ce38a49ab3346fd
-    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\Artifacts\19\19bce1b9feef60446ce38a49ab3346fd
-    projectPath: Library\Artifacts\19\19bce1b9feef60446ce38a49ab3346fd
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: S&R\Library\Artifacts\1c\1c43bae4ff5ed4c2bb6551a2803f719a
-    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\Artifacts\1c\1c43bae4ff5ed4c2bb6551a2803f719a
-    projectPath: Library\Artifacts\1c\1c43bae4ff5ed4c2bb6551a2803f719a
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: S&R\Library\Artifacts\1c\1c536966e9463ca3377709b0eab5f42e
-    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\Artifacts\1c\1c536966e9463ca3377709b0eab5f42e
-    projectPath: Library\Artifacts\1c\1c536966e9463ca3377709b0eab5f42e
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: S&R\Library\Artifacts\1d\1d5f1ade36142d364548a47d5dfc1538
-    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\Artifacts\1d\1d5f1ade36142d364548a47d5dfc1538
-    projectPath: Library\Artifacts\1d\1d5f1ade36142d364548a47d5dfc1538
+  - path: S&R\Library\Artifacts\11\1104824021d7dc951f0bd70ef41e7859
+    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\Artifacts\11\1104824021d7dc951f0bd70ef41e7859
+    projectPath: Library\Artifacts\11\1104824021d7dc951f0bd70ef41e7859
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: S&R\Library\Artifacts\1d\1d72927ffbc1e6ed8ef9408691e5cc1f
-    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\Artifacts\1d\1d72927ffbc1e6ed8ef9408691e5cc1f
-    projectPath: Library\Artifacts\1d\1d72927ffbc1e6ed8ef9408691e5cc1f
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: S&R\Library\Artifacts\22\2231f4d4a08b6a32ce4c1df0ec636104
-    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\Artifacts\22\2231f4d4a08b6a32ce4c1df0ec636104
-    projectPath: Library\Artifacts\22\2231f4d4a08b6a32ce4c1df0ec636104
+  - path: S&R\Library\Artifacts\11\11196e81764bfb819f3ff944190e94bb
+    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\Artifacts\11\11196e81764bfb819f3ff944190e94bb
+    projectPath: Library\Artifacts\11\11196e81764bfb819f3ff944190e94bb
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: S&R\Library\Artifacts\22\22783e4f3a244b7528ea999ac398cb81
-    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\Artifacts\22\22783e4f3a244b7528ea999ac398cb81
-    projectPath: Library\Artifacts\22\22783e4f3a244b7528ea999ac398cb81
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: S&R\Library\Artifacts\22\22b9ba69ecd706d97f9a684e3ce32e26
-    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\Artifacts\22\22b9ba69ecd706d97f9a684e3ce32e26
-    projectPath: Library\Artifacts\22\22b9ba69ecd706d97f9a684e3ce32e26
+  - path: S&R\Library\Artifacts\16\16a4305fca367884b4d3e203baed1563
+    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\Artifacts\16\16a4305fca367884b4d3e203baed1563
+    projectPath: Library\Artifacts\16\16a4305fca367884b4d3e203baed1563
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: S&R\Library\Artifacts\22\22e0c80a4e4199f9c3fb94f1ad6ce2bf
-    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\Artifacts\22\22e0c80a4e4199f9c3fb94f1ad6ce2bf
-    projectPath: Library\Artifacts\22\22e0c80a4e4199f9c3fb94f1ad6ce2bf
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: S&R\Library\Artifacts\23\23c98968aabfe52d4f4e794813bb8bb7
-    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\Artifacts\23\23c98968aabfe52d4f4e794813bb8bb7
-    projectPath: Library\Artifacts\23\23c98968aabfe52d4f4e794813bb8bb7
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: S&R\Library\Artifacts\25\25c2edb7cd0e570df294c7c794ff187c
-    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\Artifacts\25\25c2edb7cd0e570df294c7c794ff187c
-    projectPath: Library\Artifacts\25\25c2edb7cd0e570df294c7c794ff187c
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: S&R\Library\Artifacts\26\267abef8809f62de9a6356831301cb6e
-    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\Artifacts\26\267abef8809f62de9a6356831301cb6e
-    projectPath: Library\Artifacts\26\267abef8809f62de9a6356831301cb6e
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: S&R\Library\Artifacts\26\26bc4e5a419e7f7370e04e82e807915e
-    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\Artifacts\26\26bc4e5a419e7f7370e04e82e807915e
-    projectPath: Library\Artifacts\26\26bc4e5a419e7f7370e04e82e807915e
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: S&R\Library\Artifacts\27\271b4f77fd4386733dd5c9177d9ac509
-    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\Artifacts\27\271b4f77fd4386733dd5c9177d9ac509
-    projectPath: Library\Artifacts\27\271b4f77fd4386733dd5c9177d9ac509
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: S&R\Library\Artifacts\28\2832a94894cf095dd794c9f2222f6569
-    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\Artifacts\28\2832a94894cf095dd794c9f2222f6569
-    projectPath: Library\Artifacts\28\2832a94894cf095dd794c9f2222f6569
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: S&R\Library\Artifacts\29\29ea7de7e7a58030c98f0b58b86edbe4
-    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\Artifacts\29\29ea7de7e7a58030c98f0b58b86edbe4
-    projectPath: Library\Artifacts\29\29ea7de7e7a58030c98f0b58b86edbe4
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: S&R\Library\Artifacts\2a\2a720212a6546caee1198944f1c057fc
-    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\Artifacts\2a\2a720212a6546caee1198944f1c057fc
-    projectPath: Library\Artifacts\2a\2a720212a6546caee1198944f1c057fc
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: S&R\Library\Artifacts\2b\2ba4263142f2feeb9dc4626ce1dda2a9
-    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\Artifacts\2b\2ba4263142f2feeb9dc4626ce1dda2a9
-    projectPath: Library\Artifacts\2b\2ba4263142f2feeb9dc4626ce1dda2a9
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: S&R\Library\Artifacts\2d\2d05fd80a5e48a1db3cf4e38cd1a26ba
-    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\Artifacts\2d\2d05fd80a5e48a1db3cf4e38cd1a26ba
-    projectPath: Library\Artifacts\2d\2d05fd80a5e48a1db3cf4e38cd1a26ba
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: S&R\Library\Artifacts\2d\2d46e488aa701423aca780abe71752e3
-    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\Artifacts\2d\2d46e488aa701423aca780abe71752e3
-    projectPath: Library\Artifacts\2d\2d46e488aa701423aca780abe71752e3
+  - path: S&R\Library\Artifacts\1a\1acbc711bac98709fe24ca84781fba09
+    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\Artifacts\1a\1acbc711bac98709fe24ca84781fba09
+    projectPath: Library\Artifacts\1a\1acbc711bac98709fe24ca84781fba09
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: S&R\Library\Artifacts\2d\2d9bf5c9feceddf261c4a922eabe8c2c
-    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\Artifacts\2d\2d9bf5c9feceddf261c4a922eabe8c2c
-    projectPath: Library\Artifacts\2d\2d9bf5c9feceddf261c4a922eabe8c2c
+  - path: S&R\Library\Artifacts\1c\1cf3a395a74e92a39a96aef207de4a98
+    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\Artifacts\1c\1cf3a395a74e92a39a96aef207de4a98
+    projectPath: Library\Artifacts\1c\1cf3a395a74e92a39a96aef207de4a98
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: S&R\Library\Artifacts\2d\2db3839d9bf2af6699fb340fd3e29f4f
-    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\Artifacts\2d\2db3839d9bf2af6699fb340fd3e29f4f
-    projectPath: Library\Artifacts\2d\2db3839d9bf2af6699fb340fd3e29f4f
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: S&R\Library\Artifacts\1f\1f58f3304a60ac6a5bb6d0043d53acca
+    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\Artifacts\1f\1f58f3304a60ac6a5bb6d0043d53acca
+    projectPath: Library\Artifacts\1f\1f58f3304a60ac6a5bb6d0043d53acca
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: S&R\Library\Artifacts\22\2209d6b65e4a327c3744ecc8363793e2
+    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\Artifacts\22\2209d6b65e4a327c3744ecc8363793e2
+    projectPath: Library\Artifacts\22\2209d6b65e4a327c3744ecc8363793e2
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: S&R\Library\Artifacts\29\298b5265e511308b76e02a6341ae7146
+    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\Artifacts\29\298b5265e511308b76e02a6341ae7146
+    projectPath: Library\Artifacts\29\298b5265e511308b76e02a6341ae7146
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: S&R\Library\Artifacts\29\29edaa2bbedd9ed79ab154fa4c9b472c
+    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\Artifacts\29\29edaa2bbedd9ed79ab154fa4c9b472c
+    projectPath: Library\Artifacts\29\29edaa2bbedd9ed79ab154fa4c9b472c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: S&R\Library\Artifacts\2f\2f47f4fd4c14b777c0b7861077b70731
+    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\Artifacts\2f\2f47f4fd4c14b777c0b7861077b70731
+    projectPath: Library\Artifacts\2f\2f47f4fd4c14b777c0b7861077b70731
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
   - path: S&R\Library\Artifacts\30\300a703355f52b8c6d8158cbc03edd23
     fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\Artifacts\30\300a703355f52b8c6d8158cbc03edd23
     projectPath: Library\Artifacts\30\300a703355f52b8c6d8158cbc03edd23
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: S&R\Library\Artifacts\31\31067dc8ef53152ae7cc43407fcd4225
-    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\Artifacts\31\31067dc8ef53152ae7cc43407fcd4225
-    projectPath: Library\Artifacts\31\31067dc8ef53152ae7cc43407fcd4225
-    originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: S&R\Library\Artifacts\31\313678ca2512b9bcd8e606d56be3741b
-    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\Artifacts\31\313678ca2512b9bcd8e606d56be3741b
-    projectPath: Library\Artifacts\31\313678ca2512b9bcd8e606d56be3741b
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: S&R\Library\Artifacts\31\31908dcfdb9b31aa9f9cdc5ba9aa3879
-    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\Artifacts\31\31908dcfdb9b31aa9f9cdc5ba9aa3879
-    projectPath: Library\Artifacts\31\31908dcfdb9b31aa9f9cdc5ba9aa3879
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: S&R\Library\Artifacts\32\321e0fbbef6d88d8101f957f5526b9d7
-    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\Artifacts\32\321e0fbbef6d88d8101f957f5526b9d7
-    projectPath: Library\Artifacts\32\321e0fbbef6d88d8101f957f5526b9d7
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: S&R\Library\Artifacts\32\325b51d5683b1716d711ff8e86fb2784
-    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\Artifacts\32\325b51d5683b1716d711ff8e86fb2784
-    projectPath: Library\Artifacts\32\325b51d5683b1716d711ff8e86fb2784
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: S&R\Library\Artifacts\33\33735cff1f271fd2ad14950c873f8019
-    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\Artifacts\33\33735cff1f271fd2ad14950c873f8019
-    projectPath: Library\Artifacts\33\33735cff1f271fd2ad14950c873f8019
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: S&R\Library\Artifacts\33\337e175a31295740cd0f32e988cf1082
-    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\Artifacts\33\337e175a31295740cd0f32e988cf1082
-    projectPath: Library\Artifacts\33\337e175a31295740cd0f32e988cf1082
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: S&R\Library\Artifacts\34\34d307adfa724545d60ec2534c61085b
-    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\Artifacts\34\34d307adfa724545d60ec2534c61085b
-    projectPath: Library\Artifacts\34\34d307adfa724545d60ec2534c61085b
+  - path: S&R\Library\Artifacts\30\30397f8b76e9bbb71926a84a00e2a267
+    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\Artifacts\30\30397f8b76e9bbb71926a84a00e2a267
+    projectPath: Library\Artifacts\30\30397f8b76e9bbb71926a84a00e2a267
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: S&R\Library\Artifacts\35\351fd819f3fe08dcd08eb5914ea1a07b
-    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\Artifacts\35\351fd819f3fe08dcd08eb5914ea1a07b
-    projectPath: Library\Artifacts\35\351fd819f3fe08dcd08eb5914ea1a07b
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: S&R\Library\Artifacts\35\35c324db84ee5eed3a48b2d0d8b1943f
-    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\Artifacts\35\35c324db84ee5eed3a48b2d0d8b1943f
-    projectPath: Library\Artifacts\35\35c324db84ee5eed3a48b2d0d8b1943f
+  - path: S&R\Library\Artifacts\3d\3d511f1aca130034b577f9f8ccb25faf
+    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\Artifacts\3d\3d511f1aca130034b577f9f8ccb25faf
+    projectPath: Library\Artifacts\3d\3d511f1aca130034b577f9f8ccb25faf
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: S&R\Library\Artifacts\36\36ea689b46370cc09a354cc224976e74
-    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\Artifacts\36\36ea689b46370cc09a354cc224976e74
-    projectPath: Library\Artifacts\36\36ea689b46370cc09a354cc224976e74
+  - path: S&R\Library\Artifacts\3e\3e0b1e6a9b4002ad350a9a26675d2742
+    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\Artifacts\3e\3e0b1e6a9b4002ad350a9a26675d2742
+    projectPath: Library\Artifacts\3e\3e0b1e6a9b4002ad350a9a26675d2742
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: S&R\Library\Artifacts\39\39657b46db0e666ffa9266158af7f1c2
-    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\Artifacts\39\39657b46db0e666ffa9266158af7f1c2
-    projectPath: Library\Artifacts\39\39657b46db0e666ffa9266158af7f1c2
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: S&R\Library\Artifacts\40\401b759da8d2c5e62ed38c3063f42234
+    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\Artifacts\40\401b759da8d2c5e62ed38c3063f42234
+    projectPath: Library\Artifacts\40\401b759da8d2c5e62ed38c3063f42234
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: S&R\Library\Artifacts\39\3970cfe047fbd1e15b9ed272f6c8c212
-    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\Artifacts\39\3970cfe047fbd1e15b9ed272f6c8c212
-    projectPath: Library\Artifacts\39\3970cfe047fbd1e15b9ed272f6c8c212
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: S&R\Library\Artifacts\39\39c95bf72a13a63d59f9aa56aee859be
-    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\Artifacts\39\39c95bf72a13a63d59f9aa56aee859be
-    projectPath: Library\Artifacts\39\39c95bf72a13a63d59f9aa56aee859be
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: S&R\Library\Artifacts\39\39e6dffa786e15775ae97d50883b7091
-    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\Artifacts\39\39e6dffa786e15775ae97d50883b7091
-    projectPath: Library\Artifacts\39\39e6dffa786e15775ae97d50883b7091
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: S&R\Library\Artifacts\3b\3ba804fe02a39e9de71509c6d26fcd16
-    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\Artifacts\3b\3ba804fe02a39e9de71509c6d26fcd16
-    projectPath: Library\Artifacts\3b\3ba804fe02a39e9de71509c6d26fcd16
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: S&R\Library\Artifacts\3f\3f4b52eed977f88005eb72e9cea585f4
-    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\Artifacts\3f\3f4b52eed977f88005eb72e9cea585f4
-    projectPath: Library\Artifacts\3f\3f4b52eed977f88005eb72e9cea585f4
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: S&R\Library\Artifacts\3f\3f6dba2e9512ad3e5074c711b8cbb495
-    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\Artifacts\3f\3f6dba2e9512ad3e5074c711b8cbb495
-    projectPath: Library\Artifacts\3f\3f6dba2e9512ad3e5074c711b8cbb495
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: S&R\Library\Artifacts\3f\3fa293bfdff1a71e236ee041cb012a96
-    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\Artifacts\3f\3fa293bfdff1a71e236ee041cb012a96
-    projectPath: Library\Artifacts\3f\3fa293bfdff1a71e236ee041cb012a96
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
+    indexStatus: 1
+    workTreeStatus: 1
   - path: S&R\Library\Artifacts\40\40d377f457ba2f66b0d951167cca5330
     fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\Artifacts\40\40d377f457ba2f66b0d951167cca5330
     projectPath: Library\Artifacts\40\40d377f457ba2f66b0d951167cca5330
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: S&R\Library\Artifacts\41\41d1021534bf1e36c096c4b80e4a6ecf
-    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\Artifacts\41\41d1021534bf1e36c096c4b80e4a6ecf
-    projectPath: Library\Artifacts\41\41d1021534bf1e36c096c4b80e4a6ecf
-    originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: S&R\Library\Artifacts\42\4265984de41f8ef2847a8244ecb92984
-    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\Artifacts\42\4265984de41f8ef2847a8244ecb92984
-    projectPath: Library\Artifacts\42\4265984de41f8ef2847a8244ecb92984
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: S&R\Library\Artifacts\42\42e68b232b71224a698ed1ccbf437cc9
-    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\Artifacts\42\42e68b232b71224a698ed1ccbf437cc9
-    projectPath: Library\Artifacts\42\42e68b232b71224a698ed1ccbf437cc9
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: S&R\Library\Artifacts\47\47a38dfaf1eec630233b3a9b4135af53
-    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\Artifacts\47\47a38dfaf1eec630233b3a9b4135af53
-    projectPath: Library\Artifacts\47\47a38dfaf1eec630233b3a9b4135af53
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: S&R\Library\Artifacts\48\48b52e21083a73f1422bd40a88aa81ed
-    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\Artifacts\48\48b52e21083a73f1422bd40a88aa81ed
-    projectPath: Library\Artifacts\48\48b52e21083a73f1422bd40a88aa81ed
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: S&R\Library\Artifacts\48\48c4bb2dc8341b17dc0f61f3dcee5460
-    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\Artifacts\48\48c4bb2dc8341b17dc0f61f3dcee5460
-    projectPath: Library\Artifacts\48\48c4bb2dc8341b17dc0f61f3dcee5460
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: S&R\Library\Artifacts\49\493b25bb2bab048be8759f0e65aae0f7
-    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\Artifacts\49\493b25bb2bab048be8759f0e65aae0f7
-    projectPath: Library\Artifacts\49\493b25bb2bab048be8759f0e65aae0f7
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: S&R\Library\Artifacts\49\493be02fff6e1b7873315f7d57aab0d0
-    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\Artifacts\49\493be02fff6e1b7873315f7d57aab0d0
-    projectPath: Library\Artifacts\49\493be02fff6e1b7873315f7d57aab0d0
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: S&R\Library\Artifacts\4a\4aa01b0ba8adb5f337fdf8cde9f7a416
-    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\Artifacts\4a\4aa01b0ba8adb5f337fdf8cde9f7a416
-    projectPath: Library\Artifacts\4a\4aa01b0ba8adb5f337fdf8cde9f7a416
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: S&R\Library\Artifacts\4c\4c03e39a76fae0d604ad0ca15ad21c15
-    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\Artifacts\4c\4c03e39a76fae0d604ad0ca15ad21c15
-    projectPath: Library\Artifacts\4c\4c03e39a76fae0d604ad0ca15ad21c15
+  - path: S&R\Library\Artifacts\41\41c83860e444ded3a26beb5dd6cbaca1
+    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\Artifacts\41\41c83860e444ded3a26beb5dd6cbaca1
+    projectPath: Library\Artifacts\41\41c83860e444ded3a26beb5dd6cbaca1
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: S&R\Library\Artifacts\4c\4c53749f6d6ab50df5021b5f592241fe
-    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\Artifacts\4c\4c53749f6d6ab50df5021b5f592241fe
-    projectPath: Library\Artifacts\4c\4c53749f6d6ab50df5021b5f592241fe
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: S&R\Library\Artifacts\4c\4c5e20ca9c9208781d66497c26b30d2e
-    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\Artifacts\4c\4c5e20ca9c9208781d66497c26b30d2e
-    projectPath: Library\Artifacts\4c\4c5e20ca9c9208781d66497c26b30d2e
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: S&R\Library\Artifacts\4d\4dfac83e79ff663c5a8cde54130fbf53
-    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\Artifacts\4d\4dfac83e79ff663c5a8cde54130fbf53
-    projectPath: Library\Artifacts\4d\4dfac83e79ff663c5a8cde54130fbf53
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: S&R\Library\Artifacts\4f\4f07dd483f3e51240741eef5209e2f1f
-    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\Artifacts\4f\4f07dd483f3e51240741eef5209e2f1f
-    projectPath: Library\Artifacts\4f\4f07dd483f3e51240741eef5209e2f1f
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: S&R\Library\Artifacts\4f\4f8ad955dace130e2d2a6ed00a7cf7c9
-    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\Artifacts\4f\4f8ad955dace130e2d2a6ed00a7cf7c9
-    projectPath: Library\Artifacts\4f\4f8ad955dace130e2d2a6ed00a7cf7c9
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: S&R\Library\Artifacts\4f\4ff9d5c90c7f209f19d973b35450ff95
-    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\Artifacts\4f\4ff9d5c90c7f209f19d973b35450ff95
-    projectPath: Library\Artifacts\4f\4ff9d5c90c7f209f19d973b35450ff95
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: S&R\Library\Artifacts\51\516521893e6837e54bf3dbbd214d1dc0
-    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\Artifacts\51\516521893e6837e54bf3dbbd214d1dc0
-    projectPath: Library\Artifacts\51\516521893e6837e54bf3dbbd214d1dc0
+  - path: S&R\Library\Artifacts\45\45b8e654369cfdcdc3c4a02cd77b30ca
+    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\Artifacts\45\45b8e654369cfdcdc3c4a02cd77b30ca
+    projectPath: Library\Artifacts\45\45b8e654369cfdcdc3c4a02cd77b30ca
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: S&R\Library\Artifacts\52\52b45dc76540dd9ea0755ff51dcf6d77
-    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\Artifacts\52\52b45dc76540dd9ea0755ff51dcf6d77
-    projectPath: Library\Artifacts\52\52b45dc76540dd9ea0755ff51dcf6d77
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: S&R\Library\Artifacts\54\54a960e6761420ee2104924d30817ef7
-    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\Artifacts\54\54a960e6761420ee2104924d30817ef7
-    projectPath: Library\Artifacts\54\54a960e6761420ee2104924d30817ef7
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: S&R\Library\Artifacts\55\55215234b744586ccb9f3216e0422920
-    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\Artifacts\55\55215234b744586ccb9f3216e0422920
-    projectPath: Library\Artifacts\55\55215234b744586ccb9f3216e0422920
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: S&R\Library\Artifacts\56\568d67e88f710178dfa40b5b7542f04b
-    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\Artifacts\56\568d67e88f710178dfa40b5b7542f04b
-    projectPath: Library\Artifacts\56\568d67e88f710178dfa40b5b7542f04b
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: S&R\Library\Artifacts\56\56941ae69c1c1df0f278d55f52926407
-    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\Artifacts\56\56941ae69c1c1df0f278d55f52926407
-    projectPath: Library\Artifacts\56\56941ae69c1c1df0f278d55f52926407
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: S&R\Library\Artifacts\56\56a751a76525c53b1b503bf19f9e06e8
-    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\Artifacts\56\56a751a76525c53b1b503bf19f9e06e8
-    projectPath: Library\Artifacts\56\56a751a76525c53b1b503bf19f9e06e8
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: S&R\Library\Artifacts\56\56ef9e9b1f26b58874114b919a14aaa5
-    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\Artifacts\56\56ef9e9b1f26b58874114b919a14aaa5
-    projectPath: Library\Artifacts\56\56ef9e9b1f26b58874114b919a14aaa5
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: S&R\Library\Artifacts\57\577416276123a29cf0ec959ca248a55e
-    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\Artifacts\57\577416276123a29cf0ec959ca248a55e
-    projectPath: Library\Artifacts\57\577416276123a29cf0ec959ca248a55e
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: S&R\Library\Artifacts\57\57e70c128c81831681680c641d0cc876
-    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\Artifacts\57\57e70c128c81831681680c641d0cc876
-    projectPath: Library\Artifacts\57\57e70c128c81831681680c641d0cc876
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: S&R\Library\Artifacts\58\58f07956c1c320ff5630addf795b17e0
-    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\Artifacts\58\58f07956c1c320ff5630addf795b17e0
-    projectPath: Library\Artifacts\58\58f07956c1c320ff5630addf795b17e0
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: S&R\Library\Artifacts\59\59ee1c1e995f2bbee6079f690a326e1a
-    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\Artifacts\59\59ee1c1e995f2bbee6079f690a326e1a
-    projectPath: Library\Artifacts\59\59ee1c1e995f2bbee6079f690a326e1a
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: S&R\Library\Artifacts\5c\5cb630502f218cd6bc2ef22813bb0fa1
-    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\Artifacts\5c\5cb630502f218cd6bc2ef22813bb0fa1
-    projectPath: Library\Artifacts\5c\5cb630502f218cd6bc2ef22813bb0fa1
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: S&R\Library\Artifacts\5d\5d7175ff8fb6275ec49302e1cc508ad1
-    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\Artifacts\5d\5d7175ff8fb6275ec49302e1cc508ad1
-    projectPath: Library\Artifacts\5d\5d7175ff8fb6275ec49302e1cc508ad1
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: S&R\Library\Artifacts\60\60f85523da807af9032a6feab2659788
-    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\Artifacts\60\60f85523da807af9032a6feab2659788
-    projectPath: Library\Artifacts\60\60f85523da807af9032a6feab2659788
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: S&R\Library\Artifacts\60\60f9fd2f7ed2548849cdf5988248f917
-    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\Artifacts\60\60f9fd2f7ed2548849cdf5988248f917
-    projectPath: Library\Artifacts\60\60f9fd2f7ed2548849cdf5988248f917
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: S&R\Library\Artifacts\61\61265ea00d0d3b5afdbbd803e0cc10a0
-    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\Artifacts\61\61265ea00d0d3b5afdbbd803e0cc10a0
-    projectPath: Library\Artifacts\61\61265ea00d0d3b5afdbbd803e0cc10a0
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: S&R\Library\Artifacts\61\619b4264a94ae725632266598cfa23e5
-    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\Artifacts\61\619b4264a94ae725632266598cfa23e5
-    projectPath: Library\Artifacts\61\619b4264a94ae725632266598cfa23e5
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: S&R\Library\Artifacts\62\6220b214752d7fdb3584fc567f8b3c8a
-    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\Artifacts\62\6220b214752d7fdb3584fc567f8b3c8a
-    projectPath: Library\Artifacts\62\6220b214752d7fdb3584fc567f8b3c8a
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: S&R\Library\Artifacts\63\6340ad2691de2ea5a5ff0a9361ed8009
-    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\Artifacts\63\6340ad2691de2ea5a5ff0a9361ed8009
-    projectPath: Library\Artifacts\63\6340ad2691de2ea5a5ff0a9361ed8009
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: S&R\Library\Artifacts\64\6431c2ed8076e894ecc770212b961eee
-    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\Artifacts\64\6431c2ed8076e894ecc770212b961eee
-    projectPath: Library\Artifacts\64\6431c2ed8076e894ecc770212b961eee
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: S&R\Library\Artifacts\64\64e4191f6a92476517049c8592d7aef7
-    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\Artifacts\64\64e4191f6a92476517049c8592d7aef7
-    projectPath: Library\Artifacts\64\64e4191f6a92476517049c8592d7aef7
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: S&R\Library\Artifacts\65\657ec7104bf7516a9933407a052ec1fb
-    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\Artifacts\65\657ec7104bf7516a9933407a052ec1fb
-    projectPath: Library\Artifacts\65\657ec7104bf7516a9933407a052ec1fb
+  - path: S&R\Library\Artifacts\46\4629aaa9dd966ab2dd5dd5ddcf496443
+    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\Artifacts\46\4629aaa9dd966ab2dd5dd5ddcf496443
+    projectPath: Library\Artifacts\46\4629aaa9dd966ab2dd5dd5ddcf496443
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: S&R\Library\Artifacts\66\663891b3f67e64d8b6c8ce56dc2a43e3
-    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\Artifacts\66\663891b3f67e64d8b6c8ce56dc2a43e3
-    projectPath: Library\Artifacts\66\663891b3f67e64d8b6c8ce56dc2a43e3
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: S&R\Library\Artifacts\66\66521bd60071432baabe37d4c4f0ae31
-    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\Artifacts\66\66521bd60071432baabe37d4c4f0ae31
-    projectPath: Library\Artifacts\66\66521bd60071432baabe37d4c4f0ae31
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: S&R\Library\Artifacts\66\666b1ea0e304d0ff4957a860aeba839f
-    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\Artifacts\66\666b1ea0e304d0ff4957a860aeba839f
-    projectPath: Library\Artifacts\66\666b1ea0e304d0ff4957a860aeba839f
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: S&R\Library\Artifacts\66\66ae551774df308c6a38edddbb65a95b
-    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\Artifacts\66\66ae551774df308c6a38edddbb65a95b
-    projectPath: Library\Artifacts\66\66ae551774df308c6a38edddbb65a95b
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: S&R\Library\Artifacts\67\677bfbca867218c7a97cc10d1b2c2d0d
-    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\Artifacts\67\677bfbca867218c7a97cc10d1b2c2d0d
-    projectPath: Library\Artifacts\67\677bfbca867218c7a97cc10d1b2c2d0d
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: S&R\Library\Artifacts\67\67eb9bbdf7ddabdcf4c494420134952f
-    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\Artifacts\67\67eb9bbdf7ddabdcf4c494420134952f
-    projectPath: Library\Artifacts\67\67eb9bbdf7ddabdcf4c494420134952f
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: S&R\Library\Artifacts\68\687be4296cae890b43d50d7470e3c0dd
-    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\Artifacts\68\687be4296cae890b43d50d7470e3c0dd
-    projectPath: Library\Artifacts\68\687be4296cae890b43d50d7470e3c0dd
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: S&R\Library\Artifacts\69\693755cd2f99ee216ee5e9ee9863d8e0
-    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\Artifacts\69\693755cd2f99ee216ee5e9ee9863d8e0
-    projectPath: Library\Artifacts\69\693755cd2f99ee216ee5e9ee9863d8e0
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: S&R\Library\Artifacts\69\69782699506442ab8937eb0b0248edfe
-    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\Artifacts\69\69782699506442ab8937eb0b0248edfe
-    projectPath: Library\Artifacts\69\69782699506442ab8937eb0b0248edfe
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: S&R\Library\Artifacts\6b\6be17ecdede18cee8aeaba05c9e90d23
-    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\Artifacts\6b\6be17ecdede18cee8aeaba05c9e90d23
-    projectPath: Library\Artifacts\6b\6be17ecdede18cee8aeaba05c9e90d23
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: S&R\Library\Artifacts\6c\6c6834841b6de6672b5b81ab210cea89
-    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\Artifacts\6c\6c6834841b6de6672b5b81ab210cea89
-    projectPath: Library\Artifacts\6c\6c6834841b6de6672b5b81ab210cea89
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: S&R\Library\Artifacts\6e\6e0db7f54080a6ab72db50f54ff4f0b3
-    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\Artifacts\6e\6e0db7f54080a6ab72db50f54ff4f0b3
-    projectPath: Library\Artifacts\6e\6e0db7f54080a6ab72db50f54ff4f0b3
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: S&R\Library\Artifacts\6e\6e3b5716134b22bfc503a15b5f35c114
-    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\Artifacts\6e\6e3b5716134b22bfc503a15b5f35c114
-    projectPath: Library\Artifacts\6e\6e3b5716134b22bfc503a15b5f35c114
+  - path: S&R\Library\Artifacts\4f\4fbaa3c3d3a06f413cd11145444035c1
+    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\Artifacts\4f\4fbaa3c3d3a06f413cd11145444035c1
+    projectPath: Library\Artifacts\4f\4fbaa3c3d3a06f413cd11145444035c1
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: S&R\Library\Artifacts\6e\6e79e1c09b812959a27a1d00538b8616
-    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\Artifacts\6e\6e79e1c09b812959a27a1d00538b8616
-    projectPath: Library\Artifacts\6e\6e79e1c09b812959a27a1d00538b8616
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: S&R\Library\Artifacts\6f\6f4cc2e9ba11cb49e53f35e7e034cd3e
-    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\Artifacts\6f\6f4cc2e9ba11cb49e53f35e7e034cd3e
-    projectPath: Library\Artifacts\6f\6f4cc2e9ba11cb49e53f35e7e034cd3e
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: S&R\Library\Artifacts\6f\6faf87e046bde445d189e41b10c6d836
-    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\Artifacts\6f\6faf87e046bde445d189e41b10c6d836
-    projectPath: Library\Artifacts\6f\6faf87e046bde445d189e41b10c6d836
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: S&R\Library\Artifacts\70\70c56d00dddb2ab68cd7acf87c416f15
-    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\Artifacts\70\70c56d00dddb2ab68cd7acf87c416f15
-    projectPath: Library\Artifacts\70\70c56d00dddb2ab68cd7acf87c416f15
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: S&R\Library\Artifacts\71\716b02693dc6f936186affdc047fe1a4
-    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\Artifacts\71\716b02693dc6f936186affdc047fe1a4
-    projectPath: Library\Artifacts\71\716b02693dc6f936186affdc047fe1a4
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: S&R\Library\Artifacts\72\7267e66e4d15e8c0699ab6ab86d2c880
-    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\Artifacts\72\7267e66e4d15e8c0699ab6ab86d2c880
-    projectPath: Library\Artifacts\72\7267e66e4d15e8c0699ab6ab86d2c880
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: S&R\Library\Artifacts\73\730f20d6f2b6adac193bf971ab1405f5
-    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\Artifacts\73\730f20d6f2b6adac193bf971ab1405f5
-    projectPath: Library\Artifacts\73\730f20d6f2b6adac193bf971ab1405f5
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: S&R\Library\Artifacts\74\74a85bc3d623e27341451fed51ebc2a2
-    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\Artifacts\74\74a85bc3d623e27341451fed51ebc2a2
-    projectPath: Library\Artifacts\74\74a85bc3d623e27341451fed51ebc2a2
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: S&R\Library\Artifacts\75\7561d79bfdda02184be058e57205d810
-    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\Artifacts\75\7561d79bfdda02184be058e57205d810
-    projectPath: Library\Artifacts\75\7561d79bfdda02184be058e57205d810
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: S&R\Library\Artifacts\76\76136ea66db82217cfb0367571392d9a
-    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\Artifacts\76\76136ea66db82217cfb0367571392d9a
-    projectPath: Library\Artifacts\76\76136ea66db82217cfb0367571392d9a
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: S&R\Library\Artifacts\77\772119ccdb90867b94c0f9935e0187f2
-    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\Artifacts\77\772119ccdb90867b94c0f9935e0187f2
-    projectPath: Library\Artifacts\77\772119ccdb90867b94c0f9935e0187f2
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: S&R\Library\Artifacts\77\7734935f0bb269417d7c146055a9fb82
-    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\Artifacts\77\7734935f0bb269417d7c146055a9fb82
-    projectPath: Library\Artifacts\77\7734935f0bb269417d7c146055a9fb82
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: S&R\Library\Artifacts\77\779ef1ee28c2eec55077056863444dab
-    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\Artifacts\77\779ef1ee28c2eec55077056863444dab
-    projectPath: Library\Artifacts\77\779ef1ee28c2eec55077056863444dab
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: S&R\Library\Artifacts\78\78b467998af0a3089c2862fa0177ffce
-    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\Artifacts\78\78b467998af0a3089c2862fa0177ffce
-    projectPath: Library\Artifacts\78\78b467998af0a3089c2862fa0177ffce
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: S&R\Library\Artifacts\7a\7a0d7446296a381817005966e4243ba8
-    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\Artifacts\7a\7a0d7446296a381817005966e4243ba8
-    projectPath: Library\Artifacts\7a\7a0d7446296a381817005966e4243ba8
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: S&R\Library\Artifacts\7c\7c74269661dadf3a83911e9a1d3ad3d3
-    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\Artifacts\7c\7c74269661dadf3a83911e9a1d3ad3d3
-    projectPath: Library\Artifacts\7c\7c74269661dadf3a83911e9a1d3ad3d3
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: S&R\Library\Artifacts\7d\7d9c88931222adfe102a17173c075136
-    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\Artifacts\7d\7d9c88931222adfe102a17173c075136
-    projectPath: Library\Artifacts\7d\7d9c88931222adfe102a17173c075136
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: S&R\Library\Artifacts\7e\7e901cc47fbc4fa307d173ffdf929099
-    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\Artifacts\7e\7e901cc47fbc4fa307d173ffdf929099
-    projectPath: Library\Artifacts\7e\7e901cc47fbc4fa307d173ffdf929099
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: S&R\Library\Artifacts\7e\7eb068614bda010331e99a7163ad2281
-    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\Artifacts\7e\7eb068614bda010331e99a7163ad2281
-    projectPath: Library\Artifacts\7e\7eb068614bda010331e99a7163ad2281
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: S&R\Library\Artifacts\7f\7f559cdb44c35f883c211ec9bc2ea951
-    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\Artifacts\7f\7f559cdb44c35f883c211ec9bc2ea951
-    projectPath: Library\Artifacts\7f\7f559cdb44c35f883c211ec9bc2ea951
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: S&R\Library\Artifacts\7f\7f6b4ea1531a0e3d084cbdceba036e9f
-    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\Artifacts\7f\7f6b4ea1531a0e3d084cbdceba036e9f
-    projectPath: Library\Artifacts\7f\7f6b4ea1531a0e3d084cbdceba036e9f
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: S&R\Library\Artifacts\80\8059b865915bd1daf9a549b99dcd868e
-    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\Artifacts\80\8059b865915bd1daf9a549b99dcd868e
-    projectPath: Library\Artifacts\80\8059b865915bd1daf9a549b99dcd868e
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: S&R\Library\Artifacts\80\80976bb5bcdb93b97b1d0abc0f1ee89c
-    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\Artifacts\80\80976bb5bcdb93b97b1d0abc0f1ee89c
-    projectPath: Library\Artifacts\80\80976bb5bcdb93b97b1d0abc0f1ee89c
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: S&R\Library\Artifacts\83\8311de76522baff88580c2f208098fb8
-    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\Artifacts\83\8311de76522baff88580c2f208098fb8
-    projectPath: Library\Artifacts\83\8311de76522baff88580c2f208098fb8
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: S&R\Library\Artifacts\83\833c3e04bcf0f49b43805a1954ef4874
-    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\Artifacts\83\833c3e04bcf0f49b43805a1954ef4874
-    projectPath: Library\Artifacts\83\833c3e04bcf0f49b43805a1954ef4874
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: S&R\Library\Artifacts\84\846d7e3d487cab033ce56e0eb9b5ab33
-    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\Artifacts\84\846d7e3d487cab033ce56e0eb9b5ab33
-    projectPath: Library\Artifacts\84\846d7e3d487cab033ce56e0eb9b5ab33
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: S&R\Library\Artifacts\84\84b9c4d98158a6286973ba92f3cc5bc0
-    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\Artifacts\84\84b9c4d98158a6286973ba92f3cc5bc0
-    projectPath: Library\Artifacts\84\84b9c4d98158a6286973ba92f3cc5bc0
+  - path: S&R\Library\Artifacts\53\533c1b6d99f3c07ad7885830f769e939
+    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\Artifacts\53\533c1b6d99f3c07ad7885830f769e939
+    projectPath: Library\Artifacts\53\533c1b6d99f3c07ad7885830f769e939
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: S&R\Library\Artifacts\8c\8c65acae9d51a05f6f46de47457156f8
-    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\Artifacts\8c\8c65acae9d51a05f6f46de47457156f8
-    projectPath: Library\Artifacts\8c\8c65acae9d51a05f6f46de47457156f8
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: S&R\Library\Artifacts\8d\8d0c7212e85861f3c712fb3895e49c56
-    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\Artifacts\8d\8d0c7212e85861f3c712fb3895e49c56
-    projectPath: Library\Artifacts\8d\8d0c7212e85861f3c712fb3895e49c56
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: S&R\Library\Artifacts\8d\8d695c01f8912543ebbf876b83f49449
-    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\Artifacts\8d\8d695c01f8912543ebbf876b83f49449
-    projectPath: Library\Artifacts\8d\8d695c01f8912543ebbf876b83f49449
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: S&R\Library\Artifacts\8d\8d709a5f8a758d05d3eb89399d7fa60e
-    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\Artifacts\8d\8d709a5f8a758d05d3eb89399d7fa60e
-    projectPath: Library\Artifacts\8d\8d709a5f8a758d05d3eb89399d7fa60e
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: S&R\Library\Artifacts\8e\8ea1ff125a4c034bf610762ba18def50
-    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\Artifacts\8e\8ea1ff125a4c034bf610762ba18def50
-    projectPath: Library\Artifacts\8e\8ea1ff125a4c034bf610762ba18def50
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: S&R\Library\Artifacts\8e\8eef2f98d5dfff340c94779c06cc6d15
-    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\Artifacts\8e\8eef2f98d5dfff340c94779c06cc6d15
-    projectPath: Library\Artifacts\8e\8eef2f98d5dfff340c94779c06cc6d15
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: S&R\Library\Artifacts\8f\8f551df765a8bac77ee6b9d1d36698ba
-    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\Artifacts\8f\8f551df765a8bac77ee6b9d1d36698ba
-    projectPath: Library\Artifacts\8f\8f551df765a8bac77ee6b9d1d36698ba
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: S&R\Library\Artifacts\8f\8f790242c61f0c82351fa7eb64f7847d
-    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\Artifacts\8f\8f790242c61f0c82351fa7eb64f7847d
-    projectPath: Library\Artifacts\8f\8f790242c61f0c82351fa7eb64f7847d
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: S&R\Library\Artifacts\8f\8fef16814c5baae4230341a3fe411126
-    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\Artifacts\8f\8fef16814c5baae4230341a3fe411126
-    projectPath: Library\Artifacts\8f\8fef16814c5baae4230341a3fe411126
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: S&R\Library\Artifacts\91\9103a7352f28e969a56f8ca57c0abf67
-    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\Artifacts\91\9103a7352f28e969a56f8ca57c0abf67
-    projectPath: Library\Artifacts\91\9103a7352f28e969a56f8ca57c0abf67
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: S&R\Library\Artifacts\91\915f3e343842d094e2514b2010493784
-    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\Artifacts\91\915f3e343842d094e2514b2010493784
-    projectPath: Library\Artifacts\91\915f3e343842d094e2514b2010493784
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: S&R\Library\Artifacts\92\922b27451da5406cc071c0ed7fd1ea0d
-    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\Artifacts\92\922b27451da5406cc071c0ed7fd1ea0d
-    projectPath: Library\Artifacts\92\922b27451da5406cc071c0ed7fd1ea0d
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: S&R\Library\Artifacts\95\954490e1c76a015e2444d8903f167b0f
-    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\Artifacts\95\954490e1c76a015e2444d8903f167b0f
-    projectPath: Library\Artifacts\95\954490e1c76a015e2444d8903f167b0f
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: S&R\Library\Artifacts\98\98905e67cd0fcdca8ef6d8a845073978
-    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\Artifacts\98\98905e67cd0fcdca8ef6d8a845073978
-    projectPath: Library\Artifacts\98\98905e67cd0fcdca8ef6d8a845073978
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: S&R\Library\Artifacts\99\990d64df5705b135f9e9b73c1851d518
-    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\Artifacts\99\990d64df5705b135f9e9b73c1851d518
-    projectPath: Library\Artifacts\99\990d64df5705b135f9e9b73c1851d518
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: S&R\Library\Artifacts\9a\9a007c368b8d4972dd93731f436213c7
-    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\Artifacts\9a\9a007c368b8d4972dd93731f436213c7
-    projectPath: Library\Artifacts\9a\9a007c368b8d4972dd93731f436213c7
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: S&R\Library\Artifacts\9a\9a0b83a65c0ea5461933c870f6ce0b93
-    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\Artifacts\9a\9a0b83a65c0ea5461933c870f6ce0b93
-    projectPath: Library\Artifacts\9a\9a0b83a65c0ea5461933c870f6ce0b93
+  - path: S&R\Library\Artifacts\53\53f2f12833c775f95319b8931fc2b021
+    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\Artifacts\53\53f2f12833c775f95319b8931fc2b021
+    projectPath: Library\Artifacts\53\53f2f12833c775f95319b8931fc2b021
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: S&R\Library\Artifacts\9a\9a38f207fca27042ec06041a7b3bf2ac
-    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\Artifacts\9a\9a38f207fca27042ec06041a7b3bf2ac
-    projectPath: Library\Artifacts\9a\9a38f207fca27042ec06041a7b3bf2ac
+  - path: S&R\Library\Artifacts\54\54d1655501128c4dffedacadc757d804
+    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\Artifacts\54\54d1655501128c4dffedacadc757d804
+    projectPath: Library\Artifacts\54\54d1655501128c4dffedacadc757d804
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: S&R\Library\Artifacts\9a\9acabb139eeeaaf6cecc8393d63a50b7
-    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\Artifacts\9a\9acabb139eeeaaf6cecc8393d63a50b7
-    projectPath: Library\Artifacts\9a\9acabb139eeeaaf6cecc8393d63a50b7
+  - path: S&R\Library\Artifacts\55\5552d063a04d84ee016c346eb424a3bd
+    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\Artifacts\55\5552d063a04d84ee016c346eb424a3bd
+    projectPath: Library\Artifacts\55\5552d063a04d84ee016c346eb424a3bd
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: S&R\Library\Artifacts\9b\9b01befb567a285103aab10727bf5073
-    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\Artifacts\9b\9b01befb567a285103aab10727bf5073
-    projectPath: Library\Artifacts\9b\9b01befb567a285103aab10727bf5073
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: S&R\Library\Artifacts\57\5728a50d5257c100fae817847b8e4de3
+    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\Artifacts\57\5728a50d5257c100fae817847b8e4de3
+    projectPath: Library\Artifacts\57\5728a50d5257c100fae817847b8e4de3
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: S&R\Library\Artifacts\9b\9b5a3fe8fb723a9097f5a3153ed85226
-    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\Artifacts\9b\9b5a3fe8fb723a9097f5a3153ed85226
-    projectPath: Library\Artifacts\9b\9b5a3fe8fb723a9097f5a3153ed85226
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: S&R\Library\Artifacts\59\59195ac8bc0d6af5c6dadb3ecc23aa89
+    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\Artifacts\59\59195ac8bc0d6af5c6dadb3ecc23aa89
+    projectPath: Library\Artifacts\59\59195ac8bc0d6af5c6dadb3ecc23aa89
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: S&R\Library\Artifacts\9c\9cdcd2fb4812decb15473a4fcad57e77
-    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\Artifacts\9c\9cdcd2fb4812decb15473a4fcad57e77
-    projectPath: Library\Artifacts\9c\9cdcd2fb4812decb15473a4fcad57e77
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: S&R\Library\Artifacts\5c\5c439c35e02ed6fbacd9d0d11b2ae96c
+    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\Artifacts\5c\5c439c35e02ed6fbacd9d0d11b2ae96c
+    projectPath: Library\Artifacts\5c\5c439c35e02ed6fbacd9d0d11b2ae96c
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: S&R\Library\Artifacts\9d\9d06f4b558d198035a43f909d30203ee
-    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\Artifacts\9d\9d06f4b558d198035a43f909d30203ee
-    projectPath: Library\Artifacts\9d\9d06f4b558d198035a43f909d30203ee
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: S&R\Library\Artifacts\5d\5d002e6a660a088bcb8169b58aa83254
+    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\Artifacts\5d\5d002e6a660a088bcb8169b58aa83254
+    projectPath: Library\Artifacts\5d\5d002e6a660a088bcb8169b58aa83254
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: S&R\Library\Artifacts\9d\9d5b0f219437fd4f6761057a0e611c6a
-    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\Artifacts\9d\9d5b0f219437fd4f6761057a0e611c6a
-    projectPath: Library\Artifacts\9d\9d5b0f219437fd4f6761057a0e611c6a
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: S&R\Library\Artifacts\60\6001654f67749128775fc56b628fb6a4
+    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\Artifacts\60\6001654f67749128775fc56b628fb6a4
+    projectPath: Library\Artifacts\60\6001654f67749128775fc56b628fb6a4
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: S&R\Library\Artifacts\9e\9e2fcf1533d5665449a0eae9591e0e23
-    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\Artifacts\9e\9e2fcf1533d5665449a0eae9591e0e23
-    projectPath: Library\Artifacts\9e\9e2fcf1533d5665449a0eae9591e0e23
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: S&R\Library\Artifacts\64\64d270079a22593952db5a6ca24a0fe9
+    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\Artifacts\64\64d270079a22593952db5a6ca24a0fe9
+    projectPath: Library\Artifacts\64\64d270079a22593952db5a6ca24a0fe9
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: S&R\Library\Artifacts\68\6846f35e70784417b5b19e8816e40a97
+    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\Artifacts\68\6846f35e70784417b5b19e8816e40a97
+    projectPath: Library\Artifacts\68\6846f35e70784417b5b19e8816e40a97
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: S&R\Library\Artifacts\78\78d9aae57496e6da45e436be60b2940c
+    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\Artifacts\78\78d9aae57496e6da45e436be60b2940c
+    projectPath: Library\Artifacts\78\78d9aae57496e6da45e436be60b2940c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: S&R\Library\Artifacts\7b\7be8f9d8b0b75373243c4852727d2cea
+    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\Artifacts\7b\7be8f9d8b0b75373243c4852727d2cea
+    projectPath: Library\Artifacts\7b\7be8f9d8b0b75373243c4852727d2cea
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: S&R\Library\Artifacts\7f\7fea27e93bf9df55ce96b59cce56883b
+    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\Artifacts\7f\7fea27e93bf9df55ce96b59cce56883b
+    projectPath: Library\Artifacts\7f\7fea27e93bf9df55ce96b59cce56883b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: S&R\Library\Artifacts\8b\8b40bfebbeb1319e65f452b19b9b9d7e
+    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\Artifacts\8b\8b40bfebbeb1319e65f452b19b9b9d7e
+    projectPath: Library\Artifacts\8b\8b40bfebbeb1319e65f452b19b9b9d7e
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: S&R\Library\Artifacts\91\918e868d40e2ba133531ca75c7f9bc38
+    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\Artifacts\91\918e868d40e2ba133531ca75c7f9bc38
+    projectPath: Library\Artifacts\91\918e868d40e2ba133531ca75c7f9bc38
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: S&R\Library\Artifacts\93\93c0b58395d405b18e7fe3807a2af7af
+    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\Artifacts\93\93c0b58395d405b18e7fe3807a2af7af
+    projectPath: Library\Artifacts\93\93c0b58395d405b18e7fe3807a2af7af
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
   - path: S&R\Library\Artifacts\9e\9ede04cfba305ebf2f6dab64240b382a
     fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\Artifacts\9e\9ede04cfba305ebf2f6dab64240b382a
     projectPath: Library\Artifacts\9e\9ede04cfba305ebf2f6dab64240b382a
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: S&R\Library\Artifacts\a0\a075b2ac0a19b94a87345b6b6e2acb7a
-    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\Artifacts\a0\a075b2ac0a19b94a87345b6b6e2acb7a
-    projectPath: Library\Artifacts\a0\a075b2ac0a19b94a87345b6b6e2acb7a
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: S&R\Library\Artifacts\a2\a24951cb8e4229638fc91e6fd483fa4a
-    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\Artifacts\a2\a24951cb8e4229638fc91e6fd483fa4a
-    projectPath: Library\Artifacts\a2\a24951cb8e4229638fc91e6fd483fa4a
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: S&R\Library\Artifacts\a4\a4ec9aca46f5e2898005580dd760cebe
-    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\Artifacts\a4\a4ec9aca46f5e2898005580dd760cebe
-    projectPath: Library\Artifacts\a4\a4ec9aca46f5e2898005580dd760cebe
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: S&R\Library\Artifacts\a5\a59baa8d57eef9275d9ab7ba9a808c7e
-    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\Artifacts\a5\a59baa8d57eef9275d9ab7ba9a808c7e
-    projectPath: Library\Artifacts\a5\a59baa8d57eef9275d9ab7ba9a808c7e
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: S&R\Library\Artifacts\9f\9f9faf75deb8e188cd7f3fba003f43df
+    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\Artifacts\9f\9f9faf75deb8e188cd7f3fba003f43df
+    projectPath: Library\Artifacts\9f\9f9faf75deb8e188cd7f3fba003f43df
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: S&R\Library\Artifacts\a6\a616319d1329faa0702d93b7c8eaf50d
-    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\Artifacts\a6\a616319d1329faa0702d93b7c8eaf50d
-    projectPath: Library\Artifacts\a6\a616319d1329faa0702d93b7c8eaf50d
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: S&R\Library\Artifacts\a6\a6baa0e6538533b663cd849c9e61327f
-    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\Artifacts\a6\a6baa0e6538533b663cd849c9e61327f
-    projectPath: Library\Artifacts\a6\a6baa0e6538533b663cd849c9e61327f
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: S&R\Library\Artifacts\a9\a96a9d7e8891b308fcd02b5fd297ec80
-    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\Artifacts\a9\a96a9d7e8891b308fcd02b5fd297ec80
-    projectPath: Library\Artifacts\a9\a96a9d7e8891b308fcd02b5fd297ec80
+  - path: S&R\Library\Artifacts\a2\a2fc5cb0012087efe889d6f0c922471a
+    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\Artifacts\a2\a2fc5cb0012087efe889d6f0c922471a
+    projectPath: Library\Artifacts\a2\a2fc5cb0012087efe889d6f0c922471a
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: S&R\Library\Artifacts\aa\aa91b9f46854fbe3cd7de719670dc221
-    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\Artifacts\aa\aa91b9f46854fbe3cd7de719670dc221
-    projectPath: Library\Artifacts\aa\aa91b9f46854fbe3cd7de719670dc221
+  - path: S&R\Library\Artifacts\a4\a4273ece3dba0a03ac757cc67f9a0d21
+    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\Artifacts\a4\a4273ece3dba0a03ac757cc67f9a0d21
+    projectPath: Library\Artifacts\a4\a4273ece3dba0a03ac757cc67f9a0d21
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: S&R\Library\Artifacts\ab\ab3a89ce2333dc255cf03dee2ea72a33
-    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\Artifacts\ab\ab3a89ce2333dc255cf03dee2ea72a33
-    projectPath: Library\Artifacts\ab\ab3a89ce2333dc255cf03dee2ea72a33
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: S&R\Library\Artifacts\b1\b15a0acc8d5e2c37527d1402c60739be
+    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\Artifacts\b1\b15a0acc8d5e2c37527d1402c60739be
+    projectPath: Library\Artifacts\b1\b15a0acc8d5e2c37527d1402c60739be
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: S&R\Library\Artifacts\ab\aba8bcc00a4c2975a110cf8cc3bfa969
-    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\Artifacts\ab\aba8bcc00a4c2975a110cf8cc3bfa969
-    projectPath: Library\Artifacts\ab\aba8bcc00a4c2975a110cf8cc3bfa969
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: S&R\Library\Artifacts\b2\b23465289bd9539efd678b6758b13290
+    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\Artifacts\b2\b23465289bd9539efd678b6758b13290
+    projectPath: Library\Artifacts\b2\b23465289bd9539efd678b6758b13290
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: S&R\Library\Artifacts\ac\ac61515afd3b3b09bfbc2f69692dde52
-    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\Artifacts\ac\ac61515afd3b3b09bfbc2f69692dde52
-    projectPath: Library\Artifacts\ac\ac61515afd3b3b09bfbc2f69692dde52
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: S&R\Library\Artifacts\ac\acae0b1f161c0b2391ad4a705a77abfb
-    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\Artifacts\ac\acae0b1f161c0b2391ad4a705a77abfb
-    projectPath: Library\Artifacts\ac\acae0b1f161c0b2391ad4a705a77abfb
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: S&R\Library\Artifacts\ad\adeeeeac51f8a2e7486e1c27778434d2
-    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\Artifacts\ad\adeeeeac51f8a2e7486e1c27778434d2
-    projectPath: Library\Artifacts\ad\adeeeeac51f8a2e7486e1c27778434d2
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: S&R\Library\Artifacts\af\af521b7b2e1ec07a76ed1fe1d781edca
-    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\Artifacts\af\af521b7b2e1ec07a76ed1fe1d781edca
-    projectPath: Library\Artifacts\af\af521b7b2e1ec07a76ed1fe1d781edca
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: S&R\Library\Artifacts\b0\b0451364778a78a62db5a2e2e7e180a5
-    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\Artifacts\b0\b0451364778a78a62db5a2e2e7e180a5
-    projectPath: Library\Artifacts\b0\b0451364778a78a62db5a2e2e7e180a5
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: S&R\Library\Artifacts\b0\b0adf36fa05a7d7555305311d005d5f3
-    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\Artifacts\b0\b0adf36fa05a7d7555305311d005d5f3
-    projectPath: Library\Artifacts\b0\b0adf36fa05a7d7555305311d005d5f3
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: S&R\Library\Artifacts\b1\b1741aa759511b642db9e608bca7d733
-    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\Artifacts\b1\b1741aa759511b642db9e608bca7d733
-    projectPath: Library\Artifacts\b1\b1741aa759511b642db9e608bca7d733
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: S&R\Library\Artifacts\b2\b2a8a30e8b90d310b72f26fc594aacc0
-    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\Artifacts\b2\b2a8a30e8b90d310b72f26fc594aacc0
-    projectPath: Library\Artifacts\b2\b2a8a30e8b90d310b72f26fc594aacc0
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
+    indexStatus: 1
+    workTreeStatus: 1
   - path: S&R\Library\Artifacts\b4\b4aa79e13bb3906a001928b782ce6166
     fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\Artifacts\b4\b4aa79e13bb3906a001928b782ce6166
     projectPath: Library\Artifacts\b4\b4aa79e13bb3906a001928b782ce6166
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: S&R\Library\Artifacts\b4\b4aabd2ba98bc50b440a7172741690ee
-    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\Artifacts\b4\b4aabd2ba98bc50b440a7172741690ee
-    projectPath: Library\Artifacts\b4\b4aabd2ba98bc50b440a7172741690ee
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: S&R\Library\Artifacts\b6\b6ffbed6c6c9cb5349e94603805321bc
-    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\Artifacts\b6\b6ffbed6c6c9cb5349e94603805321bc
-    projectPath: Library\Artifacts\b6\b6ffbed6c6c9cb5349e94603805321bc
-    originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: S&R\Library\Artifacts\b7\b739aa9fd8435fb121e7a08089309abb
-    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\Artifacts\b7\b739aa9fd8435fb121e7a08089309abb
-    projectPath: Library\Artifacts\b7\b739aa9fd8435fb121e7a08089309abb
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: S&R\Library\Artifacts\b8\b877ee5ec7d85b3370a1ed9f0e4fcbef
-    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\Artifacts\b8\b877ee5ec7d85b3370a1ed9f0e4fcbef
-    projectPath: Library\Artifacts\b8\b877ee5ec7d85b3370a1ed9f0e4fcbef
+  - path: S&R\Library\Artifacts\b7\b7047c7beff7968b10488f7c09fb8503
+    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\Artifacts\b7\b7047c7beff7968b10488f7c09fb8503
+    projectPath: Library\Artifacts\b7\b7047c7beff7968b10488f7c09fb8503
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: S&R\Library\Artifacts\bb\bb14c836d32a1467443a984055884d17
-    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\Artifacts\bb\bb14c836d32a1467443a984055884d17
-    projectPath: Library\Artifacts\bb\bb14c836d32a1467443a984055884d17
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: S&R\Library\Artifacts\bc\bcc75e4241aaec0df847d4ea3e72c170
-    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\Artifacts\bc\bcc75e4241aaec0df847d4ea3e72c170
-    projectPath: Library\Artifacts\bc\bcc75e4241aaec0df847d4ea3e72c170
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: S&R\Library\Artifacts\bc\bccc9b38b47aeff7b25ea200e6a626fa
-    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\Artifacts\bc\bccc9b38b47aeff7b25ea200e6a626fa
-    projectPath: Library\Artifacts\bc\bccc9b38b47aeff7b25ea200e6a626fa
+  - path: S&R\Library\Artifacts\bc\bc4e9bdabc7d278a7b4285918649c057
+    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\Artifacts\bc\bc4e9bdabc7d278a7b4285918649c057
+    projectPath: Library\Artifacts\bc\bc4e9bdabc7d278a7b4285918649c057
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: S&R\Library\Artifacts\bd\bd81d6ed3622e6511f61a464400e6846
-    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\Artifacts\bd\bd81d6ed3622e6511f61a464400e6846
-    projectPath: Library\Artifacts\bd\bd81d6ed3622e6511f61a464400e6846
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: S&R\Library\Artifacts\bd\bdc3efa3125e5b1938aff9b5662114ce
-    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\Artifacts\bd\bdc3efa3125e5b1938aff9b5662114ce
-    projectPath: Library\Artifacts\bd\bdc3efa3125e5b1938aff9b5662114ce
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: S&R\Library\Artifacts\bf\bfca8bc370ab4aacb13205d3d8b5b23e
-    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\Artifacts\bf\bfca8bc370ab4aacb13205d3d8b5b23e
-    projectPath: Library\Artifacts\bf\bfca8bc370ab4aacb13205d3d8b5b23e
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: S&R\Library\Artifacts\c1\c1118d133e9f7c3f6987f2ff8a837152
-    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\Artifacts\c1\c1118d133e9f7c3f6987f2ff8a837152
-    projectPath: Library\Artifacts\c1\c1118d133e9f7c3f6987f2ff8a837152
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: S&R\Library\Artifacts\c4\c456a1e32be09070375039be8ea1dec9
-    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\Artifacts\c4\c456a1e32be09070375039be8ea1dec9
-    projectPath: Library\Artifacts\c4\c456a1e32be09070375039be8ea1dec9
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: S&R\Library\Artifacts\c5\c5812f2e60985da13e3eec0a1e175f70
-    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\Artifacts\c5\c5812f2e60985da13e3eec0a1e175f70
-    projectPath: Library\Artifacts\c5\c5812f2e60985da13e3eec0a1e175f70
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: S&R\Library\Artifacts\c5\c581d14ecbaa86d500589548aee6c8c7
-    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\Artifacts\c5\c581d14ecbaa86d500589548aee6c8c7
-    projectPath: Library\Artifacts\c5\c581d14ecbaa86d500589548aee6c8c7
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: S&R\Library\Artifacts\c6\c62599e06658ea3008d1e5c1bd69c842
-    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\Artifacts\c6\c62599e06658ea3008d1e5c1bd69c842
-    projectPath: Library\Artifacts\c6\c62599e06658ea3008d1e5c1bd69c842
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: S&R\Library\Artifacts\c6\c6eab4834ab9b5ce27840204f757776d
-    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\Artifacts\c6\c6eab4834ab9b5ce27840204f757776d
-    projectPath: Library\Artifacts\c6\c6eab4834ab9b5ce27840204f757776d
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: S&R\Library\Artifacts\c8\c863d35d34664b5aab00f07424ec8be2
-    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\Artifacts\c8\c863d35d34664b5aab00f07424ec8be2
-    projectPath: Library\Artifacts\c8\c863d35d34664b5aab00f07424ec8be2
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: S&R\Library\Artifacts\c8\c8987e2677fe4437819423a400073863
-    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\Artifacts\c8\c8987e2677fe4437819423a400073863
-    projectPath: Library\Artifacts\c8\c8987e2677fe4437819423a400073863
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: S&R\Library\Artifacts\cb\cb76dbada0fd3b020ca9c027ebfec668
-    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\Artifacts\cb\cb76dbada0fd3b020ca9c027ebfec668
-    projectPath: Library\Artifacts\cb\cb76dbada0fd3b020ca9c027ebfec668
+  - path: S&R\Library\Artifacts\bd\bdff96e5064f5725f2c94511855db1c3
+    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\Artifacts\bd\bdff96e5064f5725f2c94511855db1c3
+    projectPath: Library\Artifacts\bd\bdff96e5064f5725f2c94511855db1c3
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: S&R\Library\Artifacts\cb\cbaa09c19f1d663f02d9c2bfc7c4da22
-    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\Artifacts\cb\cbaa09c19f1d663f02d9c2bfc7c4da22
-    projectPath: Library\Artifacts\cb\cbaa09c19f1d663f02d9c2bfc7c4da22
+  - path: S&R\Library\Artifacts\be\be3b1829b0f03589ff76bb32b93ae81f
+    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\Artifacts\be\be3b1829b0f03589ff76bb32b93ae81f
+    projectPath: Library\Artifacts\be\be3b1829b0f03589ff76bb32b93ae81f
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: S&R\Library\Artifacts\cc\cc72ab9d8a7dbc82c2240dc9d195864b
-    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\Artifacts\cc\cc72ab9d8a7dbc82c2240dc9d195864b
-    projectPath: Library\Artifacts\cc\cc72ab9d8a7dbc82c2240dc9d195864b
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: S&R\Library\Artifacts\be\beb4276d4168455587dab69a10bda51e
+    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\Artifacts\be\beb4276d4168455587dab69a10bda51e
+    projectPath: Library\Artifacts\be\beb4276d4168455587dab69a10bda51e
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: S&R\Library\Artifacts\cd\cd8f049cf9d46df4c924ace08ca159b7
-    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\Artifacts\cd\cd8f049cf9d46df4c924ace08ca159b7
-    projectPath: Library\Artifacts\cd\cd8f049cf9d46df4c924ace08ca159b7
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: S&R\Library\Artifacts\bf\bfc66aeb7301f9b2e0fd3117ce8d93f5
+    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\Artifacts\bf\bfc66aeb7301f9b2e0fd3117ce8d93f5
+    projectPath: Library\Artifacts\bf\bfc66aeb7301f9b2e0fd3117ce8d93f5
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: S&R\Library\Artifacts\cd\cdbcb69d70192dc54f84f4693c425ce7
-    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\Artifacts\cd\cdbcb69d70192dc54f84f4693c425ce7
-    projectPath: Library\Artifacts\cd\cdbcb69d70192dc54f84f4693c425ce7
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: S&R\Library\Artifacts\d2\d29577ec33fe3f92a7cbc7ba4eea3fb5
+    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\Artifacts\d2\d29577ec33fe3f92a7cbc7ba4eea3fb5
+    projectPath: Library\Artifacts\d2\d29577ec33fe3f92a7cbc7ba4eea3fb5
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: S&R\Library\Artifacts\cf\cfa893d6f751eb0cd399a5d3f9bf59ce
-    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\Artifacts\cf\cfa893d6f751eb0cd399a5d3f9bf59ce
-    projectPath: Library\Artifacts\cf\cfa893d6f751eb0cd399a5d3f9bf59ce
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: S&R\Library\Artifacts\d5\d58d9d67ebb89dd1d6c5e1f2d50a06d4
+    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\Artifacts\d5\d58d9d67ebb89dd1d6c5e1f2d50a06d4
+    projectPath: Library\Artifacts\d5\d58d9d67ebb89dd1d6c5e1f2d50a06d4
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: S&R\Library\Artifacts\d0\d05a36d97ddfb7a400c6bfdf39b47140
-    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\Artifacts\d0\d05a36d97ddfb7a400c6bfdf39b47140
-    projectPath: Library\Artifacts\d0\d05a36d97ddfb7a400c6bfdf39b47140
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: S&R\Library\Artifacts\d7\d72a6e66df98e1e41fe9444364c3a776
+    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\Artifacts\d7\d72a6e66df98e1e41fe9444364c3a776
+    projectPath: Library\Artifacts\d7\d72a6e66df98e1e41fe9444364c3a776
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: S&R\Library\Artifacts\d0\d08214a46e680f9fb1c98a3add62a7dd
-    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\Artifacts\d0\d08214a46e680f9fb1c98a3add62a7dd
-    projectPath: Library\Artifacts\d0\d08214a46e680f9fb1c98a3add62a7dd
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: S&R\Library\Artifacts\d8\d8b09e8e09f790d457e38b928f3a5411
+    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\Artifacts\d8\d8b09e8e09f790d457e38b928f3a5411
+    projectPath: Library\Artifacts\d8\d8b09e8e09f790d457e38b928f3a5411
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: S&R\Library\Artifacts\d0\d094f99ec311e22bef28390590bec71c
-    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\Artifacts\d0\d094f99ec311e22bef28390590bec71c
-    projectPath: Library\Artifacts\d0\d094f99ec311e22bef28390590bec71c
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: S&R\Library\Artifacts\d8\d8f16b1ee7817c4901aacbb25df2b215
+    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\Artifacts\d8\d8f16b1ee7817c4901aacbb25df2b215
+    projectPath: Library\Artifacts\d8\d8f16b1ee7817c4901aacbb25df2b215
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: S&R\Library\Artifacts\d1\d13132d75bb031bd9cdfc13bb9c4ec5e
-    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\Artifacts\d1\d13132d75bb031bd9cdfc13bb9c4ec5e
-    projectPath: Library\Artifacts\d1\d13132d75bb031bd9cdfc13bb9c4ec5e
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: S&R\Library\Artifacts\db\dbad0fcea4220e8d59ac3f85d1c1ecde
+    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\Artifacts\db\dbad0fcea4220e8d59ac3f85d1c1ecde
+    projectPath: Library\Artifacts\db\dbad0fcea4220e8d59ac3f85d1c1ecde
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: S&R\Library\Artifacts\d1\d197a1ac5c21408c3aa7025c57bfc3ff
-    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\Artifacts\d1\d197a1ac5c21408c3aa7025c57bfc3ff
-    projectPath: Library\Artifacts\d1\d197a1ac5c21408c3aa7025c57bfc3ff
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: S&R\Library\Artifacts\db\dbd1d588cfbabae6b10350b8ee85fc53
+    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\Artifacts\db\dbd1d588cfbabae6b10350b8ee85fc53
+    projectPath: Library\Artifacts\db\dbd1d588cfbabae6b10350b8ee85fc53
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: S&R\Library\Artifacts\d4\d4971e872fe264e0155e9a53d9bd664c
-    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\Artifacts\d4\d4971e872fe264e0155e9a53d9bd664c
-    projectPath: Library\Artifacts\d4\d4971e872fe264e0155e9a53d9bd664c
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: S&R\Library\Artifacts\dd\dd501c5368a3196a4f3e91d3fd850238
+    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\Artifacts\dd\dd501c5368a3196a4f3e91d3fd850238
+    projectPath: Library\Artifacts\dd\dd501c5368a3196a4f3e91d3fd850238
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: S&R\Library\Artifacts\d6\d65892a216e96809e38aeed654ea2042
-    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\Artifacts\d6\d65892a216e96809e38aeed654ea2042
-    projectPath: Library\Artifacts\d6\d65892a216e96809e38aeed654ea2042
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: S&R\Library\Artifacts\e3\e366204c59fcf039847bcd61505f0212
+    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\Artifacts\e3\e366204c59fcf039847bcd61505f0212
+    projectPath: Library\Artifacts\e3\e366204c59fcf039847bcd61505f0212
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: S&R\Library\Artifacts\d6\d682df2dcaa21e6025a0a83bf4ea8ef4
-    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\Artifacts\d6\d682df2dcaa21e6025a0a83bf4ea8ef4
-    projectPath: Library\Artifacts\d6\d682df2dcaa21e6025a0a83bf4ea8ef4
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: S&R\Library\Artifacts\e4\e4aa150c9c4d1c65f66c2859251d3f64
+    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\Artifacts\e4\e4aa150c9c4d1c65f66c2859251d3f64
+    projectPath: Library\Artifacts\e4\e4aa150c9c4d1c65f66c2859251d3f64
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: S&R\Library\Artifacts\d7\d72c16b10165121ee62232418907bb18
-    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\Artifacts\d7\d72c16b10165121ee62232418907bb18
-    projectPath: Library\Artifacts\d7\d72c16b10165121ee62232418907bb18
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: S&R\Library\Artifacts\e9\e976977996379945e3b35187dd94f544
+    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\Artifacts\e9\e976977996379945e3b35187dd94f544
+    projectPath: Library\Artifacts\e9\e976977996379945e3b35187dd94f544
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: S&R\Library\Artifacts\d8\d8bb4e56a18e3c62db29ccd7ebfdb25d
-    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\Artifacts\d8\d8bb4e56a18e3c62db29ccd7ebfdb25d
-    projectPath: Library\Artifacts\d8\d8bb4e56a18e3c62db29ccd7ebfdb25d
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: S&R\Library\Artifacts\d9\d90df2aa373cf748801b31b3bdc4e920
-    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\Artifacts\d9\d90df2aa373cf748801b31b3bdc4e920
-    projectPath: Library\Artifacts\d9\d90df2aa373cf748801b31b3bdc4e920
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: S&R\Library\Artifacts\da\dac6c57cef9a382c1fe7cb54af51fd35
-    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\Artifacts\da\dac6c57cef9a382c1fe7cb54af51fd35
-    projectPath: Library\Artifacts\da\dac6c57cef9a382c1fe7cb54af51fd35
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: S&R\Library\Artifacts\db\db1aa91dd635ca14e24b54977ee4286f
-    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\Artifacts\db\db1aa91dd635ca14e24b54977ee4286f
-    projectPath: Library\Artifacts\db\db1aa91dd635ca14e24b54977ee4286f
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: S&R\Library\Artifacts\db\db406579feeab02a0fbb854522d8042a
-    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\Artifacts\db\db406579feeab02a0fbb854522d8042a
-    projectPath: Library\Artifacts\db\db406579feeab02a0fbb854522d8042a
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: S&R\Library\Artifacts\dc\dc4f7295c18c4ca418938ca4ebee7b42
-    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\Artifacts\dc\dc4f7295c18c4ca418938ca4ebee7b42
-    projectPath: Library\Artifacts\dc\dc4f7295c18c4ca418938ca4ebee7b42
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: S&R\Library\Artifacts\dd\dda9bda92d5281978eabfe64a8b4ad97
-    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\Artifacts\dd\dda9bda92d5281978eabfe64a8b4ad97
-    projectPath: Library\Artifacts\dd\dda9bda92d5281978eabfe64a8b4ad97
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: S&R\Library\Artifacts\dd\ddce75123bb0e293cea9f7d4923b882c
-    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\Artifacts\dd\ddce75123bb0e293cea9f7d4923b882c
-    projectPath: Library\Artifacts\dd\ddce75123bb0e293cea9f7d4923b882c
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: S&R\Library\Artifacts\de\de95c88ba7910c75dd13a9252b92f836
-    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\Artifacts\de\de95c88ba7910c75dd13a9252b92f836
-    projectPath: Library\Artifacts\de\de95c88ba7910c75dd13a9252b92f836
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: S&R\Library\Artifacts\de\dedf5335567ec112c8166cb2a49c31d1
-    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\Artifacts\de\dedf5335567ec112c8166cb2a49c31d1
-    projectPath: Library\Artifacts\de\dedf5335567ec112c8166cb2a49c31d1
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: S&R\Library\Artifacts\de\def8569e41354366bfb570838c953711
-    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\Artifacts\de\def8569e41354366bfb570838c953711
-    projectPath: Library\Artifacts\de\def8569e41354366bfb570838c953711
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: S&R\Library\Artifacts\df\df5bbe60ef0294e89aed6154ac4af47b
-    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\Artifacts\df\df5bbe60ef0294e89aed6154ac4af47b
-    projectPath: Library\Artifacts\df\df5bbe60ef0294e89aed6154ac4af47b
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: S&R\Library\Artifacts\e1\e143e05ec314039716eb25e9ddaa37b7
-    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\Artifacts\e1\e143e05ec314039716eb25e9ddaa37b7
-    projectPath: Library\Artifacts\e1\e143e05ec314039716eb25e9ddaa37b7
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: S&R\Library\Artifacts\e1\e1a1e4b2cb4669fa53e91f25c1ac8f30
-    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\Artifacts\e1\e1a1e4b2cb4669fa53e91f25c1ac8f30
-    projectPath: Library\Artifacts\e1\e1a1e4b2cb4669fa53e91f25c1ac8f30
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: S&R\Library\Artifacts\e1\e1c49fcb5418efec181abd7d52066090
-    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\Artifacts\e1\e1c49fcb5418efec181abd7d52066090
-    projectPath: Library\Artifacts\e1\e1c49fcb5418efec181abd7d52066090
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: S&R\Library\Artifacts\e2\e23ae9a9ddf9b71fa0d75d9f8b9f3069
-    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\Artifacts\e2\e23ae9a9ddf9b71fa0d75d9f8b9f3069
-    projectPath: Library\Artifacts\e2\e23ae9a9ddf9b71fa0d75d9f8b9f3069
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: S&R\Library\Artifacts\e2\e241fc317e67d3e8c4c73f035d36b790
-    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\Artifacts\e2\e241fc317e67d3e8c4c73f035d36b790
-    projectPath: Library\Artifacts\e2\e241fc317e67d3e8c4c73f035d36b790
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: S&R\Library\Artifacts\e2\e24969744b00fce440271cfbb678e414
-    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\Artifacts\e2\e24969744b00fce440271cfbb678e414
-    projectPath: Library\Artifacts\e2\e24969744b00fce440271cfbb678e414
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: S&R\Library\Artifacts\e6\e6bb1f43b815bf081b654dabee14ddb2
-    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\Artifacts\e6\e6bb1f43b815bf081b654dabee14ddb2
-    projectPath: Library\Artifacts\e6\e6bb1f43b815bf081b654dabee14ddb2
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: S&R\Library\Artifacts\e7\e748e47f58f6d8dd8b66bda8c287ddff
-    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\Artifacts\e7\e748e47f58f6d8dd8b66bda8c287ddff
-    projectPath: Library\Artifacts\e7\e748e47f58f6d8dd8b66bda8c287ddff
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: S&R\Library\Artifacts\e8\e8d7b07498c10950eea6976a0578a8e8
-    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\Artifacts\e8\e8d7b07498c10950eea6976a0578a8e8
-    projectPath: Library\Artifacts\e8\e8d7b07498c10950eea6976a0578a8e8
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: S&R\Library\Artifacts\e9\e9fdc877b22c8e4d46b4aa482413983c
-    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\Artifacts\e9\e9fdc877b22c8e4d46b4aa482413983c
-    projectPath: Library\Artifacts\e9\e9fdc877b22c8e4d46b4aa482413983c
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: S&R\Library\Artifacts\ea\ea663c3bb165bad3bab88a8a21f74e37
-    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\Artifacts\ea\ea663c3bb165bad3bab88a8a21f74e37
-    projectPath: Library\Artifacts\ea\ea663c3bb165bad3bab88a8a21f74e37
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: S&R\Library\Artifacts\ea\eafeeceb73e908466c547680ebb40e2f
-    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\Artifacts\ea\eafeeceb73e908466c547680ebb40e2f
-    projectPath: Library\Artifacts\ea\eafeeceb73e908466c547680ebb40e2f
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: S&R\Library\Artifacts\eb\eb9e76e89afd2ae7a17d14ab1deb2396
-    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\Artifacts\eb\eb9e76e89afd2ae7a17d14ab1deb2396
-    projectPath: Library\Artifacts\eb\eb9e76e89afd2ae7a17d14ab1deb2396
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: S&R\Library\Artifacts\ec\ec0e0d49796dac40c69b155fa7ab471b
-    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\Artifacts\ec\ec0e0d49796dac40c69b155fa7ab471b
-    projectPath: Library\Artifacts\ec\ec0e0d49796dac40c69b155fa7ab471b
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: S&R\Library\Artifacts\ec\eca8493ee6a35cc40a05b979033fa1f0
-    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\Artifacts\ec\eca8493ee6a35cc40a05b979033fa1f0
-    projectPath: Library\Artifacts\ec\eca8493ee6a35cc40a05b979033fa1f0
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: S&R\Library\Artifacts\ed\ed495417bada6d49ebcb9ee52336b3cb
-    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\Artifacts\ed\ed495417bada6d49ebcb9ee52336b3cb
-    projectPath: Library\Artifacts\ed\ed495417bada6d49ebcb9ee52336b3cb
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
+    indexStatus: 1
+    workTreeStatus: 1
   - path: S&R\Library\Artifacts\ed\edf4f6ee6a56dc27adb79eba019453b1
     fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\Artifacts\ed\edf4f6ee6a56dc27adb79eba019453b1
     projectPath: Library\Artifacts\ed\edf4f6ee6a56dc27adb79eba019453b1
     originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: S&R\Library\Artifacts\f0\f02ee9517b7771cceac69ab70923dddf
+    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\Artifacts\f0\f02ee9517b7771cceac69ab70923dddf
+    projectPath: Library\Artifacts\f0\f02ee9517b7771cceac69ab70923dddf
+    originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: S&R\Library\Artifacts\f1\f12ab830057e524f567e8936c7b80395
-    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\Artifacts\f1\f12ab830057e524f567e8936c7b80395
-    projectPath: Library\Artifacts\f1\f12ab830057e524f567e8936c7b80395
+  - path: S&R\Library\Artifacts\f0\f0ec66b853be6ec5a0c28f41a564a609
+    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\Artifacts\f0\f0ec66b853be6ec5a0c28f41a564a609
+    projectPath: Library\Artifacts\f0\f0ec66b853be6ec5a0c28f41a564a609
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: S&R\Library\Artifacts\f3\f3d897f6b587bc4e5a882a4b2cd7d8b2
-    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\Artifacts\f3\f3d897f6b587bc4e5a882a4b2cd7d8b2
-    projectPath: Library\Artifacts\f3\f3d897f6b587bc4e5a882a4b2cd7d8b2
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: S&R\Library\Artifacts\f1\f115bf160eb67a3a1b2c51b3d706c7c2
+    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\Artifacts\f1\f115bf160eb67a3a1b2c51b3d706c7c2
+    projectPath: Library\Artifacts\f1\f115bf160eb67a3a1b2c51b3d706c7c2
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: S&R\Library\Artifacts\f5\f5ff20de7ed60fd81c8e55b9ebe956e8
-    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\Artifacts\f5\f5ff20de7ed60fd81c8e55b9ebe956e8
-    projectPath: Library\Artifacts\f5\f5ff20de7ed60fd81c8e55b9ebe956e8
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: S&R\Library\Artifacts\f1\f1422d9f1f213ed78c4b6317c8fb311e
+    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\Artifacts\f1\f1422d9f1f213ed78c4b6317c8fb311e
+    projectPath: Library\Artifacts\f1\f1422d9f1f213ed78c4b6317c8fb311e
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: S&R\Library\Artifacts\f6\f660ff96e170ad3abacb59ed600b4771
-    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\Artifacts\f6\f660ff96e170ad3abacb59ed600b4771
-    projectPath: Library\Artifacts\f6\f660ff96e170ad3abacb59ed600b4771
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: S&R\Library\Artifacts\f4\f4441e193241bbe81a866a854dcbd70f
+    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\Artifacts\f4\f4441e193241bbe81a866a854dcbd70f
+    projectPath: Library\Artifacts\f4\f4441e193241bbe81a866a854dcbd70f
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: S&R\Library\Artifacts\f6\f6a48cac1b09dbb501e37ccc092b89aa
-    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\Artifacts\f6\f6a48cac1b09dbb501e37ccc092b89aa
-    projectPath: Library\Artifacts\f6\f6a48cac1b09dbb501e37ccc092b89aa
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: S&R\Library\Artifacts\f7\f76f09f8038639d3eadc3a692f856ec8
+    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\Artifacts\f7\f76f09f8038639d3eadc3a692f856ec8
+    projectPath: Library\Artifacts\f7\f76f09f8038639d3eadc3a692f856ec8
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: S&R\Library\Artifacts\f8\f812d1b48f25afa79ecb0f9d58effffc
-    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\Artifacts\f8\f812d1b48f25afa79ecb0f9d58effffc
-    projectPath: Library\Artifacts\f8\f812d1b48f25afa79ecb0f9d58effffc
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: S&R\Library\Artifacts\fc\fce1243cec8d58cc64e0a3c99ba54306
+    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\Artifacts\fc\fce1243cec8d58cc64e0a3c99ba54306
+    projectPath: Library\Artifacts\fc\fce1243cec8d58cc64e0a3c99ba54306
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: S&R\Library\Artifacts\f8\f8573f16fe00b07028d252be808b74f6
-    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\Artifacts\f8\f8573f16fe00b07028d252be808b74f6
-    projectPath: Library\Artifacts\f8\f8573f16fe00b07028d252be808b74f6
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: S&R\Library\Artifacts\fe\fef622973f2ad2963176ad80dfe1936a
+    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\Artifacts\fe\fef622973f2ad2963176ad80dfe1936a
+    projectPath: Library\Artifacts\fe\fef622973f2ad2963176ad80dfe1936a
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: S&R\Library\Artifacts\fa\fa1561e47b5c974ed64bdf82e0d77386
-    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\Artifacts\fa\fa1561e47b5c974ed64bdf82e0d77386
-    projectPath: Library\Artifacts\fa\fa1561e47b5c974ed64bdf82e0d77386
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: S&R\Library\Artifacts\ff\ff2fb75c2b825dd5241320fc4d970ea8
+    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\Artifacts\ff\ff2fb75c2b825dd5241320fc4d970ea8
+    projectPath: Library\Artifacts\ff\ff2fb75c2b825dd5241320fc4d970ea8
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: S&R\Library\Artifacts\fb\fb93e8d783dfad1d94a694a28523d5fa
-    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\Artifacts\fb\fb93e8d783dfad1d94a694a28523d5fa
-    projectPath: Library\Artifacts\fb\fb93e8d783dfad1d94a694a28523d5fa
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: S&R\Library\Artifacts\fd\fdf5227724bbe1a8f5cf25b8c97885bf
-    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\Artifacts\fd\fdf5227724bbe1a8f5cf25b8c97885bf
-    projectPath: Library\Artifacts\fd\fdf5227724bbe1a8f5cf25b8c97885bf
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: S&R\Library\Artifacts\ff\ff94c991b61ef716022e53c78985868b
-    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\Artifacts\ff\ff94c991b61ef716022e53c78985868b
-    projectPath: Library\Artifacts\ff\ff94c991b61ef716022e53c78985868b
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
+    indexStatus: 1
+    workTreeStatus: 1
   - path: S&R\Library\Artifacts\ff\ffa974632ac7ece7e441d40a85793aca
     fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\Artifacts\ff\ffa974632ac7ece7e441d40a85793aca
     projectPath: Library\Artifacts\ff\ffa974632ac7ece7e441d40a85793aca
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: S&R\Library\Artifacts\ff\ffc018d3411a87997b4e8767730b1e62
-    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\Artifacts\ff\ffc018d3411a87997b4e8767730b1e62
-    projectPath: Library\Artifacts\ff\ffc018d3411a87997b4e8767730b1e62
-    originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: S&R\Library\CurrentLayout-default.dwlt
-    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\CurrentLayout-default.dwlt
-    projectPath: Library\CurrentLayout-default.dwlt
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
   - path: S&R\Library\EditorInstance.json
     fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\EditorInstance.json
     projectPath: Library\EditorInstance.json
@@ -1756,75 +610,99 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: S&R\Library\PackageManager\ProjectCache
-    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\PackageManager\ProjectCache
-    projectPath: Library\PackageManager\ProjectCache
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
   - path: S&R\Library\SceneVisibilityState.asset
     fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\SceneVisibilityState.asset
     projectPath: Library\SceneVisibilityState.asset
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: S&R\Library\ScriptAssemblies\Assembly-CSharp.dll
-    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\ScriptAssemblies\Assembly-CSharp.dll
-    projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: S&R\Library\ScriptAssemblies\Assembly-CSharp-Editor.dll
-    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\ScriptAssemblies\Assembly-CSharp-Editor.dll
-    projectPath: Library\ScriptAssemblies\Assembly-CSharp-Editor.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: S&R\Library\ShaderCache.db
-    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\ShaderCache.db
-    projectPath: Library\ShaderCache.db
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: S&R\Library\ShaderCache\0\024052b9be6f96f873ee46863b4d9c02.bin
-    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\ShaderCache\0\024052b9be6f96f873ee46863b4d9c02.bin
-    projectPath: Library\ShaderCache\0\024052b9be6f96f873ee46863b4d9c02.bin
+  - path: S&R\Library\ShaderCache\0\074ec9c6a1af083408a8d2dda1e3da42.bin
+    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\ShaderCache\0\074ec9c6a1af083408a8d2dda1e3da42.bin
+    projectPath: Library\ShaderCache\0\074ec9c6a1af083408a8d2dda1e3da42.bin
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: S&R\Library\ShaderCache\0\04e33437094b3f1fb1156598e021f919.bin
-    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\ShaderCache\0\04e33437094b3f1fb1156598e021f919.bin
-    projectPath: Library\ShaderCache\0\04e33437094b3f1fb1156598e021f919.bin
+  - path: S&R\Library\ShaderCache\1\14e59114685e9a3c5eab0d09cd81f86f.bin
+    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\ShaderCache\1\14e59114685e9a3c5eab0d09cd81f86f.bin
+    projectPath: Library\ShaderCache\1\14e59114685e9a3c5eab0d09cd81f86f.bin
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: S&R\Library\ShaderCache\3\3da5ea473d1fc7da21794f464ed542f6.bin
-    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\ShaderCache\3\3da5ea473d1fc7da21794f464ed542f6.bin
-    projectPath: Library\ShaderCache\3\3da5ea473d1fc7da21794f464ed542f6.bin
+  - path: S&R\Library\ShaderCache\5\55cf5b4fcaa88c019271f626098040c0.bin
+    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\ShaderCache\5\55cf5b4fcaa88c019271f626098040c0.bin
+    projectPath: Library\ShaderCache\5\55cf5b4fcaa88c019271f626098040c0.bin
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: S&R\Library\ShaderCache\4\4b625d0994c42127e008d1c240f93cc4.bin
-    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\ShaderCache\4\4b625d0994c42127e008d1c240f93cc4.bin
-    projectPath: Library\ShaderCache\4\4b625d0994c42127e008d1c240f93cc4.bin
+  - path: S&R\Library\ShaderCache\6\6bf28b34cf0ee31ab1f25e90c51e5b0f.bin
+    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\ShaderCache\6\6bf28b34cf0ee31ab1f25e90c51e5b0f.bin
+    projectPath: Library\ShaderCache\6\6bf28b34cf0ee31ab1f25e90c51e5b0f.bin
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: S&R\Library\ShaderCache\5\5bf05d75aaf7d598379eef749010810f.bin
-    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\ShaderCache\5\5bf05d75aaf7d598379eef749010810f.bin
-    projectPath: Library\ShaderCache\5\5bf05d75aaf7d598379eef749010810f.bin
+  - path: S&R\Library\ShaderCache\7\7d3d7c7ea00c694e7cb72e8e3d86b2bd.bin
+    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\ShaderCache\7\7d3d7c7ea00c694e7cb72e8e3d86b2bd.bin
+    projectPath: Library\ShaderCache\7\7d3d7c7ea00c694e7cb72e8e3d86b2bd.bin
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: S&R\Library\ShaderCache\9\9bd0ff7ecfb65e70f52c7fbbe4b43b32.bin
-    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\ShaderCache\9\9bd0ff7ecfb65e70f52c7fbbe4b43b32.bin
-    projectPath: Library\ShaderCache\9\9bd0ff7ecfb65e70f52c7fbbe4b43b32.bin
+  - path: S&R\Library\ShaderCache\8\8c849139bd7ac01b240338361b0941e5.bin
+    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\ShaderCache\8\8c849139bd7ac01b240338361b0941e5.bin
+    projectPath: Library\ShaderCache\8\8c849139bd7ac01b240338361b0941e5.bin
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: S&R\Library\ShaderCache\b\b150994f3ce7017c53910619b8b242a6.bin
-    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\ShaderCache\b\b150994f3ce7017c53910619b8b242a6.bin
-    projectPath: Library\ShaderCache\b\b150994f3ce7017c53910619b8b242a6.bin
+  - path: S&R\Library\ShaderCache\9\9a0aaee21acf586496af0151cae19a6a.bin
+    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\ShaderCache\9\9a0aaee21acf586496af0151cae19a6a.bin
+    projectPath: Library\ShaderCache\9\9a0aaee21acf586496af0151cae19a6a.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: S&R\Library\ShaderCache\9\9c159df76db0ef5cada1eb282826418c.bin
+    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\ShaderCache\9\9c159df76db0ef5cada1eb282826418c.bin
+    projectPath: Library\ShaderCache\9\9c159df76db0ef5cada1eb282826418c.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: S&R\Library\ShaderCache\a\a768094a3a8d03ebcff713f545c35471.bin
+    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\ShaderCache\a\a768094a3a8d03ebcff713f545c35471.bin
+    projectPath: Library\ShaderCache\a\a768094a3a8d03ebcff713f545c35471.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: S&R\Library\ShaderCache\a\a8be15871b1e3c4aaf911e22c40528d5.bin
+    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\ShaderCache\a\a8be15871b1e3c4aaf911e22c40528d5.bin
+    projectPath: Library\ShaderCache\a\a8be15871b1e3c4aaf911e22c40528d5.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: S&R\Library\ShaderCache\c\c04b894dc0abbea32facfda66d26bdcf.bin
+    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\ShaderCache\c\c04b894dc0abbea32facfda66d26bdcf.bin
+    projectPath: Library\ShaderCache\c\c04b894dc0abbea32facfda66d26bdcf.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: S&R\Library\ShaderCache\c\c6482381a5c091b99fb9cb087d0256d0.bin
+    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\ShaderCache\c\c6482381a5c091b99fb9cb087d0256d0.bin
+    projectPath: Library\ShaderCache\c\c6482381a5c091b99fb9cb087d0256d0.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: S&R\Library\ShaderCache\d\d63b11d68e65e4ffdf3bc388ff2bf2ed.bin
+    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\ShaderCache\d\d63b11d68e65e4ffdf3bc388ff2bf2ed.bin
+    projectPath: Library\ShaderCache\d\d63b11d68e65e4ffdf3bc388ff2bf2ed.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: S&R\Library\ShaderCache\e\e41db53a3b9052c2ca130deee35d65d8.bin
+    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\ShaderCache\e\e41db53a3b9052c2ca130deee35d65d8.bin
+    projectPath: Library\ShaderCache\e\e41db53a3b9052c2ca130deee35d65d8.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: S&R\Library\ShaderCache\e\e4f0a1987fbf64a0bbedc3c92a00d7fb.bin
+    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\ShaderCache\e\e4f0a1987fbf64a0bbedc3c92a00d7fb.bin
+    projectPath: Library\ShaderCache\e\e4f0a1987fbf64a0bbedc3c92a00d7fb.bin
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
@@ -1846,18 +724,6 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: S&R\Library\StateCache\PrefabStageHierarchy\9f\9f4b15dec22d214b7409025fbb208b3e.json
-    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\StateCache\PrefabStageHierarchy\9f\9f4b15dec22d214b7409025fbb208b3e.json
-    projectPath: Library\StateCache\PrefabStageHierarchy\9f\9f4b15dec22d214b7409025fbb208b3e.json
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: S&R\Library\StateCache\SceneView\3e\3e83cd13846282f2eead5bb661c62cda.json
-    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\StateCache\SceneView\3e\3e83cd13846282f2eead5bb661c62cda.json
-    projectPath: Library\StateCache\SceneView\3e\3e83cd13846282f2eead5bb661c62cda.json
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
   - path: S&R\Library\StateCache\SceneView\d0\d09d38fe0742b9ec6256079fa81c3a54.json
     fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Library\StateCache\SceneView\d0\d09d38fe0742b9ec6256079fa81c3a54.json
     projectPath: Library\StateCache\SceneView\d0\d09d38fe0742b9ec6256079fa81c3a54.json
@@ -1876,27 +742,9 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: S&R\Logs\AssetImportWorker1.log
-    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Logs\AssetImportWorker1.log
-    projectPath: Logs\AssetImportWorker1.log
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
   - path: S&R\Logs\shadercompiler-AssetImportWorker0.log
     fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Logs\shadercompiler-AssetImportWorker0.log
     projectPath: Logs\shadercompiler-AssetImportWorker0.log
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: S&R\Logs\shadercompiler-UnityShaderCompiler.exe0.log
-    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Logs\shadercompiler-UnityShaderCompiler.exe0.log
-    projectPath: Logs\shadercompiler-UnityShaderCompiler.exe0.log
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: S&R\Logs\shadercompiler-UnityShaderCompiler.exe1.log
-    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Logs\shadercompiler-UnityShaderCompiler.exe1.log
-    projectPath: Logs\shadercompiler-UnityShaderCompiler.exe1.log
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -1904,41 +752,11 @@ MonoBehaviour:
     fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Logs\shadercompiler-UnityShaderCompiler.exe10.log
     projectPath: Logs\shadercompiler-UnityShaderCompiler.exe10.log
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 3
   - path: S&R\Logs\shadercompiler-UnityShaderCompiler.exe11.log
     fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Logs\shadercompiler-UnityShaderCompiler.exe11.log
     projectPath: Logs\shadercompiler-UnityShaderCompiler.exe11.log
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: S&R\Logs\shadercompiler-UnityShaderCompiler.exe2.log
-    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Logs\shadercompiler-UnityShaderCompiler.exe2.log
-    projectPath: Logs\shadercompiler-UnityShaderCompiler.exe2.log
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: S&R\Logs\shadercompiler-UnityShaderCompiler.exe3.log
-    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Logs\shadercompiler-UnityShaderCompiler.exe3.log
-    projectPath: Logs\shadercompiler-UnityShaderCompiler.exe3.log
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: S&R\Logs\shadercompiler-UnityShaderCompiler.exe4.log
-    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Logs\shadercompiler-UnityShaderCompiler.exe4.log
-    projectPath: Logs\shadercompiler-UnityShaderCompiler.exe4.log
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: S&R\Logs\shadercompiler-UnityShaderCompiler.exe5.log
-    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Logs\shadercompiler-UnityShaderCompiler.exe5.log
-    projectPath: Logs\shadercompiler-UnityShaderCompiler.exe5.log
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: S&R\Logs\shadercompiler-UnityShaderCompiler.exe6.log
-    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Logs\shadercompiler-UnityShaderCompiler.exe6.log
-    projectPath: Logs\shadercompiler-UnityShaderCompiler.exe6.log
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -1952,35 +770,17 @@ MonoBehaviour:
     fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Logs\shadercompiler-UnityShaderCompiler.exe8.log
     projectPath: Logs\shadercompiler-UnityShaderCompiler.exe8.log
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 3
   - path: S&R\Logs\shadercompiler-UnityShaderCompiler.exe9.log
     fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Logs\shadercompiler-UnityShaderCompiler.exe9.log
     projectPath: Logs\shadercompiler-UnityShaderCompiler.exe9.log
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 3
   - path: S&R\Temp\__Backupscenes\0.backup
     fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Temp\__Backupscenes\0.backup
     projectPath: Temp\__Backupscenes\0.backup
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: S&R\Temp\Assembly-CSharp.dll.hash
-    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Temp\Assembly-CSharp.dll.hash
-    projectPath: Temp\Assembly-CSharp.dll.hash
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: S&R\Temp\Assembly-CSharp-Editor.dll.hash
-    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Temp\Assembly-CSharp-Editor.dll.hash
-    projectPath: Temp\Assembly-CSharp-Editor.dll.hash
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: S&R\Temp\CompilationLog.txt
-    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Temp\CompilationLog.txt
-    projectPath: Temp\CompilationLog.txt
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
@@ -1990,57 +790,15 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: S&R\Temp\UnityTempFile-1dd107082109d3e4498ccb5bceeeb409
-    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Temp\UnityTempFile-1dd107082109d3e4498ccb5bceeeb409
-    projectPath: Temp\UnityTempFile-1dd107082109d3e4498ccb5bceeeb409
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: S&R\Temp\UnityTempFile-20ec50957082be349b980c65a8a81f30
-    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Temp\UnityTempFile-20ec50957082be349b980c65a8a81f30
-    projectPath: Temp\UnityTempFile-20ec50957082be349b980c65a8a81f30
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: S&R\Temp\UnityTempFile-35b48043c5a2efd41a788d4cb5671a57
-    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Temp\UnityTempFile-35b48043c5a2efd41a788d4cb5671a57
-    projectPath: Temp\UnityTempFile-35b48043c5a2efd41a788d4cb5671a57
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: S&R\Temp\UnityTempFile-61d900ee54ce7cf4f8cc133066d66b11
-    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Temp\UnityTempFile-61d900ee54ce7cf4f8cc133066d66b11
-    projectPath: Temp\UnityTempFile-61d900ee54ce7cf4f8cc133066d66b11
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: S&R\Temp\UnityTempFile-9ba04e4e6349f40488bfd8bdfae4611c
-    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Temp\UnityTempFile-9ba04e4e6349f40488bfd8bdfae4611c
-    projectPath: Temp\UnityTempFile-9ba04e4e6349f40488bfd8bdfae4611c
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: S&R\Temp\UnityTempFile-cb8dc5e5c7cba024d92e1f6265991e85
-    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Temp\UnityTempFile-cb8dc5e5c7cba024d92e1f6265991e85
-    projectPath: Temp\UnityTempFile-cb8dc5e5c7cba024d92e1f6265991e85
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: S&R\Temp\UnityTempFile-f7e32bc088edac847b95248bfcbb235e
-    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Temp\UnityTempFile-f7e32bc088edac847b95248bfcbb235e
-    projectPath: Temp\UnityTempFile-f7e32bc088edac847b95248bfcbb235e
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: S&R\Temp\UnityTempFile-fd6f602aff30ce74cb0928bb5453b1b4
-    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Temp\UnityTempFile-fd6f602aff30ce74cb0928bb5453b1b4
-    projectPath: Temp\UnityTempFile-fd6f602aff30ce74cb0928bb5453b1b4
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
   - path: S&R\Temp\workerlic
     fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\Temp\workerlic
     projectPath: Temp\workerlic
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
+  - path: S&R\UserSettings\EditorUserSettings.asset
+    fullPath: C:\Users\Hui Ru\Documents\Goh Hui Ru\Goh Hui Ru\Year3\Sem 2\Game Assignment\SennaAndRuby\S&R\UserSettings\EditorUserSettings.asset
+    projectPath: UserSettings\EditorUserSettings.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
