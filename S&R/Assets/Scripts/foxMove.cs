@@ -13,6 +13,8 @@ public class foxMove : MonoBehaviour
     public static bool rockSpeedUp = false;
     public static bool isRockDestroy = false;
     public static bool isControlDestroy = false;
+    public static bool isArrowLight = false;
+    public static bool isSunLight = false;
     private float timer = 0.0f;
     private float timerDoor = 0.0f;
 
@@ -112,13 +114,15 @@ public class foxMove : MonoBehaviour
             }
             if (hit.collider.gameObject.tag == "Arrow" && Input.GetAxis("Collect") != 0)
             {
-                hit.collider.gameObject.SetActive(false);
+                //isArrowLight = true;
+                hit.collider.gameObject.transform.Find("ArrowLight").gameObject.SetActive(true);
                 Debug.Log("Rock Destroy");
                 isRockDestroy = true;
             }
             if (hit.collider.gameObject.tag == "Sun" && Input.GetAxis("Collect") != 0)
             {
-                hit.collider.gameObject.SetActive(false);
+                //isSunLight = true;
+                hit.collider.gameObject.transform.Find("SunLight").gameObject.SetActive(true);
                 Debug.Log("Main Control Destroy!");
                 isControlDestroy = true;
                 isRockDestroy = true;

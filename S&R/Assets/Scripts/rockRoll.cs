@@ -6,7 +6,7 @@ using UnityEngine;
 public class rockRoll : MonoBehaviour
 {
     public int moveSpeed = 3;
-    private float forceValue = 10f;
+    private float forceValue = 20f;
     public static bool isHit = false;
     Rigidbody rigidbody;
     public static bool destroyRock = false;
@@ -36,7 +36,7 @@ public class rockRoll : MonoBehaviour
 
     void Update()
     {
-        if (foxAnimation.rockSpeedUp)
+        if (foxMove.rockSpeedUp)
         {
             rigidbody.AddForce(0, -forceValue, 0, ForceMode.Impulse);
         }
