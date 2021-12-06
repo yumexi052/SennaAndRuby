@@ -1,6 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 //[RequireComponent(typeof(AudioSource))]
 public class foxMove : MonoBehaviour
@@ -26,9 +27,13 @@ public class foxMove : MonoBehaviour
     private float gravity = 9.8f;
     private float vSpeed = 0.0f;
 
+    public static int lastScene;
+
     void Awake()
     {
         animator.SetBool("isDied", false);
+        rockRoll.isHit = false;
+        trapTrigger = false;
     }
 
     // Start is called before the first frame update
@@ -86,6 +91,8 @@ public class foxMove : MonoBehaviour
         if (rockRoll.isHit || trapTrigger)
         {
             animator.SetBool("isDied", true);
+            lastScene = SceneManager.GetActiveScene().buildIndex;
+            SceneManager.LoadScene("DeathScene");
         }
 
         RaycastHit hit;
