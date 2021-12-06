@@ -11,6 +11,7 @@ D:\2020.3.21f1\Editor\Unity.exe
 -name
 AssetImportWorker0
 -projectPath
+<<<<<<< HEAD
 C:/Users/Hui Ru/Documents/Goh Hui Ru/Goh Hui Ru/Year3/Sem 2/Game Assignment/SennaAndRuby/S&R
 -logFile
 Logs/AssetImportWorker0.log
@@ -24,6 +25,21 @@ Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2020.3.21f1 (a38c86f6690f)
 [Subsystems] Discovering subsystems at path D:/2020.3.21f1/Editor/Data/Resources/UnitySubsystems
 [Subsystems] Discovering subsystems at path C:/Users/Hui Ru/Documents/Goh Hui Ru/Goh Hui Ru/Year3/Sem 2/Game Assignment/SennaAndRuby/S&R/Assets
+=======
+C:/Users/yikch/Documents/GitHub/SennaAndRuby1/S&R
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+61609
+Successfully changed project path to: C:/Users/yikch/Documents/GitHub/SennaAndRuby1/S&R
+C:/Users/yikch/Documents/GitHub/SennaAndRuby1/S&R
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 103.26 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.21f1 (a38c86f6690f)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.21f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/yikch/Documents/GitHub/SennaAndRuby1/S&R/Assets
+>>>>>>> ee6ac22ca925a4204a87ab54a4a6c51cf0268639
 GfxDevice: creating device client; threaded=0
 Direct3D:
     Version:  Direct3D 11.0 [level 11.1]
@@ -32,6 +48,7 @@ Direct3D:
     VRAM:     3962 MB
     Driver:   27.21.14.6221
 Initialize mono
+<<<<<<< HEAD
 Mono path[0] = 'D:/2020.3.21f1/Editor/Data/Managed'
 Mono path[1] = 'D:/2020.3.21f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
 Mono config path = 'D:/2020.3.21f1/Editor/Data/MonoBleedingEdge/etc'
@@ -48,11 +65,32 @@ Mono: successfully reloaded assembly
 Domain Reload Profiling:
 	ReloadAssembly (17634ms)
 		BeginReloadAssembly (63ms)
+=======
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.21f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.21f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.21f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56604
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.21f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.21f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.004640 seconds.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 407.73 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.792 seconds
+Domain Reload Profiling:
+	ReloadAssembly (2793ms)
+		BeginReloadAssembly (84ms)
+>>>>>>> ee6ac22ca925a4204a87ab54a4a6c51cf0268639
 			ExecutionOrderSort (0ms)
 			DisableScriptedObjects (0ms)
 			BackupInstance (0ms)
 			ReleaseScriptingObjects (0ms)
 			CreateAndSetChildDomain (1ms)
+<<<<<<< HEAD
 		EndReloadAssembly (458ms)
 			LoadAssemblies (62ms)
 			RebuildTransferFunctionScriptingTraits (0ms)
@@ -67,12 +105,29 @@ Domain Reload Profiling:
 				BeforeProcessingInitializeOnLoad (8ms)
 				ProcessInitializeOnLoadAttributes (77ms)
 				ProcessInitializeOnLoadMethodAttributes (30ms)
+=======
+		EndReloadAssembly (1003ms)
+			LoadAssemblies (81ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (206ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (39ms)
+			SetupLoadedEditorAssemblies (619ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (6ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (408ms)
+				BeforeProcessingInitializeOnLoad (25ms)
+				ProcessInitializeOnLoadAttributes (134ms)
+				ProcessInitializeOnLoadMethodAttributes (46ms)
+>>>>>>> ee6ac22ca925a4204a87ab54a4a6c51cf0268639
 				AfterProcessingInitializeOnLoad (0ms)
 				EditorAssembliesLoaded (0ms)
 			ExecutionOrderSort2 (0ms)
 			AwakeInstancesAfterBackupRestoration (0ms)
 Platform modules already initialized, skipping
 Registering precompiled user dll's ...
+<<<<<<< HEAD
 Registered in 0.022091 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for WindowsStandalone target not found
@@ -118,6 +173,214 @@ System memory in use after: 170.5 MB.
 
 Unloading 38 unused Assets to reduce memory usage. Loaded Objects now: 2453.
 Total: 4.519600 ms (FindLiveObjects: 0.911400 ms CreateObjectMapping: 0.320400 ms MarkObjects: 3.171200 ms  DeleteObjects: 0.115600 ms)
+=======
+Registered in 0.019599 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file data-000002230606D6B0 doesn't match image C:\Users\yikch\Documents\GitHub\SennaAndRuby1\S&R\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002230ADF7040 doesn't match image C:\Users\yikch\Documents\GitHub\SennaAndRuby1\S&R\Library\ScriptAssemblies\Unity.Services.Core.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002230A840020 doesn't match image C:\Users\yikch\Documents\GitHub\SennaAndRuby1\S&R\Library\ScriptAssemblies\Cinemachine.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002230BD4BBF0 doesn't match image C:\Users\yikch\Documents\GitHub\SennaAndRuby1\S&R\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002230AA23010 doesn't match image C:\Users\yikch\Documents\GitHub\SennaAndRuby1\S&R\Library\ScriptAssemblies\com.unity.cinemachine.editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002230AA47C20 doesn't match image C:\Users\yikch\Documents\GitHub\SennaAndRuby1\S&R\Library\ScriptAssemblies\Unity.Postprocessing.Runtime.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002230AA47C20 doesn't match image C:\Users\yikch\Documents\GitHub\SennaAndRuby1\S&R\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000223064B9020 doesn't match image C:\Users\yikch\Documents\GitHub\SennaAndRuby1\S&R\Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002230ADA2220 doesn't match image C:\Users\yikch\Documents\GitHub\SennaAndRuby1\S&R\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002230AD17010 doesn't match image C:\Users\yikch\Documents\GitHub\SennaAndRuby1\S&R\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002230B2BFE20 doesn't match image C:\Users\yikch\Documents\GitHub\SennaAndRuby1\S&R\Library\ScriptAssemblies\Unity.Timeline.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002230AD17010 doesn't match image C:\Users\yikch\Documents\GitHub\SennaAndRuby1\S&R\Library\ScriptAssemblies\Unity.TextMeshPro.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002230B2BFE20 doesn't match image C:\Users\yikch\Documents\GitHub\SennaAndRuby1\S&R\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002230A9ED220 doesn't match image C:\Users\yikch\Documents\GitHub\SennaAndRuby1\S&R\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002230C07A820 doesn't match image C:\Users\yikch\Documents\GitHub\SennaAndRuby1\S&R\Library\ScriptAssemblies\LeanCommon.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000223064B9020 doesn't match image C:\Users\yikch\Documents\GitHub\SennaAndRuby1\S&R\Library\ScriptAssemblies\Unity.Postprocessing.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002230AA5D430 doesn't match image C:\Users\yikch\Documents\GitHub\SennaAndRuby1\S&R\Library\ScriptAssemblies\LeanGUI.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000022306410030 doesn't match image C:\Users\yikch\Documents\GitHub\SennaAndRuby1\S&R\Library\ScriptAssemblies\UnityEditor.UI.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002230ADF7040 doesn't match image C:\Users\yikch\Documents\GitHub\SennaAndRuby1\S&R\Library\ScriptAssemblies\Unity.Rider.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002230AA8BA20 doesn't match image C:\Users\yikch\Documents\GitHub\SennaAndRuby1\S&R\Library\ScriptAssemblies\UnityEngine.UI.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002230AC6F010 doesn't match image C:\Users\yikch\Documents\GitHub\SennaAndRuby1\S&R\Library\ScriptAssemblies\Unity.PlasticSCM.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002230BD4DC00 doesn't match image C:\Users\yikch\Documents\GitHub\SennaAndRuby1\S&R\Library\ScriptAssemblies\LeanTransition.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002230ABFBA30 doesn't match image C:\Users\yikch\Documents\GitHub\SennaAndRuby1\S&R\Library\ScriptAssemblies\LeanTransition.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.84 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.755 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1756ms)
+		BeginReloadAssembly (199ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (8ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (23ms)
+		EndReloadAssembly (1469ms)
+			LoadAssemblies (128ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (453ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (77ms)
+			SetupLoadedEditorAssemblies (589ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (9ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (129ms)
+				ProcessInitializeOnLoadAttributes (416ms)
+				ProcessInitializeOnLoadMethodAttributes (17ms)
+				AfterProcessingInitializeOnLoad (14ms)
+				EditorAssembliesLoaded (2ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (19ms)
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.06 seconds
+Refreshing native plugins compatible for Editor in 0.96 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1958 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 172.2 MB.
+System memory in use after: 172.3 MB.
+
+Unloading 38 unused Assets to reduce memory usage. Loaded Objects now: 2453.
+Total: 4.268500 ms (FindLiveObjects: 0.225300 ms CreateObjectMapping: 0.104100 ms MarkObjects: 3.794600 ms  DeleteObjects: 0.143200 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  path: Assets/New Terrain.asset
+  artifactKey: Guid(dec14aaf9bb661042b27b451381bba13) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Terrain.asset using Guid(dec14aaf9bb661042b27b451381bba13) Importer(815301076,1909f56bfc062723c751e8b465ee728b) The tree Flower1 must use the Nature/Soft Occlusion shader. Otherwise billboarding/lighting will not work correctly.
+The tree Flower2 must use the Nature/Soft Occlusion shader. Otherwise billboarding/lighting will not work correctly.
+The tree Mushroom1 must use the Nature/Soft Occlusion shader. Otherwise billboarding/lighting will not work correctly.
+ -> (artifact id: '0fc4b39c5849369cf8338398934be2db') in 0.117778 seconds 
+  Import took 0.123350 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.032857 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file data-000002230606E8F0 doesn't match image C:\Users\yikch\Documents\GitHub\SennaAndRuby1\S&R\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002230B084DA0 doesn't match image C:\Users\yikch\Documents\GitHub\SennaAndRuby1\S&R\Library\ScriptAssemblies\Unity.Services.Core.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000022311D7D020 doesn't match image C:\Users\yikch\Documents\GitHub\SennaAndRuby1\S&R\Library\ScriptAssemblies\Cinemachine.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002230BDA71F0 doesn't match image C:\Users\yikch\Documents\GitHub\SennaAndRuby1\S&R\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000022306438020 doesn't match image C:\Users\yikch\Documents\GitHub\SennaAndRuby1\S&R\Library\ScriptAssemblies\com.unity.cinemachine.editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000022306408020 doesn't match image C:\Users\yikch\Documents\GitHub\SennaAndRuby1\S&R\Library\ScriptAssemblies\Unity.Postprocessing.Runtime.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002230B3E3020 doesn't match image C:\Users\yikch\Documents\GitHub\SennaAndRuby1\S&R\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000022311C90200 doesn't match image C:\Users\yikch\Documents\GitHub\SennaAndRuby1\S&R\Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000022306408020 doesn't match image C:\Users\yikch\Documents\GitHub\SennaAndRuby1\S&R\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002230ACC3010 doesn't match image C:\Users\yikch\Documents\GitHub\SennaAndRuby1\S&R\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000022306408020 doesn't match image C:\Users\yikch\Documents\GitHub\SennaAndRuby1\S&R\Library\ScriptAssemblies\Unity.Timeline.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002230AC6F010 doesn't match image C:\Users\yikch\Documents\GitHub\SennaAndRuby1\S&R\Library\ScriptAssemblies\Unity.TextMeshPro.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000022306408020 doesn't match image C:\Users\yikch\Documents\GitHub\SennaAndRuby1\S&R\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002230C18EE80 doesn't match image C:\Users\yikch\Documents\GitHub\SennaAndRuby1\S&R\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000223061A8C30 doesn't match image C:\Users\yikch\Documents\GitHub\SennaAndRuby1\S&R\Library\ScriptAssemblies\LeanCommon.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002230AC97620 doesn't match image C:\Users\yikch\Documents\GitHub\SennaAndRuby1\S&R\Library\ScriptAssemblies\Unity.Postprocessing.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000022311C90200 doesn't match image C:\Users\yikch\Documents\GitHub\SennaAndRuby1\S&R\Library\ScriptAssemblies\LeanGUI.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002230ABF5220 doesn't match image C:\Users\yikch\Documents\GitHub\SennaAndRuby1\S&R\Library\ScriptAssemblies\UnityEditor.UI.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002230B084DA0 doesn't match image C:\Users\yikch\Documents\GitHub\SennaAndRuby1\S&R\Library\ScriptAssemblies\Unity.Rider.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000022311CA8220 doesn't match image C:\Users\yikch\Documents\GitHub\SennaAndRuby1\S&R\Library\ScriptAssemblies\UnityEngine.UI.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002230AD6B010 doesn't match image C:\Users\yikch\Documents\GitHub\SennaAndRuby1\S&R\Library\ScriptAssemblies\Unity.PlasticSCM.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002230C1A0A90 doesn't match image C:\Users\yikch\Documents\GitHub\SennaAndRuby1\S&R\Library\ScriptAssemblies\LeanTransition.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000022306225E50 doesn't match image C:\Users\yikch\Documents\GitHub\SennaAndRuby1\S&R\Library\ScriptAssemblies\LeanTransition.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 1.28 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.138 seconds
+Domain Reload Profiling:
+	ReloadAssembly (2138ms)
+		BeginReloadAssembly (235ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (10ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (79ms)
+		EndReloadAssembly (1770ms)
+			LoadAssemblies (184ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (652ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (86ms)
+			SetupLoadedEditorAssemblies (665ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (10ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (142ms)
+				ProcessInitializeOnLoadAttributes (478ms)
+				ProcessInitializeOnLoadMethodAttributes (19ms)
+				AfterProcessingInitializeOnLoad (14ms)
+				EditorAssembliesLoaded (1ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (17ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.30 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1907 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 167.8 MB.
+System memory in use after: 167.9 MB.
+
+Unloading 33 unused Assets to reduce memory usage. Loaded Objects now: 2457.
+Total: 6.825100 ms (FindLiveObjects: 0.517100 ms CreateObjectMapping: 0.172700 ms MarkObjects: 6.013900 ms  DeleteObjects: 0.118900 ms)
+>>>>>>> ee6ac22ca925a4204a87ab54a4a6c51cf0268639
 
 AssetImportParameters requested are different than current active one (requested -> active):
   custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
@@ -130,6 +393,7 @@ AssetImportParameters requested are different than current active one (requested
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
   custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
 ========================================================================
+<<<<<<< HEAD
 Received Import Request.
   path: Assets/Enviroments/Toby Fredson/Rocky Hills Environment - Light Pack/Legacy Project/MRL_Rock_Medium 1/Mesh/MRL_Rock_Medium 1_LOD 0.FBX
   artifactKey: Guid(d5872b204503c1f4d91600dc965c59fe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
@@ -325,6 +589,99 @@ System memory in use after: 169.2 MB.
 
 Unloading 33 unused Assets to reduce memory usage. Loaded Objects now: 2501.
 Total: 2.789800 ms (FindLiveObjects: 0.192700 ms CreateObjectMapping: 0.069500 ms MarkObjects: 2.379300 ms  DeleteObjects: 0.147600 ms)
+=======
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.020348 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file data-000002233611F000 doesn't match image C:\Users\yikch\Documents\GitHub\SennaAndRuby1\S&R\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002230B084DA0 doesn't match image C:\Users\yikch\Documents\GitHub\SennaAndRuby1\S&R\Library\ScriptAssemblies\Unity.Services.Core.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002230BF3D010 doesn't match image C:\Users\yikch\Documents\GitHub\SennaAndRuby1\S&R\Library\ScriptAssemblies\Cinemachine.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002230BDA71F0 doesn't match image C:\Users\yikch\Documents\GitHub\SennaAndRuby1\S&R\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002230DCAE010 doesn't match image C:\Users\yikch\Documents\GitHub\SennaAndRuby1\S&R\Library\ScriptAssemblies\com.unity.cinemachine.editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002233481C050 doesn't match image C:\Users\yikch\Documents\GitHub\SennaAndRuby1\S&R\Library\ScriptAssemblies\Unity.Postprocessing.Runtime.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002230DCAE010 doesn't match image C:\Users\yikch\Documents\GitHub\SennaAndRuby1\S&R\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002230A93F020 doesn't match image C:\Users\yikch\Documents\GitHub\SennaAndRuby1\S&R\Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002233481C050 doesn't match image C:\Users\yikch\Documents\GitHub\SennaAndRuby1\S&R\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002230AE82010 doesn't match image C:\Users\yikch\Documents\GitHub\SennaAndRuby1\S&R\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002230DCAE010 doesn't match image C:\Users\yikch\Documents\GitHub\SennaAndRuby1\S&R\Library\ScriptAssemblies\Unity.Timeline.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002230AA77010 doesn't match image C:\Users\yikch\Documents\GitHub\SennaAndRuby1\S&R\Library\ScriptAssemblies\Unity.TextMeshPro.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002233481C050 doesn't match image C:\Users\yikch\Documents\GitHub\SennaAndRuby1\S&R\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002230C18EE80 doesn't match image C:\Users\yikch\Documents\GitHub\SennaAndRuby1\S&R\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002230BA21770 doesn't match image C:\Users\yikch\Documents\GitHub\SennaAndRuby1\S&R\Library\ScriptAssemblies\LeanCommon.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002230C7F8C20 doesn't match image C:\Users\yikch\Documents\GitHub\SennaAndRuby1\S&R\Library\ScriptAssemblies\Unity.Postprocessing.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000022306225E50 doesn't match image C:\Users\yikch\Documents\GitHub\SennaAndRuby1\S&R\Library\ScriptAssemblies\LeanGUI.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002230A93F020 doesn't match image C:\Users\yikch\Documents\GitHub\SennaAndRuby1\S&R\Library\ScriptAssemblies\UnityEditor.UI.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002230AA9F620 doesn't match image C:\Users\yikch\Documents\GitHub\SennaAndRuby1\S&R\Library\ScriptAssemblies\Unity.Rider.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000022334AE6010 doesn't match image C:\Users\yikch\Documents\GitHub\SennaAndRuby1\S&R\Library\ScriptAssemblies\UnityEngine.UI.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002230AD6B010 doesn't match image C:\Users\yikch\Documents\GitHub\SennaAndRuby1\S&R\Library\ScriptAssemblies\Unity.PlasticSCM.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000223065CE3C0 doesn't match image C:\Users\yikch\Documents\GitHub\SennaAndRuby1\S&R\Library\ScriptAssemblies\LeanTransition.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000022306225E50 doesn't match image C:\Users\yikch\Documents\GitHub\SennaAndRuby1\S&R\Library\ScriptAssemblies\LeanTransition.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 1.09 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.217 seconds
+Domain Reload Profiling:
+	ReloadAssembly (2218ms)
+		BeginReloadAssembly (221ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (9ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (71ms)
+		EndReloadAssembly (1851ms)
+			LoadAssemblies (200ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (704ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (82ms)
+			SetupLoadedEditorAssemblies (685ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (11ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (183ms)
+				ProcessInitializeOnLoadAttributes (458ms)
+				ProcessInitializeOnLoadMethodAttributes (16ms)
+				AfterProcessingInitializeOnLoad (14ms)
+				EditorAssembliesLoaded (1ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (14ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.59 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1907 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 167.8 MB.
+System memory in use after: 167.9 MB.
+
+Unloading 33 unused Assets to reduce memory usage. Loaded Objects now: 2459.
+Total: 6.086600 ms (FindLiveObjects: 0.397800 ms CreateObjectMapping: 0.577800 ms MarkObjects: 4.975200 ms  DeleteObjects: 0.133600 ms)
+>>>>>>> ee6ac22ca925a4204a87ab54a4a6c51cf0268639
 
 AssetImportParameters requested are different than current active one (requested -> active):
   custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
@@ -338,6 +695,7 @@ AssetImportParameters requested are different than current active one (requested
   custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
 ========================================================================
 Received Import Request.
+<<<<<<< HEAD
   Time since last request: 70.643165 seconds.
   path: Assets/Prefabs
   artifactKey: Guid(c7077ed5a0f2f9c438ae1fb445cffe6a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
@@ -375,10 +733,18 @@ Received Import Request.
   artifactKey: Guid(81b6e7689cd79364380d4422a8c7d1c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Start importing Assets/Prefabs/Rock.prefab using Guid(81b6e7689cd79364380d4422a8c7d1c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c2a1ec9eae9158bc87c8355545200a32') in 0.018666 seconds 
   Import took 0.025759 seconds .
+=======
+  Time since last request: 65.069070 seconds.
+  path: Assets/Testing.unity
+  artifactKey: Guid(e7f832c60fba979439375653e5d673c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Testing.unity using Guid(e7f832c60fba979439375653e5d673c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '95de065905666b3069039ce8d3138bd1') in 0.028294 seconds 
+  Import took 0.031839 seconds .
+>>>>>>> ee6ac22ca925a4204a87ab54a4a6c51cf0268639
 
 ========================================================================
 Received Prepare
 Registering precompiled user dll's ...
+<<<<<<< HEAD
 Registered in 0.015047 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for WindowsStandalone target not found
@@ -389,10 +755,70 @@ Mono: successfully reloaded assembly
 Domain Reload Profiling:
 	ReloadAssembly (1562ms)
 		BeginReloadAssembly (200ms)
+=======
+Registered in 0.017080 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file data-0000022338E9D790 doesn't match image C:\Users\yikch\Documents\GitHub\SennaAndRuby1\S&R\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000022311ACC750 doesn't match image C:\Users\yikch\Documents\GitHub\SennaAndRuby1\S&R\Library\ScriptAssemblies\Unity.Services.Core.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002233623D060 doesn't match image C:\Users\yikch\Documents\GitHub\SennaAndRuby1\S&R\Library\ScriptAssemblies\Cinemachine.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002230B59D460 doesn't match image C:\Users\yikch\Documents\GitHub\SennaAndRuby1\S&R\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000223100C9D70 doesn't match image C:\Users\yikch\Documents\GitHub\SennaAndRuby1\S&R\Library\ScriptAssemblies\com.unity.cinemachine.editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002230FE2A0A0 doesn't match image C:\Users\yikch\Documents\GitHub\SennaAndRuby1\S&R\Library\ScriptAssemblies\Unity.Postprocessing.Runtime.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002230F965330 doesn't match image C:\Users\yikch\Documents\GitHub\SennaAndRuby1\S&R\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002230F2D5020 doesn't match image C:\Users\yikch\Documents\GitHub\SennaAndRuby1\S&R\Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000223113CD020 doesn't match image C:\Users\yikch\Documents\GitHub\SennaAndRuby1\S&R\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000022306457D60 doesn't match image C:\Users\yikch\Documents\GitHub\SennaAndRuby1\S&R\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002230B549C50 doesn't match image C:\Users\yikch\Documents\GitHub\SennaAndRuby1\S&R\Library\ScriptAssemblies\Unity.Timeline.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000022336388010 doesn't match image C:\Users\yikch\Documents\GitHub\SennaAndRuby1\S&R\Library\ScriptAssemblies\Unity.TextMeshPro.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002230FE2A0A0 doesn't match image C:\Users\yikch\Documents\GitHub\SennaAndRuby1\S&R\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002233595EC60 doesn't match image C:\Users\yikch\Documents\GitHub\SennaAndRuby1\S&R\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002230F7821A0 doesn't match image C:\Users\yikch\Documents\GitHub\SennaAndRuby1\S&R\Library\ScriptAssemblies\LeanCommon.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000022311035D50 doesn't match image C:\Users\yikch\Documents\GitHub\SennaAndRuby1\S&R\Library\ScriptAssemblies\Unity.Postprocessing.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002230C4A2030 doesn't match image C:\Users\yikch\Documents\GitHub\SennaAndRuby1\S&R\Library\ScriptAssemblies\LeanGUI.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000022310EDA4D0 doesn't match image C:\Users\yikch\Documents\GitHub\SennaAndRuby1\S&R\Library\ScriptAssemblies\UnityEditor.UI.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000223113E2C40 doesn't match image C:\Users\yikch\Documents\GitHub\SennaAndRuby1\S&R\Library\ScriptAssemblies\Unity.Rider.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000022334A82010 doesn't match image C:\Users\yikch\Documents\GitHub\SennaAndRuby1\S&R\Library\ScriptAssemblies\UnityEngine.UI.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002230C696020 doesn't match image C:\Users\yikch\Documents\GitHub\SennaAndRuby1\S&R\Library\ScriptAssemblies\Unity.PlasticSCM.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000022338C14A40 doesn't match image C:\Users\yikch\Documents\GitHub\SennaAndRuby1\S&R\Library\ScriptAssemblies\LeanTransition.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002230BF22010 doesn't match image C:\Users\yikch\Documents\GitHub\SennaAndRuby1\S&R\Library\ScriptAssemblies\LeanTransition.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.91 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.536 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1537ms)
+		BeginReloadAssembly (116ms)
+>>>>>>> ee6ac22ca925a4204a87ab54a4a6c51cf0268639
 			ExecutionOrderSort (0ms)
 			DisableScriptedObjects (6ms)
 			BackupInstance (0ms)
 			ReleaseScriptingObjects (0ms)
+<<<<<<< HEAD
 			CreateAndSetChildDomain (73ms)
 		EndReloadAssembly (1268ms)
 			LoadAssemblies (165ms)
@@ -409,10 +835,29 @@ Domain Reload Profiling:
 				ProcessInitializeOnLoadAttributes (300ms)
 				ProcessInitializeOnLoadMethodAttributes (11ms)
 				AfterProcessingInitializeOnLoad (3ms)
+=======
+			CreateAndSetChildDomain (40ms)
+		EndReloadAssembly (1353ms)
+			LoadAssemblies (108ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (426ms)
+			ReleaseScriptCaches (2ms)
+			RebuildScriptCaches (111ms)
+			SetupLoadedEditorAssemblies (503ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (10ms)
+				SetLoadedEditorAssemblies (2ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (115ms)
+				ProcessInitializeOnLoadAttributes (355ms)
+				ProcessInitializeOnLoadMethodAttributes (11ms)
+				AfterProcessingInitializeOnLoad (9ms)
+>>>>>>> ee6ac22ca925a4204a87ab54a4a6c51cf0268639
 				EditorAssembliesLoaded (0ms)
 			ExecutionOrderSort2 (0ms)
 			AwakeInstancesAfterBackupRestoration (9ms)
 Platform modules already initialized, skipping
+<<<<<<< HEAD
 Refreshing native plugins compatible for Editor in 2.25 ms, found 4 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 1906 Unused Serialized files (Serialized files now loaded: 0)
@@ -421,6 +866,16 @@ System memory in use after: 169.3 MB.
 
 Unloading 33 unused Assets to reduce memory usage. Loaded Objects now: 2506.
 Total: 5.544500 ms (FindLiveObjects: 0.291400 ms CreateObjectMapping: 0.106400 ms MarkObjects: 5.060700 ms  DeleteObjects: 0.084500 ms)
+=======
+Refreshing native plugins compatible for Editor in 1.19 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1907 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 167.8 MB.
+System memory in use after: 167.9 MB.
+
+Unloading 33 unused Assets to reduce memory usage. Loaded Objects now: 2461.
+Total: 4.105300 ms (FindLiveObjects: 0.282400 ms CreateObjectMapping: 0.247000 ms MarkObjects: 3.498200 ms  DeleteObjects: 0.076400 ms)
+>>>>>>> ee6ac22ca925a4204a87ab54a4a6c51cf0268639
 
 AssetImportParameters requested are different than current active one (requested -> active):
   custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
@@ -429,11 +884,13 @@ AssetImportParameters requested are different than current active one (requested
   custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
   custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
   custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
   custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
   custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
 ========================================================================
 Received Import Request.
+<<<<<<< HEAD
   Time since last request: 122.189668 seconds.
   path: Assets/Prefabs/Rock.prefab
   artifactKey: Guid(81b6e7689cd79364380d4422a8c7d1c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
@@ -447,10 +904,18 @@ Received Import Request.
   artifactKey: Guid(81b6e7689cd79364380d4422a8c7d1c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Start importing Assets/Prefabs/Rock.prefab using Guid(81b6e7689cd79364380d4422a8c7d1c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9f24d4cfbaa48e323176c22e3e5f06ef') in 0.019541 seconds 
   Import took 0.024355 seconds .
+=======
+  Time since last request: 68.250597 seconds.
+  path: Assets/Scripts/TeleportExit.cs
+  artifactKey: Guid(b914a33f30f66234faad5e9b540f0f14) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/TeleportExit.cs using Guid(b914a33f30f66234faad5e9b540f0f14) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6c565c32d2c3c77f5a26216dde436f40') in 0.009586 seconds 
+  Import took 0.015017 seconds .
+>>>>>>> ee6ac22ca925a4204a87ab54a4a6c51cf0268639
 
 ========================================================================
 Received Prepare
 Registering precompiled user dll's ...
+<<<<<<< HEAD
 Registered in 0.009639 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for WindowsStandalone target not found
@@ -1209,10 +1674,82 @@ Domain Reload Profiling:
 			ReleaseScriptCaches (2ms)
 			RebuildScriptCaches (58ms)
 			SetupLoadedEditorAssemblies (390ms)
+=======
+Registered in 0.012804 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file data-000002230AD93030 doesn't match image C:\Users\yikch\Documents\GitHub\SennaAndRuby1\S&R\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002230F24E020 doesn't match image C:\Users\yikch\Documents\GitHub\SennaAndRuby1\S&R\Library\ScriptAssemblies\Unity.Services.Core.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002233623D060 doesn't match image C:\Users\yikch\Documents\GitHub\SennaAndRuby1\S&R\Library\ScriptAssemblies\Cinemachine.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000223117EE3F0 doesn't match image C:\Users\yikch\Documents\GitHub\SennaAndRuby1\S&R\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000223368CA640 doesn't match image C:\Users\yikch\Documents\GitHub\SennaAndRuby1\S&R\Library\ScriptAssemblies\com.unity.cinemachine.editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002230C677FD0 doesn't match image C:\Users\yikch\Documents\GitHub\SennaAndRuby1\S&R\Library\ScriptAssemblies\Unity.Postprocessing.Runtime.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002230F965330 doesn't match image C:\Users\yikch\Documents\GitHub\SennaAndRuby1\S&R\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002217AB6D3E0 doesn't match image C:\Users\yikch\Documents\GitHub\SennaAndRuby1\S&R\Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000223113CD020 doesn't match image C:\Users\yikch\Documents\GitHub\SennaAndRuby1\S&R\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000022334D00000 doesn't match image C:\Users\yikch\Documents\GitHub\SennaAndRuby1\S&R\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000022311CBA010 doesn't match image C:\Users\yikch\Documents\GitHub\SennaAndRuby1\S&R\Library\ScriptAssemblies\Unity.Timeline.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000022336388010 doesn't match image C:\Users\yikch\Documents\GitHub\SennaAndRuby1\S&R\Library\ScriptAssemblies\Unity.TextMeshPro.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002230C677FD0 doesn't match image C:\Users\yikch\Documents\GitHub\SennaAndRuby1\S&R\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002230FF18D00 doesn't match image C:\Users\yikch\Documents\GitHub\SennaAndRuby1\S&R\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002230E46C010 doesn't match image C:\Users\yikch\Documents\GitHub\SennaAndRuby1\S&R\Library\ScriptAssemblies\LeanCommon.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000022311035D50 doesn't match image C:\Users\yikch\Documents\GitHub\SennaAndRuby1\S&R\Library\ScriptAssemblies\Unity.Postprocessing.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002230C4A2030 doesn't match image C:\Users\yikch\Documents\GitHub\SennaAndRuby1\S&R\Library\ScriptAssemblies\LeanGUI.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002217AB6D3E0 doesn't match image C:\Users\yikch\Documents\GitHub\SennaAndRuby1\S&R\Library\ScriptAssemblies\UnityEditor.UI.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002230F24E020 doesn't match image C:\Users\yikch\Documents\GitHub\SennaAndRuby1\S&R\Library\ScriptAssemblies\Unity.Rider.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000022334A82010 doesn't match image C:\Users\yikch\Documents\GitHub\SennaAndRuby1\S&R\Library\ScriptAssemblies\UnityEngine.UI.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002230F9306C0 doesn't match image C:\Users\yikch\Documents\GitHub\SennaAndRuby1\S&R\Library\ScriptAssemblies\Unity.PlasticSCM.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002230F47EDF0 doesn't match image C:\Users\yikch\Documents\GitHub\SennaAndRuby1\S&R\Library\ScriptAssemblies\LeanTransition.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002230BD3E3E0 doesn't match image C:\Users\yikch\Documents\GitHub\SennaAndRuby1\S&R\Library\ScriptAssemblies\LeanTransition.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.73 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.672 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1673ms)
+		BeginReloadAssembly (157ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (4ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (38ms)
+		EndReloadAssembly (1432ms)
+			LoadAssemblies (154ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (693ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (73ms)
+			SetupLoadedEditorAssemblies (401ms)
+>>>>>>> ee6ac22ca925a4204a87ab54a4a6c51cf0268639
 				LogAssemblyErrors (0ms)
 				InitializePlatformSupportModulesInManaged (6ms)
 				SetLoadedEditorAssemblies (0ms)
 				RefreshPlugins (1ms)
+<<<<<<< HEAD
 				BeforeProcessingInitializeOnLoad (66ms)
 				ProcessInitializeOnLoadAttributes (303ms)
 				ProcessInitializeOnLoadMethodAttributes (11ms)
@@ -1297,10 +1834,17 @@ Domain Reload Profiling:
 				ProcessInitializeOnLoadAttributes (264ms)
 				ProcessInitializeOnLoadMethodAttributes (8ms)
 				AfterProcessingInitializeOnLoad (2ms)
+=======
+				BeforeProcessingInitializeOnLoad (99ms)
+				ProcessInitializeOnLoadAttributes (279ms)
+				ProcessInitializeOnLoadMethodAttributes (8ms)
+				AfterProcessingInitializeOnLoad (7ms)
+>>>>>>> ee6ac22ca925a4204a87ab54a4a6c51cf0268639
 				EditorAssembliesLoaded (0ms)
 			ExecutionOrderSort2 (0ms)
 			AwakeInstancesAfterBackupRestoration (7ms)
 Platform modules already initialized, skipping
+<<<<<<< HEAD
 Refreshing native plugins compatible for Editor in 0.94 ms, found 4 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 1906 Unused Serialized files (Serialized files now loaded: 0)
@@ -1309,6 +1853,16 @@ System memory in use after: 169.4 MB.
 
 Unloading 33 unused Assets to reduce memory usage. Loaded Objects now: 2538.
 Total: 4.763100 ms (FindLiveObjects: 0.241500 ms CreateObjectMapping: 0.100500 ms MarkObjects: 4.342000 ms  DeleteObjects: 0.077800 ms)
+=======
+Refreshing native plugins compatible for Editor in 0.81 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1907 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 167.8 MB.
+System memory in use after: 167.9 MB.
+
+Unloading 33 unused Assets to reduce memory usage. Loaded Objects now: 2463.
+Total: 3.734200 ms (FindLiveObjects: 0.224000 ms CreateObjectMapping: 0.086700 ms MarkObjects: 3.352200 ms  DeleteObjects: 0.070100 ms)
+>>>>>>> ee6ac22ca925a4204a87ab54a4a6c51cf0268639
 
 AssetImportParameters requested are different than current active one (requested -> active):
   custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
@@ -1317,11 +1871,16 @@ AssetImportParameters requested are different than current active one (requested
   custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
   custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
   custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+<<<<<<< HEAD
+=======
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+>>>>>>> ee6ac22ca925a4204a87ab54a4a6c51cf0268639
   custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
   custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
 ========================================================================
 Received Import Request.
+<<<<<<< HEAD
   Time since last request: 10.238149 seconds.
   path: Assets/Prefabs/Rock.prefab
   artifactKey: Guid(81b6e7689cd79364380d4422a8c7d1c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
@@ -1335,10 +1894,18 @@ Received Import Request.
   artifactKey: Guid(81b6e7689cd79364380d4422a8c7d1c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Start importing Assets/Prefabs/Rock.prefab using Guid(81b6e7689cd79364380d4422a8c7d1c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '68ecef89f716cbd2ef962410e2972281') in 0.017861 seconds 
   Import took 0.024539 seconds .
+=======
+  Time since last request: 21.381621 seconds.
+  path: Assets/Scripts/TeleportExit.cs
+  artifactKey: Guid(b914a33f30f66234faad5e9b540f0f14) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/TeleportExit.cs using Guid(b914a33f30f66234faad5e9b540f0f14) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a4ae268e0f475305266e6f7c3a721aad') in 0.006051 seconds 
+  Import took 0.011109 seconds .
+>>>>>>> ee6ac22ca925a4204a87ab54a4a6c51cf0268639
 
 ========================================================================
 Received Prepare
 Registering precompiled user dll's ...
+<<<<<<< HEAD
 Registered in 0.009094 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for WindowsStandalone target not found
@@ -1381,6 +1948,97 @@ System memory in use after: 169.4 MB.
 
 Unloading 33 unused Assets to reduce memory usage. Loaded Objects now: 2541.
 Total: 3.875700 ms (FindLiveObjects: 0.251700 ms CreateObjectMapping: 0.108400 ms MarkObjects: 3.433600 ms  DeleteObjects: 0.080800 ms)
+=======
+Registered in 0.014906 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file data-000002230BC1FBB0 doesn't match image C:\Users\yikch\Documents\GitHub\SennaAndRuby1\S&R\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000223064B9020 doesn't match image C:\Users\yikch\Documents\GitHub\SennaAndRuby1\S&R\Library\ScriptAssemblies\Unity.Services.Core.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002233623D060 doesn't match image C:\Users\yikch\Documents\GitHub\SennaAndRuby1\S&R\Library\ScriptAssemblies\Cinemachine.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002233637A030 doesn't match image C:\Users\yikch\Documents\GitHub\SennaAndRuby1\S&R\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002230F8F4D40 doesn't match image C:\Users\yikch\Documents\GitHub\SennaAndRuby1\S&R\Library\ScriptAssemblies\com.unity.cinemachine.editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000223368CE650 doesn't match image C:\Users\yikch\Documents\GitHub\SennaAndRuby1\S&R\Library\ScriptAssemblies\Unity.Postprocessing.Runtime.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002230F965330 doesn't match image C:\Users\yikch\Documents\GitHub\SennaAndRuby1\S&R\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000223117EA3E0 doesn't match image C:\Users\yikch\Documents\GitHub\SennaAndRuby1\S&R\Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000223368CE650 doesn't match image C:\Users\yikch\Documents\GitHub\SennaAndRuby1\S&R\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002230F67CF90 doesn't match image C:\Users\yikch\Documents\GitHub\SennaAndRuby1\S&R\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002230F8F4D40 doesn't match image C:\Users\yikch\Documents\GitHub\SennaAndRuby1\S&R\Library\ScriptAssemblies\Unity.Timeline.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002230FE4C100 doesn't match image C:\Users\yikch\Documents\GitHub\SennaAndRuby1\S&R\Library\ScriptAssemblies\Unity.TextMeshPro.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000223368CE650 doesn't match image C:\Users\yikch\Documents\GitHub\SennaAndRuby1\S&R\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002230C18EE80 doesn't match image C:\Users\yikch\Documents\GitHub\SennaAndRuby1\S&R\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002230E46C010 doesn't match image C:\Users\yikch\Documents\GitHub\SennaAndRuby1\S&R\Library\ScriptAssemblies\LeanCommon.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000022336BE6060 doesn't match image C:\Users\yikch\Documents\GitHub\SennaAndRuby1\S&R\Library\ScriptAssemblies\Unity.Postprocessing.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000022336BE6060 doesn't match image C:\Users\yikch\Documents\GitHub\SennaAndRuby1\S&R\Library\ScriptAssemblies\LeanGUI.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000223117EA3E0 doesn't match image C:\Users\yikch\Documents\GitHub\SennaAndRuby1\S&R\Library\ScriptAssemblies\UnityEditor.UI.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000223064B9020 doesn't match image C:\Users\yikch\Documents\GitHub\SennaAndRuby1\S&R\Library\ScriptAssemblies\Unity.Rider.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000022334A82010 doesn't match image C:\Users\yikch\Documents\GitHub\SennaAndRuby1\S&R\Library\ScriptAssemblies\UnityEngine.UI.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000022310EF4700 doesn't match image C:\Users\yikch\Documents\GitHub\SennaAndRuby1\S&R\Library\ScriptAssemblies\Unity.PlasticSCM.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000223065BA120 doesn't match image C:\Users\yikch\Documents\GitHub\SennaAndRuby1\S&R\Library\ScriptAssemblies\LeanTransition.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000223113D7A80 doesn't match image C:\Users\yikch\Documents\GitHub\SennaAndRuby1\S&R\Library\ScriptAssemblies\LeanTransition.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.94 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.539 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1540ms)
+		BeginReloadAssembly (135ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (5ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (44ms)
+		EndReloadAssembly (1319ms)
+			LoadAssemblies (116ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (432ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (82ms)
+			SetupLoadedEditorAssemblies (480ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (10ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (120ms)
+				ProcessInitializeOnLoadAttributes (327ms)
+				ProcessInitializeOnLoadMethodAttributes (12ms)
+				AfterProcessingInitializeOnLoad (8ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (10ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.71 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1907 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 167.8 MB.
+System memory in use after: 168.0 MB.
+
+Unloading 33 unused Assets to reduce memory usage. Loaded Objects now: 2465.
+Total: 3.064700 ms (FindLiveObjects: 0.203700 ms CreateObjectMapping: 0.074300 ms MarkObjects: 2.720800 ms  DeleteObjects: 0.064800 ms)
+>>>>>>> ee6ac22ca925a4204a87ab54a4a6c51cf0268639
 
 AssetImportParameters requested are different than current active one (requested -> active):
   custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
@@ -1389,11 +2047,16 @@ AssetImportParameters requested are different than current active one (requested
   custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
   custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
   custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+<<<<<<< HEAD
+=======
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+>>>>>>> ee6ac22ca925a4204a87ab54a4a6c51cf0268639
   custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
   custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
 ========================================================================
 Received Import Request.
+<<<<<<< HEAD
   Time since last request: 6.874664 seconds.
   path: Assets/Prefabs/Rock.prefab
   artifactKey: Guid(81b6e7689cd79364380d4422a8c7d1c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
@@ -1407,10 +2070,18 @@ Received Import Request.
   artifactKey: Guid(81b6e7689cd79364380d4422a8c7d1c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Start importing Assets/Prefabs/Rock.prefab using Guid(81b6e7689cd79364380d4422a8c7d1c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '030507e4b888edbde23aaab338fbc76b') in 0.019247 seconds 
   Import took 0.025729 seconds .
+=======
+  Time since last request: 126.791624 seconds.
+  path: Assets/Scripts/Test.cs
+  artifactKey: Guid(0a2d54471ae159b4c8c9175474773df1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Test.cs using Guid(0a2d54471ae159b4c8c9175474773df1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '52d6d52d3c8ff111b4fa474e1b8c2423') in 0.010280 seconds 
+  Import took 0.017468 seconds .
+>>>>>>> ee6ac22ca925a4204a87ab54a4a6c51cf0268639
 
 ========================================================================
 Received Prepare
 Registering precompiled user dll's ...
+<<<<<<< HEAD
 Registered in 0.009449 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for WindowsStandalone target not found
@@ -1421,10 +2092,70 @@ Mono: successfully reloaded assembly
 Domain Reload Profiling:
 	ReloadAssembly (1223ms)
 		BeginReloadAssembly (154ms)
+=======
+Registered in 0.011043 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file data-000002230AD8E730 doesn't match image C:\Users\yikch\Documents\GitHub\SennaAndRuby1\S&R\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000223110E74A0 doesn't match image C:\Users\yikch\Documents\GitHub\SennaAndRuby1\S&R\Library\ScriptAssemblies\Unity.Services.Core.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002233623D060 doesn't match image C:\Users\yikch\Documents\GitHub\SennaAndRuby1\S&R\Library\ScriptAssemblies\Cinemachine.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000022334603E50 doesn't match image C:\Users\yikch\Documents\GitHub\SennaAndRuby1\S&R\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000022310EE46F0 doesn't match image C:\Users\yikch\Documents\GitHub\SennaAndRuby1\S&R\Library\ScriptAssemblies\com.unity.cinemachine.editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002233652E790 doesn't match image C:\Users\yikch\Documents\GitHub\SennaAndRuby1\S&R\Library\ScriptAssemblies\Unity.Postprocessing.Runtime.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000022310EE46F0 doesn't match image C:\Users\yikch\Documents\GitHub\SennaAndRuby1\S&R\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002230A93F020 doesn't match image C:\Users\yikch\Documents\GitHub\SennaAndRuby1\S&R\Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000022334CE7CD0 doesn't match image C:\Users\yikch\Documents\GitHub\SennaAndRuby1\S&R\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002231176EF20 doesn't match image C:\Users\yikch\Documents\GitHub\SennaAndRuby1\S&R\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000022310EE46F0 doesn't match image C:\Users\yikch\Documents\GitHub\SennaAndRuby1\S&R\Library\ScriptAssemblies\Unity.Timeline.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002230AC6F010 doesn't match image C:\Users\yikch\Documents\GitHub\SennaAndRuby1\S&R\Library\ScriptAssemblies\Unity.TextMeshPro.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002233652E790 doesn't match image C:\Users\yikch\Documents\GitHub\SennaAndRuby1\S&R\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002230C18EE80 doesn't match image C:\Users\yikch\Documents\GitHub\SennaAndRuby1\S&R\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000223110E74A0 doesn't match image C:\Users\yikch\Documents\GitHub\SennaAndRuby1\S&R\Library\ScriptAssemblies\LeanCommon.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000022336EAC150 doesn't match image C:\Users\yikch\Documents\GitHub\SennaAndRuby1\S&R\Library\ScriptAssemblies\Unity.Postprocessing.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000022336EAC150 doesn't match image C:\Users\yikch\Documents\GitHub\SennaAndRuby1\S&R\Library\ScriptAssemblies\LeanGUI.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002230A93F020 doesn't match image C:\Users\yikch\Documents\GitHub\SennaAndRuby1\S&R\Library\ScriptAssemblies\UnityEditor.UI.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000223110E74A0 doesn't match image C:\Users\yikch\Documents\GitHub\SennaAndRuby1\S&R\Library\ScriptAssemblies\Unity.Rider.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000022334A82010 doesn't match image C:\Users\yikch\Documents\GitHub\SennaAndRuby1\S&R\Library\ScriptAssemblies\UnityEngine.UI.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002231109DC40 doesn't match image C:\Users\yikch\Documents\GitHub\SennaAndRuby1\S&R\Library\ScriptAssemblies\Unity.PlasticSCM.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000223368DE670 doesn't match image C:\Users\yikch\Documents\GitHub\SennaAndRuby1\S&R\Library\ScriptAssemblies\LeanTransition.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000022306408020 doesn't match image C:\Users\yikch\Documents\GitHub\SennaAndRuby1\S&R\Library\ScriptAssemblies\LeanTransition.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.69 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.454 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1455ms)
+		BeginReloadAssembly (160ms)
+>>>>>>> ee6ac22ca925a4204a87ab54a4a6c51cf0268639
 			ExecutionOrderSort (0ms)
 			DisableScriptedObjects (5ms)
 			BackupInstance (0ms)
 			ReleaseScriptingObjects (0ms)
+<<<<<<< HEAD
 			CreateAndSetChildDomain (56ms)
 		EndReloadAssembly (997ms)
 			LoadAssemblies (116ms)
@@ -1441,10 +2172,29 @@ Domain Reload Profiling:
 				ProcessInitializeOnLoadAttributes (274ms)
 				ProcessInitializeOnLoadMethodAttributes (8ms)
 				AfterProcessingInitializeOnLoad (3ms)
+=======
+			CreateAndSetChildDomain (50ms)
+		EndReloadAssembly (1187ms)
+			LoadAssemblies (158ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (518ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (56ms)
+			SetupLoadedEditorAssemblies (328ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (8ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (81ms)
+				ProcessInitializeOnLoadAttributes (223ms)
+				ProcessInitializeOnLoadMethodAttributes (8ms)
+				AfterProcessingInitializeOnLoad (6ms)
+>>>>>>> ee6ac22ca925a4204a87ab54a4a6c51cf0268639
 				EditorAssembliesLoaded (0ms)
 			ExecutionOrderSort2 (0ms)
 			AwakeInstancesAfterBackupRestoration (6ms)
 Platform modules already initialized, skipping
+<<<<<<< HEAD
 Refreshing native plugins compatible for Editor in 0.70 ms, found 4 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 1906 Unused Serialized files (Serialized files now loaded: 0)
@@ -1453,6 +2203,16 @@ System memory in use after: 169.4 MB.
 
 Unloading 33 unused Assets to reduce memory usage. Loaded Objects now: 2544.
 Total: 3.946700 ms (FindLiveObjects: 0.205200 ms CreateObjectMapping: 0.127400 ms MarkObjects: 3.514000 ms  DeleteObjects: 0.099000 ms)
+=======
+Refreshing native plugins compatible for Editor in 0.73 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1908 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 168.0 MB.
+System memory in use after: 168.1 MB.
+
+Unloading 33 unused Assets to reduce memory usage. Loaded Objects now: 2468.
+Total: 5.919500 ms (FindLiveObjects: 0.371600 ms CreateObjectMapping: 0.154000 ms MarkObjects: 5.308500 ms  DeleteObjects: 0.083900 ms)
+>>>>>>> ee6ac22ca925a4204a87ab54a4a6c51cf0268639
 
 AssetImportParameters requested are different than current active one (requested -> active):
   custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
@@ -1461,10 +2221,15 @@ AssetImportParameters requested are different than current active one (requested
   custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
   custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
   custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+<<<<<<< HEAD
+=======
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+>>>>>>> ee6ac22ca925a4204a87ab54a4a6c51cf0268639
   custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
   custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
 ========================================================================
+<<<<<<< HEAD
 Received Import Request.
   Time since last request: 16.323975 seconds.
   path: Assets/Prefabs/Rock.prefab
@@ -1533,6 +2298,99 @@ System memory in use after: 169.5 MB.
 
 Unloading 33 unused Assets to reduce memory usage. Loaded Objects now: 2547.
 Total: 4.282300 ms (FindLiveObjects: 0.260200 ms CreateObjectMapping: 0.088700 ms MarkObjects: 3.682200 ms  DeleteObjects: 0.248300 ms)
+=======
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.129629 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file data-000002230AD99DB0 doesn't match image C:\Users\yikch\Documents\GitHub\SennaAndRuby1\S&R\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000022336F94020 doesn't match image C:\Users\yikch\Documents\GitHub\SennaAndRuby1\S&R\Library\ScriptAssemblies\Unity.Services.Core.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000022336522750 doesn't match image C:\Users\yikch\Documents\GitHub\SennaAndRuby1\S&R\Library\ScriptAssemblies\Cinemachine.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002230F927A20 doesn't match image C:\Users\yikch\Documents\GitHub\SennaAndRuby1\S&R\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002230ABD7020 doesn't match image C:\Users\yikch\Documents\GitHub\SennaAndRuby1\S&R\Library\ScriptAssemblies\com.unity.cinemachine.editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002230C562020 doesn't match image C:\Users\yikch\Documents\GitHub\SennaAndRuby1\S&R\Library\ScriptAssemblies\Unity.Postprocessing.Runtime.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002230ABD7020 doesn't match image C:\Users\yikch\Documents\GitHub\SennaAndRuby1\S&R\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000223344EC010 doesn't match image C:\Users\yikch\Documents\GitHub\SennaAndRuby1\S&R\Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002230C562020 doesn't match image C:\Users\yikch\Documents\GitHub\SennaAndRuby1\S&R\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000022310CC5FD0 doesn't match image C:\Users\yikch\Documents\GitHub\SennaAndRuby1\S&R\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002230C562020 doesn't match image C:\Users\yikch\Documents\GitHub\SennaAndRuby1\S&R\Library\ScriptAssemblies\Unity.Timeline.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002233A2C4040 doesn't match image C:\Users\yikch\Documents\GitHub\SennaAndRuby1\S&R\Library\ScriptAssemblies\Unity.TextMeshPro.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002230C562020 doesn't match image C:\Users\yikch\Documents\GitHub\SennaAndRuby1\S&R\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000022310348DD0 doesn't match image C:\Users\yikch\Documents\GitHub\SennaAndRuby1\S&R\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002233DCD74D0 doesn't match image C:\Users\yikch\Documents\GitHub\SennaAndRuby1\S&R\Library\ScriptAssemblies\LeanCommon.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002230E924020 doesn't match image C:\Users\yikch\Documents\GitHub\SennaAndRuby1\S&R\Library\ScriptAssemblies\Unity.Postprocessing.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002230E924020 doesn't match image C:\Users\yikch\Documents\GitHub\SennaAndRuby1\S&R\Library\ScriptAssemblies\LeanGUI.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000223344EC010 doesn't match image C:\Users\yikch\Documents\GitHub\SennaAndRuby1\S&R\Library\ScriptAssemblies\UnityEditor.UI.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000022336B23190 doesn't match image C:\Users\yikch\Documents\GitHub\SennaAndRuby1\S&R\Library\ScriptAssemblies\Unity.Rider.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002233DDED010 doesn't match image C:\Users\yikch\Documents\GitHub\SennaAndRuby1\S&R\Library\ScriptAssemblies\UnityEngine.UI.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002231176EF20 doesn't match image C:\Users\yikch\Documents\GitHub\SennaAndRuby1\S&R\Library\ScriptAssemblies\Unity.PlasticSCM.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002233D249AD0 doesn't match image C:\Users\yikch\Documents\GitHub\SennaAndRuby1\S&R\Library\ScriptAssemblies\LeanTransition.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000022306408020 doesn't match image C:\Users\yikch\Documents\GitHub\SennaAndRuby1\S&R\Library\ScriptAssemblies\LeanTransition.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.74 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.990 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1991ms)
+		BeginReloadAssembly (172ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (7ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (55ms)
+		EndReloadAssembly (1379ms)
+			LoadAssemblies (147ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (451ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (46ms)
+			SetupLoadedEditorAssemblies (477ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (6ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (81ms)
+				ProcessInitializeOnLoadAttributes (365ms)
+				ProcessInitializeOnLoadMethodAttributes (11ms)
+				AfterProcessingInitializeOnLoad (11ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (11ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.80 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1907 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 167.9 MB.
+System memory in use after: 168.1 MB.
+
+Unloading 34 unused Assets to reduce memory usage. Loaded Objects now: 2469.
+Total: 3.260000 ms (FindLiveObjects: 0.249700 ms CreateObjectMapping: 0.094600 ms MarkObjects: 2.845800 ms  DeleteObjects: 0.068600 ms)
+>>>>>>> ee6ac22ca925a4204a87ab54a4a6c51cf0268639
 
 AssetImportParameters requested are different than current active one (requested -> active):
   custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
@@ -1541,6 +2399,7 @@ AssetImportParameters requested are different than current active one (requested
   custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
   custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
   custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+<<<<<<< HEAD
   custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
   custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
@@ -1941,6 +2800,104 @@ System memory in use after: 169.6 MB.
 
 Unloading 33 unused Assets to reduce memory usage. Loaded Objects now: 2550.
 Total: 5.865200 ms (FindLiveObjects: 1.182600 ms CreateObjectMapping: 0.609500 ms MarkObjects: 3.953600 ms  DeleteObjects: 0.116300 ms)
+=======
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.011788 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file data-000002230AD8CBD0 doesn't match image C:\Users\yikch\Documents\GitHub\SennaAndRuby1\S&R\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000022336F94020 doesn't match image C:\Users\yikch\Documents\GitHub\SennaAndRuby1\S&R\Library\ScriptAssemblies\Unity.Services.Core.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002233623D060 doesn't match image C:\Users\yikch\Documents\GitHub\SennaAndRuby1\S&R\Library\ScriptAssemblies\Cinemachine.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002233A571E70 doesn't match image C:\Users\yikch\Documents\GitHub\SennaAndRuby1\S&R\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000022311BCC030 doesn't match image C:\Users\yikch\Documents\GitHub\SennaAndRuby1\S&R\Library\ScriptAssemblies\com.unity.cinemachine.editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000022310348DD0 doesn't match image C:\Users\yikch\Documents\GitHub\SennaAndRuby1\S&R\Library\ScriptAssemblies\Unity.Postprocessing.Runtime.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000022311BCC030 doesn't match image C:\Users\yikch\Documents\GitHub\SennaAndRuby1\S&R\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000223344EC010 doesn't match image C:\Users\yikch\Documents\GitHub\SennaAndRuby1\S&R\Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000022310348DD0 doesn't match image C:\Users\yikch\Documents\GitHub\SennaAndRuby1\S&R\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000022340040020 doesn't match image C:\Users\yikch\Documents\GitHub\SennaAndRuby1\S&R\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000022310348DD0 doesn't match image C:\Users\yikch\Documents\GitHub\SennaAndRuby1\S&R\Library\ScriptAssemblies\Unity.Timeline.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002230FE4C100 doesn't match image C:\Users\yikch\Documents\GitHub\SennaAndRuby1\S&R\Library\ScriptAssemblies\Unity.TextMeshPro.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000022310348DD0 doesn't match image C:\Users\yikch\Documents\GitHub\SennaAndRuby1\S&R\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002230C18EE80 doesn't match image C:\Users\yikch\Documents\GitHub\SennaAndRuby1\S&R\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002230E46C010 doesn't match image C:\Users\yikch\Documents\GitHub\SennaAndRuby1\S&R\Library\ScriptAssemblies\LeanCommon.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000223367F0030 doesn't match image C:\Users\yikch\Documents\GitHub\SennaAndRuby1\S&R\Library\ScriptAssemblies\Unity.Postprocessing.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000223367F0030 doesn't match image C:\Users\yikch\Documents\GitHub\SennaAndRuby1\S&R\Library\ScriptAssemblies\LeanGUI.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000223344EC010 doesn't match image C:\Users\yikch\Documents\GitHub\SennaAndRuby1\S&R\Library\ScriptAssemblies\UnityEditor.UI.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000022336F94020 doesn't match image C:\Users\yikch\Documents\GitHub\SennaAndRuby1\S&R\Library\ScriptAssemblies\Unity.Rider.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002233DDED010 doesn't match image C:\Users\yikch\Documents\GitHub\SennaAndRuby1\S&R\Library\ScriptAssemblies\UnityEngine.UI.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002230C03D010 doesn't match image C:\Users\yikch\Documents\GitHub\SennaAndRuby1\S&R\Library\ScriptAssemblies\Unity.PlasticSCM.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002233FF9E590 doesn't match image C:\Users\yikch\Documents\GitHub\SennaAndRuby1\S&R\Library\ScriptAssemblies\LeanTransition.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002233FFB2C80 doesn't match image C:\Users\yikch\Documents\GitHub\SennaAndRuby1\S&R\Library\ScriptAssemblies\LeanTransition.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.94 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.476 seconds
+Domain Reload Profiling:
+	ReloadAssembly (2477ms)
+		BeginReloadAssembly (221ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (11ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (68ms)
+		EndReloadAssembly (2096ms)
+			LoadAssemblies (228ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (788ms)
+			ReleaseScriptCaches (2ms)
+			RebuildScriptCaches (85ms)
+			SetupLoadedEditorAssemblies (800ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (10ms)
+				SetLoadedEditorAssemblies (2ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (250ms)
+				ProcessInitializeOnLoadAttributes (509ms)
+				ProcessInitializeOnLoadMethodAttributes (16ms)
+				AfterProcessingInitializeOnLoad (11ms)
+				EditorAssembliesLoaded (1ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (12ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.59 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1907 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 168.0 MB.
+System memory in use after: 168.1 MB.
+
+Unloading 33 unused Assets to reduce memory usage. Loaded Objects now: 2471.
+Total: 4.616400 ms (FindLiveObjects: 0.395700 ms CreateObjectMapping: 0.129100 ms MarkObjects: 3.974400 ms  DeleteObjects: 0.115100 ms)
+>>>>>>> ee6ac22ca925a4204a87ab54a4a6c51cf0268639
 
 AssetImportParameters requested are different than current active one (requested -> active):
   custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
@@ -1949,10 +2906,12 @@ AssetImportParameters requested are different than current active one (requested
   custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
   custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
   custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
   custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
   custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
 ========================================================================
+<<<<<<< HEAD
 Received Prepare
 Registering precompiled user dll's ...
 Registered in 0.010137 seconds.
@@ -1986,9 +2945,100 @@ Domain Reload Profiling:
 				ProcessInitializeOnLoadMethodAttributes (10ms)
 				AfterProcessingInitializeOnLoad (2ms)
 				EditorAssembliesLoaded (0ms)
+=======
+Received Import Request.
+  Time since last request: 80.682187 seconds.
+  path: Assets/Scripts/playerTP.cs
+  artifactKey: Guid(cfda9dc972646dc4d89795d2527098c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/playerTP.cs using Guid(cfda9dc972646dc4d89795d2527098c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'be2bdfe59506fc453d76b5ca737baea4') in 0.006636 seconds 
+  Import took 0.010512 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.024808 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file data-000002230AD8D4F0 doesn't match image C:\Users\yikch\Documents\GitHub\SennaAndRuby1\S&R\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000022336F94020 doesn't match image C:\Users\yikch\Documents\GitHub\SennaAndRuby1\S&R\Library\ScriptAssemblies\Unity.Services.Core.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002233623D060 doesn't match image C:\Users\yikch\Documents\GitHub\SennaAndRuby1\S&R\Library\ScriptAssemblies\Cinemachine.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002217AB62230 doesn't match image C:\Users\yikch\Documents\GitHub\SennaAndRuby1\S&R\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002230C18EE80 doesn't match image C:\Users\yikch\Documents\GitHub\SennaAndRuby1\S&R\Library\ScriptAssemblies\com.unity.cinemachine.editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002230EFC7020 doesn't match image C:\Users\yikch\Documents\GitHub\SennaAndRuby1\S&R\Library\ScriptAssemblies\Unity.Postprocessing.Runtime.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002230C18EE80 doesn't match image C:\Users\yikch\Documents\GitHub\SennaAndRuby1\S&R\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000223344EC010 doesn't match image C:\Users\yikch\Documents\GitHub\SennaAndRuby1\S&R\Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002230EFC7020 doesn't match image C:\Users\yikch\Documents\GitHub\SennaAndRuby1\S&R\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000022310CC5FD0 doesn't match image C:\Users\yikch\Documents\GitHub\SennaAndRuby1\S&R\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000223420710A0 doesn't match image C:\Users\yikch\Documents\GitHub\SennaAndRuby1\S&R\Library\ScriptAssemblies\Unity.Timeline.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000022306698FA0 doesn't match image C:\Users\yikch\Documents\GitHub\SennaAndRuby1\S&R\Library\ScriptAssemblies\Unity.TextMeshPro.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002230EFC7020 doesn't match image C:\Users\yikch\Documents\GitHub\SennaAndRuby1\S&R\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002230C18EE80 doesn't match image C:\Users\yikch\Documents\GitHub\SennaAndRuby1\S&R\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002230E46C010 doesn't match image C:\Users\yikch\Documents\GitHub\SennaAndRuby1\S&R\Library\ScriptAssemblies\LeanCommon.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000223358EA020 doesn't match image C:\Users\yikch\Documents\GitHub\SennaAndRuby1\S&R\Library\ScriptAssemblies\Unity.Postprocessing.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000223358EA020 doesn't match image C:\Users\yikch\Documents\GitHub\SennaAndRuby1\S&R\Library\ScriptAssemblies\LeanGUI.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000223344EC010 doesn't match image C:\Users\yikch\Documents\GitHub\SennaAndRuby1\S&R\Library\ScriptAssemblies\UnityEditor.UI.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000022336F94020 doesn't match image C:\Users\yikch\Documents\GitHub\SennaAndRuby1\S&R\Library\ScriptAssemblies\Unity.Rider.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002233DDED010 doesn't match image C:\Users\yikch\Documents\GitHub\SennaAndRuby1\S&R\Library\ScriptAssemblies\UnityEngine.UI.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002230C03D010 doesn't match image C:\Users\yikch\Documents\GitHub\SennaAndRuby1\S&R\Library\ScriptAssemblies\Unity.PlasticSCM.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002233F6291F0 doesn't match image C:\Users\yikch\Documents\GitHub\SennaAndRuby1\S&R\Library\ScriptAssemblies\LeanTransition.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002233A568040 doesn't match image C:\Users\yikch\Documents\GitHub\SennaAndRuby1\S&R\Library\ScriptAssemblies\LeanTransition.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 3.17 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  3.677 seconds
+Domain Reload Profiling:
+	ReloadAssembly (3678ms)
+		BeginReloadAssembly (201ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (9ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (69ms)
+		EndReloadAssembly (3067ms)
+			LoadAssemblies (325ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (938ms)
+			ReleaseScriptCaches (2ms)
+			RebuildScriptCaches (97ms)
+			SetupLoadedEditorAssemblies (1271ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (13ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (3ms)
+				BeforeProcessingInitializeOnLoad (223ms)
+				ProcessInitializeOnLoadAttributes (992ms)
+				ProcessInitializeOnLoadMethodAttributes (21ms)
+				AfterProcessingInitializeOnLoad (16ms)
+				EditorAssembliesLoaded (1ms)
+>>>>>>> ee6ac22ca925a4204a87ab54a4a6c51cf0268639
 			ExecutionOrderSort2 (0ms)
-			AwakeInstancesAfterBackupRestoration (9ms)
+			AwakeInstancesAfterBackupRestoration (26ms)
 Platform modules already initialized, skipping
+<<<<<<< HEAD
 Refreshing native plugins compatible for Editor in 1.77 ms, found 4 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 1906 Unused Serialized files (Serialized files now loaded: 0)
@@ -1997,6 +3047,16 @@ System memory in use after: 169.6 MB.
 
 Unloading 33 unused Assets to reduce memory usage. Loaded Objects now: 2552.
 Total: 6.327900 ms (FindLiveObjects: 0.624000 ms CreateObjectMapping: 0.207700 ms MarkObjects: 5.407300 ms  DeleteObjects: 0.086900 ms)
+=======
+Refreshing native plugins compatible for Editor in 1.40 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1907 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 168.0 MB.
+System memory in use after: 168.1 MB.
+
+Unloading 33 unused Assets to reduce memory usage. Loaded Objects now: 2473.
+Total: 8.908200 ms (FindLiveObjects: 0.419100 ms CreateObjectMapping: 0.268600 ms MarkObjects: 7.954300 ms  DeleteObjects: 0.261900 ms)
+>>>>>>> ee6ac22ca925a4204a87ab54a4a6c51cf0268639
 
 AssetImportParameters requested are different than current active one (requested -> active):
   custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
@@ -2005,12 +3065,14 @@ AssetImportParameters requested are different than current active one (requested
   custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
   custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
   custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
   custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
   custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
 ========================================================================
 Received Prepare
 Registering precompiled user dll's ...
+<<<<<<< HEAD
 Registered in 0.013702 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for WindowsStandalone target not found
@@ -2021,10 +3083,70 @@ Mono: successfully reloaded assembly
 Domain Reload Profiling:
 	ReloadAssembly (1296ms)
 		BeginReloadAssembly (153ms)
+=======
+Registered in 0.027344 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file data-00000223439B0280 doesn't match image C:\Users\yikch\Documents\GitHub\SennaAndRuby1\S&R\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000022336F94020 doesn't match image C:\Users\yikch\Documents\GitHub\SennaAndRuby1\S&R\Library\ScriptAssemblies\Unity.Services.Core.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002233623D060 doesn't match image C:\Users\yikch\Documents\GitHub\SennaAndRuby1\S&R\Library\ScriptAssemblies\Cinemachine.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002233FFB4C90 doesn't match image C:\Users\yikch\Documents\GitHub\SennaAndRuby1\S&R\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002230C18EE80 doesn't match image C:\Users\yikch\Documents\GitHub\SennaAndRuby1\S&R\Library\ScriptAssemblies\com.unity.cinemachine.editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002231099D180 doesn't match image C:\Users\yikch\Documents\GitHub\SennaAndRuby1\S&R\Library\ScriptAssemblies\Unity.Postprocessing.Runtime.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002230C18EE80 doesn't match image C:\Users\yikch\Documents\GitHub\SennaAndRuby1\S&R\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000223344EC010 doesn't match image C:\Users\yikch\Documents\GitHub\SennaAndRuby1\S&R\Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002231099D180 doesn't match image C:\Users\yikch\Documents\GitHub\SennaAndRuby1\S&R\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000022344454010 doesn't match image C:\Users\yikch\Documents\GitHub\SennaAndRuby1\S&R\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002230C18EE80 doesn't match image C:\Users\yikch\Documents\GitHub\SennaAndRuby1\S&R\Library\ScriptAssemblies\Unity.Timeline.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002230FE4C100 doesn't match image C:\Users\yikch\Documents\GitHub\SennaAndRuby1\S&R\Library\ScriptAssemblies\Unity.TextMeshPro.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002231099D180 doesn't match image C:\Users\yikch\Documents\GitHub\SennaAndRuby1\S&R\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002230C18EE80 doesn't match image C:\Users\yikch\Documents\GitHub\SennaAndRuby1\S&R\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002230E46C010 doesn't match image C:\Users\yikch\Documents\GitHub\SennaAndRuby1\S&R\Library\ScriptAssemblies\LeanCommon.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002233A568040 doesn't match image C:\Users\yikch\Documents\GitHub\SennaAndRuby1\S&R\Library\ScriptAssemblies\Unity.Postprocessing.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002233A568040 doesn't match image C:\Users\yikch\Documents\GitHub\SennaAndRuby1\S&R\Library\ScriptAssemblies\LeanGUI.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000223344EC010 doesn't match image C:\Users\yikch\Documents\GitHub\SennaAndRuby1\S&R\Library\ScriptAssemblies\UnityEditor.UI.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000022336F94020 doesn't match image C:\Users\yikch\Documents\GitHub\SennaAndRuby1\S&R\Library\ScriptAssemblies\Unity.Rider.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002233DDED010 doesn't match image C:\Users\yikch\Documents\GitHub\SennaAndRuby1\S&R\Library\ScriptAssemblies\UnityEngine.UI.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002230C03D010 doesn't match image C:\Users\yikch\Documents\GitHub\SennaAndRuby1\S&R\Library\ScriptAssemblies\Unity.PlasticSCM.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002233590A190 doesn't match image C:\Users\yikch\Documents\GitHub\SennaAndRuby1\S&R\Library\ScriptAssemblies\LeanTransition.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002230B3E3020 doesn't match image C:\Users\yikch\Documents\GitHub\SennaAndRuby1\S&R\Library\ScriptAssemblies\LeanTransition.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.88 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.916 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1917ms)
+		BeginReloadAssembly (248ms)
+>>>>>>> ee6ac22ca925a4204a87ab54a4a6c51cf0268639
 			ExecutionOrderSort (0ms)
 			DisableScriptedObjects (6ms)
 			BackupInstance (0ms)
 			ReleaseScriptingObjects (0ms)
+<<<<<<< HEAD
 			CreateAndSetChildDomain (55ms)
 		EndReloadAssembly (1071ms)
 			LoadAssemblies (135ms)
@@ -2053,6 +3175,36 @@ System memory in use after: 169.6 MB.
 
 Unloading 33 unused Assets to reduce memory usage. Loaded Objects now: 2554.
 Total: 2.976600 ms (FindLiveObjects: 0.221400 ms CreateObjectMapping: 0.081600 ms MarkObjects: 2.606500 ms  DeleteObjects: 0.066100 ms)
+=======
+			CreateAndSetChildDomain (80ms)
+		EndReloadAssembly (1543ms)
+			LoadAssemblies (170ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (417ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (61ms)
+			SetupLoadedEditorAssemblies (755ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (7ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (197ms)
+				ProcessInitializeOnLoadAttributes (506ms)
+				ProcessInitializeOnLoadMethodAttributes (20ms)
+				AfterProcessingInitializeOnLoad (22ms)
+				EditorAssembliesLoaded (1ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (12ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.62 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1907 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 168.0 MB.
+System memory in use after: 168.1 MB.
+
+Unloading 33 unused Assets to reduce memory usage. Loaded Objects now: 2475.
+Total: 6.157100 ms (FindLiveObjects: 0.342900 ms CreateObjectMapping: 0.131400 ms MarkObjects: 5.588900 ms  DeleteObjects: 0.092300 ms)
+>>>>>>> ee6ac22ca925a4204a87ab54a4a6c51cf0268639
 
 AssetImportParameters requested are different than current active one (requested -> active):
   custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
@@ -2061,10 +3213,12 @@ AssetImportParameters requested are different than current active one (requested
   custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
   custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
   custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
   custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
   custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
 ========================================================================
+<<<<<<< HEAD
 Received Prepare
 Registering precompiled user dll's ...
 Registered in 0.011161 seconds.
@@ -2077,10 +3231,80 @@ Mono: successfully reloaded assembly
 Domain Reload Profiling:
 	ReloadAssembly (1335ms)
 		BeginReloadAssembly (160ms)
+=======
+Received Import Request.
+  Time since last request: 143.550867 seconds.
+  path: Assets/Scenes/MainScene.unity
+  artifactKey: Guid(d0296d825741e1e4a8c47f0eca180b24) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/MainScene.unity using Guid(d0296d825741e1e4a8c47f0eca180b24) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ae793a6b84f8baed0cd9f24570d89cb5') in 0.011832 seconds 
+  Import took 0.016192 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.027389 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file data-000002230BC29240 doesn't match image C:\Users\yikch\Documents\GitHub\SennaAndRuby1\S&R\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000022311ACC750 doesn't match image C:\Users\yikch\Documents\GitHub\SennaAndRuby1\S&R\Library\ScriptAssemblies\Unity.Services.Core.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000022336522750 doesn't match image C:\Users\yikch\Documents\GitHub\SennaAndRuby1\S&R\Library\ScriptAssemblies\Cinemachine.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002230B59D460 doesn't match image C:\Users\yikch\Documents\GitHub\SennaAndRuby1\S&R\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000022335CDD020 doesn't match image C:\Users\yikch\Documents\GitHub\SennaAndRuby1\S&R\Library\ScriptAssemblies\com.unity.cinemachine.editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002230A911070 doesn't match image C:\Users\yikch\Documents\GitHub\SennaAndRuby1\S&R\Library\ScriptAssemblies\Unity.Postprocessing.Runtime.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002230C7F4030 doesn't match image C:\Users\yikch\Documents\GitHub\SennaAndRuby1\S&R\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000223364A00E0 doesn't match image C:\Users\yikch\Documents\GitHub\SennaAndRuby1\S&R\Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000223063D6C00 doesn't match image C:\Users\yikch\Documents\GitHub\SennaAndRuby1\S&R\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002230F6D6030 doesn't match image C:\Users\yikch\Documents\GitHub\SennaAndRuby1\S&R\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000022335747020 doesn't match image C:\Users\yikch\Documents\GitHub\SennaAndRuby1\S&R\Library\ScriptAssemblies\Unity.Timeline.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000223343FFF10 doesn't match image C:\Users\yikch\Documents\GitHub\SennaAndRuby1\S&R\Library\ScriptAssemblies\Unity.TextMeshPro.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000022311029010 doesn't match image C:\Users\yikch\Documents\GitHub\SennaAndRuby1\S&R\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000223368C8570 doesn't match image C:\Users\yikch\Documents\GitHub\SennaAndRuby1\S&R\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002230F7821A0 doesn't match image C:\Users\yikch\Documents\GitHub\SennaAndRuby1\S&R\Library\ScriptAssemblies\LeanCommon.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002230F648000 doesn't match image C:\Users\yikch\Documents\GitHub\SennaAndRuby1\S&R\Library\ScriptAssemblies\Unity.Postprocessing.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000022342F3B730 doesn't match image C:\Users\yikch\Documents\GitHub\SennaAndRuby1\S&R\Library\ScriptAssemblies\LeanGUI.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000022310EDA4D0 doesn't match image C:\Users\yikch\Documents\GitHub\SennaAndRuby1\S&R\Library\ScriptAssemblies\UnityEditor.UI.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002230F80D020 doesn't match image C:\Users\yikch\Documents\GitHub\SennaAndRuby1\S&R\Library\ScriptAssemblies\Unity.Rider.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000223110CCCB0 doesn't match image C:\Users\yikch\Documents\GitHub\SennaAndRuby1\S&R\Library\ScriptAssemblies\UnityEngine.UI.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000022336198010 doesn't match image C:\Users\yikch\Documents\GitHub\SennaAndRuby1\S&R\Library\ScriptAssemblies\Unity.PlasticSCM.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000022345A0DAA0 doesn't match image C:\Users\yikch\Documents\GitHub\SennaAndRuby1\S&R\Library\ScriptAssemblies\LeanTransition.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002233C1C5F80 doesn't match image C:\Users\yikch\Documents\GitHub\SennaAndRuby1\S&R\Library\ScriptAssemblies\LeanTransition.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.93 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.342 seconds
+Domain Reload Profiling:
+	ReloadAssembly (2343ms)
+		BeginReloadAssembly (214ms)
+>>>>>>> ee6ac22ca925a4204a87ab54a4a6c51cf0268639
 			ExecutionOrderSort (0ms)
-			DisableScriptedObjects (6ms)
+			DisableScriptedObjects (7ms)
 			BackupInstance (0ms)
 			ReleaseScriptingObjects (0ms)
+<<<<<<< HEAD
 			CreateAndSetChildDomain (59ms)
 		EndReloadAssembly (1086ms)
 			LoadAssemblies (136ms)
@@ -2109,6 +3333,36 @@ System memory in use after: 169.6 MB.
 
 Unloading 33 unused Assets to reduce memory usage. Loaded Objects now: 2556.
 Total: 4.848400 ms (FindLiveObjects: 0.526200 ms CreateObjectMapping: 0.193200 ms MarkObjects: 3.983400 ms  DeleteObjects: 0.143600 ms)
+=======
+			CreateAndSetChildDomain (70ms)
+		EndReloadAssembly (1995ms)
+			LoadAssemblies (190ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (733ms)
+			ReleaseScriptCaches (2ms)
+			RebuildScriptCaches (92ms)
+			SetupLoadedEditorAssemblies (796ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (10ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (142ms)
+				ProcessInitializeOnLoadAttributes (612ms)
+				ProcessInitializeOnLoadMethodAttributes (13ms)
+				AfterProcessingInitializeOnLoad (17ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (12ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.08 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1907 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 168.0 MB.
+System memory in use after: 168.1 MB.
+
+Unloading 33 unused Assets to reduce memory usage. Loaded Objects now: 2477.
+Total: 8.581900 ms (FindLiveObjects: 0.510400 ms CreateObjectMapping: 0.165900 ms MarkObjects: 7.758400 ms  DeleteObjects: 0.144900 ms)
+>>>>>>> ee6ac22ca925a4204a87ab54a4a6c51cf0268639
 
 AssetImportParameters requested are different than current active one (requested -> active):
   custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
@@ -2117,10 +3371,12 @@ AssetImportParameters requested are different than current active one (requested
   custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
   custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
   custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
   custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
   custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
 ========================================================================
+<<<<<<< HEAD
 Received Prepare
 Registering precompiled user dll's ...
 Registered in 0.010588 seconds.
@@ -2154,9 +3410,100 @@ Domain Reload Profiling:
 				ProcessInitializeOnLoadMethodAttributes (14ms)
 				AfterProcessingInitializeOnLoad (2ms)
 				EditorAssembliesLoaded (0ms)
+=======
+Received Import Request.
+  Time since last request: 51.495699 seconds.
+  path: Assets/Testing.unity
+  artifactKey: Guid(e7f832c60fba979439375653e5d673c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Testing.unity using Guid(e7f832c60fba979439375653e5d673c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e7988b3bd1fe72fc36c82a7933161b79') in 0.025292 seconds 
+  Import took 0.029620 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.017112 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file data-000002230E9BE2A0 doesn't match image C:\Users\yikch\Documents\GitHub\SennaAndRuby1\S&R\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000022344F51030 doesn't match image C:\Users\yikch\Documents\GitHub\SennaAndRuby1\S&R\Library\ScriptAssemblies\Unity.Services.Core.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002230B325020 doesn't match image C:\Users\yikch\Documents\GitHub\SennaAndRuby1\S&R\Library\ScriptAssemblies\Cinemachine.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000022346214010 doesn't match image C:\Users\yikch\Documents\GitHub\SennaAndRuby1\S&R\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000022335CDD020 doesn't match image C:\Users\yikch\Documents\GitHub\SennaAndRuby1\S&R\Library\ScriptAssemblies\com.unity.cinemachine.editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000022310A2DE90 doesn't match image C:\Users\yikch\Documents\GitHub\SennaAndRuby1\S&R\Library\ScriptAssemblies\Unity.Postprocessing.Runtime.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002230C7F4030 doesn't match image C:\Users\yikch\Documents\GitHub\SennaAndRuby1\S&R\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000223364A00E0 doesn't match image C:\Users\yikch\Documents\GitHub\SennaAndRuby1\S&R\Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000223063D6C00 doesn't match image C:\Users\yikch\Documents\GitHub\SennaAndRuby1\S&R\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002230F6D6030 doesn't match image C:\Users\yikch\Documents\GitHub\SennaAndRuby1\S&R\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000022335747020 doesn't match image C:\Users\yikch\Documents\GitHub\SennaAndRuby1\S&R\Library\ScriptAssemblies\Unity.Timeline.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000022334751FB0 doesn't match image C:\Users\yikch\Documents\GitHub\SennaAndRuby1\S&R\Library\ScriptAssemblies\Unity.TextMeshPro.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000022311029010 doesn't match image C:\Users\yikch\Documents\GitHub\SennaAndRuby1\S&R\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000223368C8570 doesn't match image C:\Users\yikch\Documents\GitHub\SennaAndRuby1\S&R\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002233EEE2DC0 doesn't match image C:\Users\yikch\Documents\GitHub\SennaAndRuby1\S&R\Library\ScriptAssemblies\LeanCommon.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002230F648000 doesn't match image C:\Users\yikch\Documents\GitHub\SennaAndRuby1\S&R\Library\ScriptAssemblies\Unity.Postprocessing.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000022342F3B730 doesn't match image C:\Users\yikch\Documents\GitHub\SennaAndRuby1\S&R\Library\ScriptAssemblies\LeanGUI.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000022310EDA4D0 doesn't match image C:\Users\yikch\Documents\GitHub\SennaAndRuby1\S&R\Library\ScriptAssemblies\UnityEditor.UI.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000022338C1CE50 doesn't match image C:\Users\yikch\Documents\GitHub\SennaAndRuby1\S&R\Library\ScriptAssemblies\Unity.Rider.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000223110CCCB0 doesn't match image C:\Users\yikch\Documents\GitHub\SennaAndRuby1\S&R\Library\ScriptAssemblies\UnityEngine.UI.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000022336198010 doesn't match image C:\Users\yikch\Documents\GitHub\SennaAndRuby1\S&R\Library\ScriptAssemblies\Unity.PlasticSCM.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000223110CA7F0 doesn't match image C:\Users\yikch\Documents\GitHub\SennaAndRuby1\S&R\Library\ScriptAssemblies\LeanTransition.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002233D639FB0 doesn't match image C:\Users\yikch\Documents\GitHub\SennaAndRuby1\S&R\Library\ScriptAssemblies\LeanTransition.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 1.22 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.397 seconds
+Domain Reload Profiling:
+	ReloadAssembly (2398ms)
+		BeginReloadAssembly (302ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (8ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (118ms)
+		EndReloadAssembly (1921ms)
+			LoadAssemblies (265ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (711ms)
+			ReleaseScriptCaches (2ms)
+			RebuildScriptCaches (90ms)
+			SetupLoadedEditorAssemblies (656ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (13ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (155ms)
+				ProcessInitializeOnLoadAttributes (451ms)
+				ProcessInitializeOnLoadMethodAttributes (23ms)
+				AfterProcessingInitializeOnLoad (12ms)
+				EditorAssembliesLoaded (1ms)
+>>>>>>> ee6ac22ca925a4204a87ab54a4a6c51cf0268639
 			ExecutionOrderSort2 (0ms)
-			AwakeInstancesAfterBackupRestoration (9ms)
+			AwakeInstancesAfterBackupRestoration (17ms)
 Platform modules already initialized, skipping
+<<<<<<< HEAD
 Refreshing native plugins compatible for Editor in 1.23 ms, found 4 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 1906 Unused Serialized files (Serialized files now loaded: 0)
@@ -2165,6 +3512,16 @@ System memory in use after: 169.5 MB.
 
 Unloading 33 unused Assets to reduce memory usage. Loaded Objects now: 2558.
 Total: 5.055300 ms (FindLiveObjects: 0.482900 ms CreateObjectMapping: 0.213200 ms MarkObjects: 4.284700 ms  DeleteObjects: 0.072500 ms)
+=======
+Refreshing native plugins compatible for Editor in 2.40 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1907 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 168.0 MB.
+System memory in use after: 168.1 MB.
+
+Unloading 33 unused Assets to reduce memory usage. Loaded Objects now: 2479.
+Total: 5.469100 ms (FindLiveObjects: 0.391200 ms CreateObjectMapping: 0.171400 ms MarkObjects: 4.825700 ms  DeleteObjects: 0.079100 ms)
+>>>>>>> ee6ac22ca925a4204a87ab54a4a6c51cf0268639
 
 AssetImportParameters requested are different than current active one (requested -> active):
   custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
@@ -2173,10 +3530,12 @@ AssetImportParameters requested are different than current active one (requested
   custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
   custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
   custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
   custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
   custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
 ========================================================================
+<<<<<<< HEAD
 Received Prepare
 Registering precompiled user dll's ...
 Registered in 0.015325 seconds.
@@ -2221,6 +3580,123 @@ System memory in use after: 169.5 MB.
 
 Unloading 33 unused Assets to reduce memory usage. Loaded Objects now: 2560.
 Total: 6.442400 ms (FindLiveObjects: 0.296100 ms CreateObjectMapping: 0.114500 ms MarkObjects: 5.856400 ms  DeleteObjects: 0.173500 ms)
+=======
+Received Import Request.
+  Time since last request: 86.434186 seconds.
+  path: Assets/Scenes/Level2.unity
+  artifactKey: Guid(d1008be39e9a37e4e8958acfe2ae1434) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Level2.unity using Guid(d1008be39e9a37e4e8958acfe2ae1434) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a75ab9977ab2f00767bbf791923ca44c') in 0.023509 seconds 
+  Import took 0.028285 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.258473 seconds.
+  path: Assets/Scenes/Level3.unity
+  artifactKey: Guid(da319607d87b9ca45bd38a8e84ffc622) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Level3.unity using Guid(da319607d87b9ca45bd38a8e84ffc622) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f82ab95229dd156b1d72f00a82ef869c') in 0.006141 seconds 
+  Import took 0.011116 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.205544 seconds.
+  path: Assets/Scenes/FinalScene.unity
+  artifactKey: Guid(f01cef934ea6ed44e938c0732ed9fa53) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/FinalScene.unity using Guid(f01cef934ea6ed44e938c0732ed9fa53) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e35fa778253e54e1bae3662944105b9b') in 0.004129 seconds 
+  Import took 0.008313 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.026231 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file data-0000022310F09980 doesn't match image C:\Users\yikch\Documents\GitHub\SennaAndRuby1\S&R\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000022334297EB0 doesn't match image C:\Users\yikch\Documents\GitHub\SennaAndRuby1\S&R\Library\ScriptAssemblies\Unity.Services.Core.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000022310C91020 doesn't match image C:\Users\yikch\Documents\GitHub\SennaAndRuby1\S&R\Library\ScriptAssemblies\Cinemachine.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000022311A32020 doesn't match image C:\Users\yikch\Documents\GitHub\SennaAndRuby1\S&R\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000022335CDD020 doesn't match image C:\Users\yikch\Documents\GitHub\SennaAndRuby1\S&R\Library\ScriptAssemblies\com.unity.cinemachine.editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000022310A2DE90 doesn't match image C:\Users\yikch\Documents\GitHub\SennaAndRuby1\S&R\Library\ScriptAssemblies\Unity.Postprocessing.Runtime.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002230E275030 doesn't match image C:\Users\yikch\Documents\GitHub\SennaAndRuby1\S&R\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000223364A00E0 doesn't match image C:\Users\yikch\Documents\GitHub\SennaAndRuby1\S&R\Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000223063D6C00 doesn't match image C:\Users\yikch\Documents\GitHub\SennaAndRuby1\S&R\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002230F6D6030 doesn't match image C:\Users\yikch\Documents\GitHub\SennaAndRuby1\S&R\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000022335747020 doesn't match image C:\Users\yikch\Documents\GitHub\SennaAndRuby1\S&R\Library\ScriptAssemblies\Unity.Timeline.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000223343FFF10 doesn't match image C:\Users\yikch\Documents\GitHub\SennaAndRuby1\S&R\Library\ScriptAssemblies\Unity.TextMeshPro.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000022311029010 doesn't match image C:\Users\yikch\Documents\GitHub\SennaAndRuby1\S&R\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000022341FB9010 doesn't match image C:\Users\yikch\Documents\GitHub\SennaAndRuby1\S&R\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002230A8D5F50 doesn't match image C:\Users\yikch\Documents\GitHub\SennaAndRuby1\S&R\Library\ScriptAssemblies\LeanCommon.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000022338D52010 doesn't match image C:\Users\yikch\Documents\GitHub\SennaAndRuby1\S&R\Library\ScriptAssemblies\Unity.Postprocessing.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000022342C5B220 doesn't match image C:\Users\yikch\Documents\GitHub\SennaAndRuby1\S&R\Library\ScriptAssemblies\LeanGUI.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000022310DBD010 doesn't match image C:\Users\yikch\Documents\GitHub\SennaAndRuby1\S&R\Library\ScriptAssemblies\UnityEditor.UI.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002230F80D020 doesn't match image C:\Users\yikch\Documents\GitHub\SennaAndRuby1\S&R\Library\ScriptAssemblies\Unity.Rider.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002233DDED010 doesn't match image C:\Users\yikch\Documents\GitHub\SennaAndRuby1\S&R\Library\ScriptAssemblies\UnityEngine.UI.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000022336198010 doesn't match image C:\Users\yikch\Documents\GitHub\SennaAndRuby1\S&R\Library\ScriptAssemblies\Unity.PlasticSCM.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002233A445520 doesn't match image C:\Users\yikch\Documents\GitHub\SennaAndRuby1\S&R\Library\ScriptAssemblies\LeanTransition.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002234184B010 doesn't match image C:\Users\yikch\Documents\GitHub\SennaAndRuby1\S&R\Library\ScriptAssemblies\LeanTransition.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 2.04 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  3.587 seconds
+Domain Reload Profiling:
+	ReloadAssembly (3614ms)
+		BeginReloadAssembly (825ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (149ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (437ms)
+		EndReloadAssembly (2525ms)
+			LoadAssemblies (264ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (1028ms)
+			ReleaseScriptCaches (16ms)
+			RebuildScriptCaches (136ms)
+			SetupLoadedEditorAssemblies (807ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (17ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (2ms)
+				BeforeProcessingInitializeOnLoad (164ms)
+				ProcessInitializeOnLoadAttributes (586ms)
+				ProcessInitializeOnLoadMethodAttributes (19ms)
+				AfterProcessingInitializeOnLoad (15ms)
+				EditorAssembliesLoaded (1ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (19ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.67 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1907 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 168.0 MB.
+System memory in use after: 168.1 MB.
+
+Unloading 33 unused Assets to reduce memory usage. Loaded Objects now: 2481.
+Total: 8.360000 ms (FindLiveObjects: 0.510900 ms CreateObjectMapping: 0.216100 ms MarkObjects: 7.450800 ms  DeleteObjects: 0.179400 ms)
+>>>>>>> ee6ac22ca925a4204a87ab54a4a6c51cf0268639
 
 AssetImportParameters requested are different than current active one (requested -> active):
   custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
@@ -2229,12 +3705,54 @@ AssetImportParameters requested are different than current active one (requested
   custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
   custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
   custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
   custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
   custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
 ========================================================================
+Received Import Request.
+  Time since last request: 537.682181 seconds.
+  path: Assets/Scripts/TeleportExit.cs
+  artifactKey: Guid(b914a33f30f66234faad5e9b540f0f14) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/TeleportExit.cs using Guid(b914a33f30f66234faad5e9b540f0f14) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e5ec68d61c31344307dadf245bd129f5') in 0.012200 seconds 
+  Import took 0.020213 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 10.338839 seconds.
+  path: Assets/Sound Effect
+  artifactKey: Guid(467a3fede59a5b14f9f6bf5175cce6a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sound Effect using Guid(467a3fede59a5b14f9f6bf5175cce6a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ef60333b7036655dccde3cbf3864e8d8') in 0.018528 seconds 
+  Import took 0.028930 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 126.106381 seconds.
+  path: Assets/Sound Effect/tp.mp4
+  artifactKey: Guid(fa08554bdad12df4a8d7242c15cbfee3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sound Effect/tp.mp4 using Guid(fa08554bdad12df4a8d7242c15cbfee3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3959caa67b0333e1705d30d2ec94ef96') in 0.232832 seconds 
+  Import took 0.242310 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 118.001756 seconds.
+  path: Assets/Sound Effect/tp.mpeg
+  artifactKey: Guid(b148c5c2ced698c4a8d297ca79a6edae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sound Effect/tp.mpeg using Guid(b148c5c2ced698c4a8d297ca79a6edae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'daa1bb3420a6814f99bb8e0825d3a997') in 0.008644 seconds 
+  Import took 0.013726 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 97.956357 seconds.
+  path: Assets/Sound Effect/tp.mp3
+  artifactKey: Guid(7559073eb94127a428ca9a809805fab8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sound Effect/tp.mp3 using Guid(7559073eb94127a428ca9a809805fab8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '039782d52c832832baba931b2b18f782') in 1.413582 seconds 
+  Import took 1.424166 seconds .
+
+========================================================================
 Received Prepare
 Registering precompiled user dll's ...
+<<<<<<< HEAD
 Registered in 0.009085 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for WindowsStandalone target not found
@@ -2277,6 +3795,51 @@ System memory in use after: 169.5 MB.
 
 Unloading 33 unused Assets to reduce memory usage. Loaded Objects now: 2562.
 Total: 2.924300 ms (FindLiveObjects: 0.199500 ms CreateObjectMapping: 0.068700 ms MarkObjects: 2.544800 ms  DeleteObjects: 0.110600 ms)
+=======
+Registered in 0.034343 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.83 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.896 seconds
+Domain Reload Profiling:
+	ReloadAssembly (2897ms)
+		BeginReloadAssembly (408ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (9ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (86ms)
+		EndReloadAssembly (2296ms)
+			LoadAssemblies (358ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (1202ms)
+			ReleaseScriptCaches (2ms)
+			RebuildScriptCaches (88ms)
+			SetupLoadedEditorAssemblies (603ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (7ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (202ms)
+				ProcessInitializeOnLoadAttributes (370ms)
+				ProcessInitializeOnLoadMethodAttributes (11ms)
+				AfterProcessingInitializeOnLoad (10ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (7ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.09 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1759 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 167.9 MB.
+System memory in use after: 168.0 MB.
+
+Unloading 179 unused Assets to reduce memory usage. Loaded Objects now: 2346.
+Total: 4.634200 ms (FindLiveObjects: 0.285000 ms CreateObjectMapping: 0.103700 ms MarkObjects: 4.079800 ms  DeleteObjects: 0.164400 ms)
+>>>>>>> ee6ac22ca925a4204a87ab54a4a6c51cf0268639
 
 AssetImportParameters requested are different than current active one (requested -> active):
   custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
@@ -2285,12 +3848,14 @@ AssetImportParameters requested are different than current active one (requested
   custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
   custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
   custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
   custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
   custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
 ========================================================================
 Received Prepare
 Registering precompiled user dll's ...
+<<<<<<< HEAD
 Registered in 0.011067 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for WindowsStandalone target not found
@@ -2333,6 +3898,51 @@ System memory in use after: 169.5 MB.
 
 Unloading 33 unused Assets to reduce memory usage. Loaded Objects now: 2564.
 Total: 4.747600 ms (FindLiveObjects: 0.381200 ms CreateObjectMapping: 0.169100 ms MarkObjects: 4.090300 ms  DeleteObjects: 0.105200 ms)
+=======
+Registered in 0.029639 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 2.06 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  6.687 seconds
+Domain Reload Profiling:
+	ReloadAssembly (6687ms)
+		BeginReloadAssembly (362ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (12ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (112ms)
+		EndReloadAssembly (5927ms)
+			LoadAssemblies (469ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (1635ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (113ms)
+			SetupLoadedEditorAssemblies (2414ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (24ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (2ms)
+				BeforeProcessingInitializeOnLoad (342ms)
+				ProcessInitializeOnLoadAttributes (1986ms)
+				ProcessInitializeOnLoadMethodAttributes (24ms)
+				AfterProcessingInitializeOnLoad (34ms)
+				EditorAssembliesLoaded (1ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (168ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.45 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1759 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 167.3 MB.
+System memory in use after: 167.4 MB.
+
+Unloading 33 unused Assets to reduce memory usage. Loaded Objects now: 2348.
+Total: 6.290400 ms (FindLiveObjects: 0.305200 ms CreateObjectMapping: 0.112100 ms MarkObjects: 5.722900 ms  DeleteObjects: 0.148100 ms)
+>>>>>>> ee6ac22ca925a4204a87ab54a4a6c51cf0268639
 
 AssetImportParameters requested are different than current active one (requested -> active):
   custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
@@ -2341,12 +3951,14 @@ AssetImportParameters requested are different than current active one (requested
   custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
   custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
   custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
   custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
   custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
 ========================================================================
 Received Prepare
 Registering precompiled user dll's ...
+<<<<<<< HEAD
 Registered in 0.013379 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for WindowsStandalone target not found
@@ -2357,10 +3969,24 @@ Mono: successfully reloaded assembly
 Domain Reload Profiling:
 	ReloadAssembly (1151ms)
 		BeginReloadAssembly (94ms)
+=======
+Registered in 0.030251 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 1.37 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.910 seconds
+Domain Reload Profiling:
+	ReloadAssembly (2912ms)
+		BeginReloadAssembly (314ms)
+>>>>>>> ee6ac22ca925a4204a87ab54a4a6c51cf0268639
 			ExecutionOrderSort (0ms)
-			DisableScriptedObjects (4ms)
+			DisableScriptedObjects (8ms)
 			BackupInstance (0ms)
 			ReleaseScriptingObjects (0ms)
+<<<<<<< HEAD
 			CreateAndSetChildDomain (30ms)
 		EndReloadAssembly (1006ms)
 			LoadAssemblies (91ms)
@@ -2389,6 +4015,36 @@ System memory in use after: 169.5 MB.
 
 Unloading 33 unused Assets to reduce memory usage. Loaded Objects now: 2566.
 Total: 3.172500 ms (FindLiveObjects: 0.215400 ms CreateObjectMapping: 0.078000 ms MarkObjects: 2.757000 ms  DeleteObjects: 0.121200 ms)
+=======
+			CreateAndSetChildDomain (92ms)
+		EndReloadAssembly (2380ms)
+			LoadAssemblies (267ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (660ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (129ms)
+			SetupLoadedEditorAssemblies (1162ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (10ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (267ms)
+				ProcessInitializeOnLoadAttributes (833ms)
+				ProcessInitializeOnLoadMethodAttributes (25ms)
+				AfterProcessingInitializeOnLoad (23ms)
+				EditorAssembliesLoaded (1ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (16ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.88 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1759 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 167.3 MB.
+System memory in use after: 167.4 MB.
+
+Unloading 33 unused Assets to reduce memory usage. Loaded Objects now: 2350.
+Total: 3.661100 ms (FindLiveObjects: 0.236300 ms CreateObjectMapping: 0.109600 ms MarkObjects: 3.233700 ms  DeleteObjects: 0.080500 ms)
+>>>>>>> ee6ac22ca925a4204a87ab54a4a6c51cf0268639
 
 AssetImportParameters requested are different than current active one (requested -> active):
   custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
@@ -2397,12 +4053,22 @@ AssetImportParameters requested are different than current active one (requested
   custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
   custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
   custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
   custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
   custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
 ========================================================================
+Received Import Request.
+  Time since last request: 410.814542 seconds.
+  path: Assets/Sound Effect/teleport.mp3
+  artifactKey: Guid(4b76116494832754399c225bf30922c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sound Effect/teleport.mp3 using Guid(4b76116494832754399c225bf30922c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9e939ecfb639e1fe96c09e7c5594942a') in 0.182146 seconds 
+  Import took 0.187617 seconds .
+
+========================================================================
 Received Prepare
 Registering precompiled user dll's ...
+<<<<<<< HEAD
 Registered in 0.011721 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for WindowsStandalone target not found
@@ -2434,9 +4100,44 @@ Domain Reload Profiling:
 				ProcessInitializeOnLoadMethodAttributes (10ms)
 				AfterProcessingInitializeOnLoad (3ms)
 				EditorAssembliesLoaded (0ms)
+=======
+Registered in 0.026669 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.89 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.291 seconds
+Domain Reload Profiling:
+	ReloadAssembly (2291ms)
+		BeginReloadAssembly (314ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (8ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (96ms)
+		EndReloadAssembly (1823ms)
+			LoadAssemblies (267ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (588ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (70ms)
+			SetupLoadedEditorAssemblies (814ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (10ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (110ms)
+				ProcessInitializeOnLoadAttributes (663ms)
+				ProcessInitializeOnLoadMethodAttributes (17ms)
+				AfterProcessingInitializeOnLoad (13ms)
+				EditorAssembliesLoaded (1ms)
+>>>>>>> ee6ac22ca925a4204a87ab54a4a6c51cf0268639
 			ExecutionOrderSort2 (0ms)
-			AwakeInstancesAfterBackupRestoration (7ms)
+			AwakeInstancesAfterBackupRestoration (17ms)
 Platform modules already initialized, skipping
+<<<<<<< HEAD
 Refreshing native plugins compatible for Editor in 0.99 ms, found 4 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 1906 Unused Serialized files (Serialized files now loaded: 0)
@@ -2445,6 +4146,16 @@ System memory in use after: 169.6 MB.
 
 Unloading 33 unused Assets to reduce memory usage. Loaded Objects now: 2568.
 Total: 4.477300 ms (FindLiveObjects: 1.108100 ms CreateObjectMapping: 0.564800 ms MarkObjects: 2.704300 ms  DeleteObjects: 0.097400 ms)
+=======
+Refreshing native plugins compatible for Editor in 1.39 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1759 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 167.3 MB.
+System memory in use after: 167.4 MB.
+
+Unloading 33 unused Assets to reduce memory usage. Loaded Objects now: 2353.
+Total: 6.964800 ms (FindLiveObjects: 1.166600 ms CreateObjectMapping: 0.592800 ms MarkObjects: 5.116400 ms  DeleteObjects: 0.086400 ms)
+>>>>>>> ee6ac22ca925a4204a87ab54a4a6c51cf0268639
 
 AssetImportParameters requested are different than current active one (requested -> active):
   custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
@@ -2453,6 +4164,7 @@ AssetImportParameters requested are different than current active one (requested
   custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
   custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
   custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
   custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
   custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
