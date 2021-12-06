@@ -13,12 +13,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 5
-<<<<<<< HEAD
-  lastUpdatedAtString: 2021-12-06T14:27:03.183+08:00
-  initializedAtString: 2021-12-06T13:40:14.822+08:00
-=======
-  lastUpdatedAtString: 2021-12-06T10:06:40.693+08:00
-  initializedAtString: 2021-12-06T10:06:40.693+08:00
->>>>>>> ee6ac22ca925a4204a87ab54a4a6c51cf0268639
+  lastUpdatedAtString: 2021-12-06T16:55:35.406+08:00
+  initializedAtString: 2021-12-06T16:52:40.398+08:00
   ahead: 0
-  behind: 0
+  behind: 1
