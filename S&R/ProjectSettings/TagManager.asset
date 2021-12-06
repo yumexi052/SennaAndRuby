@@ -12,6 +12,7 @@ TagManager:
   - TrapParticle
   - Arrow
   - Sun
+  - DestroyRock
   layers:
   - Default
   - TransparentFX

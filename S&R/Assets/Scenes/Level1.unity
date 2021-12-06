@@ -3819,7 +3819,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4000011025305954, guid: 6007262bd444a5e41a8129ddac6d0e96, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -0.9
+      value: -16
       objectReference: {fileID: 0}
     - target: {fileID: 4000011025305954, guid: 6007262bd444a5e41a8129ddac6d0e96, type: 3}
       propertyPath: m_LocalPosition.z
@@ -15237,6 +15237,64 @@ BoxCollider:
   serializedVersion: 2
   m_Size: {x: 4.0000014, y: 2.0000587, z: 16.000006}
   m_Center: {x: 0.00000047683716, y: -0.9999997, z: 0.0000019073486}
+--- !u!1 &455744827
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 455744828}
+  - component: {fileID: 455744829}
+  - component: {fileID: 455744830}
+  m_Layer: 0
+  m_Name: RockSpawn2
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &455744828
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 455744827}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -0, y: -25.94, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 704324291}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &455744829
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 455744827}
+  m_Enabled: 0
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a51e8655a874be6418597a7339b20170, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  rock: {fileID: 400223350469460682, guid: 155e4e3e0b36e22468193d1e1a90f0ed, type: 3}
+--- !u!114 &455744830
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 455744827}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f131d7e4a44486a469092b06138905ac, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  rock: {fileID: 400223350469460682, guid: 155e4e3e0b36e22468193d1e1a90f0ed, type: 3}
 --- !u!1001 &455933350
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -21665,6 +21723,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Wall Tile 4x4
       objectReference: {fileID: 0}
+    - target: {fileID: 1000013419234888, guid: 6cd7440ceab5bd244aad79580a2f7817, type: 3}
+      propertyPath: m_TagString
+      value: Untagged
+      objectReference: {fileID: 0}
     - target: {fileID: 4000013680355614, guid: 6cd7440ceab5bd244aad79580a2f7817, type: 3}
       propertyPath: m_RootOrder
       value: 0
@@ -23210,10 +23272,11 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 704324290}
   m_LocalRotation: {x: 0, y: 0, z: 0.7071068, w: 0.7071068}
-  m_LocalPosition: {x: 0.4, y: 48.6, z: 159.4}
+  m_LocalPosition: {x: -15, y: 48.6, z: 159.4}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 1636352887}
+  - {fileID: 455744828}
   m_Father: {fileID: 0}
   m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 90}
@@ -23229,7 +23292,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a51e8655a874be6418597a7339b20170, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  rock: {fileID: 3117485726521847954, guid: 81b6e7689cd79364380d4422a8c7d1c7, type: 3}
+  rock: {fileID: 400223350469460682, guid: 155e4e3e0b36e22468193d1e1a90f0ed, type: 3}
 --- !u!1001 &704384129
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -30723,6 +30786,10 @@ PrefabInstance:
     - target: {fileID: 1000013419234888, guid: 6cd7440ceab5bd244aad79580a2f7817, type: 3}
       propertyPath: m_Name
       value: Wall Tile 4x4 (15)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000013419234888, guid: 6cd7440ceab5bd244aad79580a2f7817, type: 3}
+      propertyPath: m_TagString
+      value: Untagged
       objectReference: {fileID: 0}
     - target: {fileID: 4000013680355614, guid: 6cd7440ceab5bd244aad79580a2f7817, type: 3}
       propertyPath: m_RootOrder
@@ -43777,6 +43844,63 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 5437314569255455803, guid: ec0548fc159ba55458c1f7358ea7ac3e, type: 3}
   m_PrefabInstance: {fileID: 405942162}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &1359830528
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1359830530}
+  - component: {fileID: 1359830529}
+  - component: {fileID: 1359830531}
+  m_Layer: 0
+  m_Name: DestroyRock
+  m_TagString: DestroyRock
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!65 &1359830529
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1359830528}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 47.08, y: 44.9, z: 4}
+  m_Center: {x: 0, y: 0, z: 0}
+--- !u!4 &1359830530
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1359830528}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 1.2491729, y: 23.2, z: -5.3}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 7
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1359830531
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1359830528}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5300cfb23830e71448913b146326cffe, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1001 &1362073125
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -49413,9 +49537,25 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 516240876}
     m_Modifications:
+    - target: {fileID: 1842177177, guid: 8859acd5a81cf7c499011be8fa88d940, type: 3}
+      propertyPath: m_Size.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1842177177, guid: 8859acd5a81cf7c499011be8fa88d940, type: 3}
+      propertyPath: m_Center.y
+      value: 15.999998
+      objectReference: {fileID: 0}
+    - target: {fileID: 1842177177, guid: 8859acd5a81cf7c499011be8fa88d940, type: 3}
+      propertyPath: m_Center.z
+      value: 0.000117143034
+      objectReference: {fileID: 0}
     - target: {fileID: 1000013327739928, guid: 8859acd5a81cf7c499011be8fa88d940, type: 3}
       propertyPath: m_Name
       value: Wall Tile 2x4
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000013327739928, guid: 8859acd5a81cf7c499011be8fa88d940, type: 3}
+      propertyPath: m_TagString
+      value: Untagged
       objectReference: {fileID: 0}
     - target: {fileID: 4000013224114162, guid: 8859acd5a81cf7c499011be8fa88d940, type: 3}
       propertyPath: m_RootOrder
@@ -51586,6 +51726,10 @@ PrefabInstance:
     - target: {fileID: 1000013327739928, guid: 8859acd5a81cf7c499011be8fa88d940, type: 3}
       propertyPath: m_Name
       value: Wall Tile 2x4 (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000013327739928, guid: 8859acd5a81cf7c499011be8fa88d940, type: 3}
+      propertyPath: m_TagString
+      value: Untagged
       objectReference: {fileID: 0}
     - target: {fileID: 4000013224114162, guid: 8859acd5a81cf7c499011be8fa88d940, type: 3}
       propertyPath: m_RootOrder

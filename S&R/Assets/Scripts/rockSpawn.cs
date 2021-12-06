@@ -23,6 +23,7 @@ public class rockSpawn : MonoBehaviour
         if (rockRoll.destroyRock)
         {
             noOfEnemy = 0;
+            AutoDestroyRock.isDestroyRock = false;
             //rockRoll.destroyRock = false;
         }
 
