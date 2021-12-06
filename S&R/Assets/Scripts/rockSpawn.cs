@@ -23,15 +23,15 @@ public class rockSpawn : MonoBehaviour
         if (rockRoll.destroyRock)
         {
             noOfEnemy = 0;
-            rockRoll.destroyRock = false;
+            //rockRoll.destroyRock = false;
         }
 
-        if (noOfEnemy <= 2)
+        if (noOfEnemy == 0)
         {
             timer += Time.deltaTime;
         }
 
-        if (timer > 15)
+        if (timer > 7)
         {
             GameObject temp = Instantiate(rock, transform.position, transform.rotation);
             temp.name = "Rock";

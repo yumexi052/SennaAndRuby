@@ -47,7 +47,12 @@ public class rockRoll : MonoBehaviour
             //lightOff.isLightOff = true;
             destroyRock = true;
             Destroy(gameObject);
-            foxMove.isRockDestroy = false;
+            //foxMove.isRockDestroy = false;
+        }
+
+        if(rockSpawn.noOfEnemy == 0)
+        {
+            destroyRock = false;
         }
         //if (this.transform.position.y < 21.0f)
         //{ 
@@ -55,7 +60,7 @@ public class rockRoll : MonoBehaviour
         //    Destroy(gameObject, 5);
         //    foxMove.isRockDestroy = false;
         //}
-        
+
 
         //if (rockSpawn.isRockRestart)
         //{

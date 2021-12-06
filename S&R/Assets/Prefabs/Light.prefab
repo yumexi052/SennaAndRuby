@@ -171,4 +171,5 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 14e24f481359cd54cacebd48de35dafc, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  lightObject: {fileID: 0}
   myColor: {r: 0.253115, g: 0.5410383, b: 0.5660378, a: 0}

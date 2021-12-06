@@ -4,7 +4,6 @@ using UnityEngine;
 
 public class foxAnimation : MonoBehaviour
 {
-
     public float rotationSpeed = 100.0f;
     public static bool OnTheGround = true;
     public static bool rockSpeedUp = false;

@@ -14,8 +14,6 @@ public class foxMove : MonoBehaviour
     public static bool rockSpeedUp = false;
     public static bool isRockDestroy = false;
     public static bool isControlDestroy = false;
-    public static bool isArrowLight = false;
-    public static bool isSunLight = false;
     private float timer = 0.0f;
     private float timerDoor = 0.0f;
 
@@ -32,8 +30,13 @@ public class foxMove : MonoBehaviour
     void Awake()
     {
         animator.SetBool("isDied", false);
-        rockRoll.isHit = false;
         trapTrigger = false;
+        OnTheGround = true;
+        trapTrigger = false;
+        rockSpeedUp = false;
+        isRockDestroy = false;
+        isControlDestroy = false;
+        timer = 0.0f;
     }
 
     // Start is called before the first frame update
@@ -145,6 +148,11 @@ public class foxMove : MonoBehaviour
             //        timerDoor = 0.0f;
             //    }   
             //}
+        }
+
+        if (rockRoll.destroyRock)
+        {
+            isRockDestroy = false;
         }
     }
 
