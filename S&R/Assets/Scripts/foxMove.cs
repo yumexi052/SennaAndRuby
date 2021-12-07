@@ -131,14 +131,12 @@ public class foxMove : MonoBehaviour
             }
             if (hit.collider.gameObject.tag == "Arrow" && Input.GetAxis("Collect") != 0)
             {
-                //isArrowLight = true;
                 hit.collider.gameObject.transform.Find("ArrowLight").gameObject.SetActive(true);
                 Debug.Log("Rock Destroy");
                 isRockDestroy = true;
             }
             if (hit.collider.gameObject.tag == "Sun" && Input.GetAxis("Collect") != 0)
             {
-                //isSunLight = true;
                 hit.collider.gameObject.transform.Find("SunLight").gameObject.SetActive(true);
                 Debug.Log("Main Control Destroy!");
                 isControlDestroy = true;

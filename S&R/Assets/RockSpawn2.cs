@@ -50,18 +50,6 @@ public class RockSpawn2 : MonoBehaviour
                 temp.AddComponent<Rigidbody>();
                 Physics.IgnoreCollision(transform.root.GetComponent<Collider>(), temp.GetComponent<Collider>(), true);
             }
-
-            //GameObject temp = Instantiate(rock, transform.position, transform.rotation);
-            //temp.name = "Rock";
-            //timer = 0.0f;
-            //noOfEnemy++;
-
-            //if (temp.GetComponent<Rigidbody>() == null)
-            //{
-            //    Debug.Log("Component missing!");
-            //    temp.AddComponent<Rigidbody>();
-            //    Physics.IgnoreCollision(transform.root.GetComponent<Collider>(), temp.GetComponent<Collider>(), true);
-            //}
         }
     }
 }

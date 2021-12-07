@@ -32,7 +32,7 @@ public class rockSpawn : MonoBehaviour
             timer += Time.deltaTime;
         }
 
-        if (timer > 7)
+        if (timer > 5)
         {
             GameObject temp = Instantiate(rock, transform.position, transform.rotation);
             temp.name = "Rock";
@@ -45,7 +45,7 @@ public class rockSpawn : MonoBehaviour
                 temp.AddComponent<Rigidbody>();
                 Physics.IgnoreCollision(transform.root.GetComponent<Collider>(), temp.GetComponent<Collider>(), true);
             }
-        }
+        } 
 
         if (foxMove.isControlDestroy)
         {
