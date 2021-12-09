@@ -1,0 +1,11 @@
+Model Information:
+* title:	Altar
+* source:	https://sketchfab.com/3d-models/altar-e3b10b8663a34661a118fb4e4779f1dd
+* author:	Duhan (https://sketchfab.com/doohan.dorman)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Altar" (https://sketchfab.com/3d-models/altar-e3b10b8663a34661a118fb4e4779f1dd) by Duhan (https://sketchfab.com/doohan.dorman) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

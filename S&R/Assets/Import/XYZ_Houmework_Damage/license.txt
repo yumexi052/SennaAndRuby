@@ -1,0 +1,11 @@
+Model Information:
+* title:	XYZ Houmework Damage
+* source:	https://sketchfab.com/3d-models/xyz-houmework-damage-b6089fbc66ec4ebb933575bd5d6dd523
+* author:	AlexandraOst (https://sketchfab.com/AlexandraOst)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "XYZ Houmework Damage" (https://sketchfab.com/3d-models/xyz-houmework-damage-b6089fbc66ec4ebb933575bd5d6dd523) by AlexandraOst (https://sketchfab.com/AlexandraOst) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

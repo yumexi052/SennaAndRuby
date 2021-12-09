@@ -1,0 +1,11 @@
+Model Information:
+* title:	crystal 2_0
+* source:	https://sketchfab.com/3d-models/crystal-2-0-b036c59c7dda406c9b21c4138f1971f2
+* author:	Maxscorpionz (https://sketchfab.com/Maxscorpionz)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "crystal 2_0" (https://sketchfab.com/3d-models/crystal-2-0-b036c59c7dda406c9b21c4138f1971f2) by Maxscorpionz (https://sketchfab.com/Maxscorpionz) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
