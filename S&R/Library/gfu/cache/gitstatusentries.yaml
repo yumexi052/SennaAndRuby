@@ -13,310 +13,71 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 6
-  lastUpdatedAtString: 2021-12-09T14:52:43.234+08:00
-  initializedAtString: 2021-12-09T11:57:15.164+08:00
+  lastUpdatedAtString: 2021-12-09T17:25:30.234+08:00
+  initializedAtString: 2021-12-09T16:50:59.698+08:00
   entries:
-  - path: S&R\Assets\Forest Terrain\New Terrain.asset
-    fullPath: C:\Users\yikch\Documents\GitHub\SennaAndRuby2\S&R\Assets\Forest Terrain\New
-      Terrain.asset
-    projectPath: Assets\Forest Terrain\New Terrain.asset
+  - path: S&R\Assets\Scenes\DeathScene.unity
+    fullPath: C:\Users\yikch\Documents\GitHub\SennaAndRuby2\S&R\Assets\Scenes\DeathScene.unity
+    projectPath: Assets\Scenes\DeathScene.unity
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: S&R\Assets\New Terrain 2.asset
-    fullPath: C:\Users\yikch\Documents\GitHub\SennaAndRuby2\S&R\Assets\New Terrain
-      2.asset
-    projectPath: Assets\New Terrain 2.asset
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: S&R\Assets\New Terrain 2.asset.meta
-    fullPath: C:\Users\yikch\Documents\GitHub\SennaAndRuby2\S&R\Assets\New Terrain
-      2.asset.meta
-    projectPath: Assets\New Terrain 2.asset.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: S&R\Assets\Rabbits.meta
-    fullPath: C:\Users\yikch\Documents\GitHub\SennaAndRuby2\S&R\Assets\Rabbits.meta
-    projectPath: Assets\Rabbits.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: S&R\Assets\Rabbits\AiBehaviour.cs
-    fullPath: C:\Users\yikch\Documents\GitHub\SennaAndRuby2\S&R\Assets\Rabbits\AiBehaviour.cs
-    projectPath: Assets\Rabbits\AiBehaviour.cs
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: S&R\Assets\Rabbits\AiBehaviour.cs.meta
-    fullPath: C:\Users\yikch\Documents\GitHub\SennaAndRuby2\S&R\Assets\Rabbits\AiBehaviour.cs.meta
-    projectPath: Assets\Rabbits\AiBehaviour.cs.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: S&R\Assets\Rabbits\Animations.meta
-    fullPath: C:\Users\yikch\Documents\GitHub\SennaAndRuby2\S&R\Assets\Rabbits\Animations.meta
-    projectPath: Assets\Rabbits\Animations.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: S&R\Assets\Rabbits\Animations\Rabbit@Dead.fbx
-    fullPath: C:\Users\yikch\Documents\GitHub\SennaAndRuby2\S&R\Assets\Rabbits\Animations\Rabbit@Dead.fbx
-    projectPath: Assets\Rabbits\Animations\Rabbit@Dead.fbx
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: S&R\Assets\Rabbits\Animations\Rabbit@Dead.fbx.meta
-    fullPath: C:\Users\yikch\Documents\GitHub\SennaAndRuby2\S&R\Assets\Rabbits\Animations\Rabbit@Dead.fbx.meta
-    projectPath: Assets\Rabbits\Animations\Rabbit@Dead.fbx.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: S&R\Assets\Rabbits\Animations\Rabbit@Idle.fbx
-    fullPath: C:\Users\yikch\Documents\GitHub\SennaAndRuby2\S&R\Assets\Rabbits\Animations\Rabbit@Idle.fbx
-    projectPath: Assets\Rabbits\Animations\Rabbit@Idle.fbx
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: S&R\Assets\Rabbits\Animations\Rabbit@Idle.fbx.meta
-    fullPath: C:\Users\yikch\Documents\GitHub\SennaAndRuby2\S&R\Assets\Rabbits\Animations\Rabbit@Idle.fbx.meta
-    projectPath: Assets\Rabbits\Animations\Rabbit@Idle.fbx.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: S&R\Assets\Rabbits\Animations\Rabbit@Run.fbx
-    fullPath: C:\Users\yikch\Documents\GitHub\SennaAndRuby2\S&R\Assets\Rabbits\Animations\Rabbit@Run.fbx
-    projectPath: Assets\Rabbits\Animations\Rabbit@Run.fbx
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: S&R\Assets\Rabbits\Animations\Rabbit@Run.fbx.meta
-    fullPath: C:\Users\yikch\Documents\GitHub\SennaAndRuby2\S&R\Assets\Rabbits\Animations\Rabbit@Run.fbx.meta
-    projectPath: Assets\Rabbits\Animations\Rabbit@Run.fbx.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: S&R\Assets\Rabbits\Animations\RabitMove.controller
-    fullPath: C:\Users\yikch\Documents\GitHub\SennaAndRuby2\S&R\Assets\Rabbits\Animations\RabitMove.controller
-    projectPath: Assets\Rabbits\Animations\RabitMove.controller
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: S&R\Assets\Rabbits\Animations\RabitMove.controller.meta
-    fullPath: C:\Users\yikch\Documents\GitHub\SennaAndRuby2\S&R\Assets\Rabbits\Animations\RabitMove.controller.meta
-    projectPath: Assets\Rabbits\Animations\RabitMove.controller.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: S&R\Assets\Rabbits\Demo.meta
-    fullPath: C:\Users\yikch\Documents\GitHub\SennaAndRuby2\S&R\Assets\Rabbits\Demo.meta
-    projectPath: Assets\Rabbits\Demo.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: S&R\Assets\Rabbits\Demo\Animator.meta
-    fullPath: C:\Users\yikch\Documents\GitHub\SennaAndRuby2\S&R\Assets\Rabbits\Demo\Animator.meta
-    projectPath: Assets\Rabbits\Demo\Animator.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: S&R\Assets\Rabbits\Demo\Animator\DemoAnimator.controller
-    fullPath: C:\Users\yikch\Documents\GitHub\SennaAndRuby2\S&R\Assets\Rabbits\Demo\Animator\DemoAnimator.controller
-    projectPath: Assets\Rabbits\Demo\Animator\DemoAnimator.controller
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: S&R\Assets\Rabbits\Demo\Animator\DemoAnimator.controller.meta
-    fullPath: C:\Users\yikch\Documents\GitHub\SennaAndRuby2\S&R\Assets\Rabbits\Demo\Animator\DemoAnimator.controller.meta
-    projectPath: Assets\Rabbits\Demo\Animator\DemoAnimator.controller.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: S&R\Assets\Rabbits\Demo\Prefabs.meta
-    fullPath: C:\Users\yikch\Documents\GitHub\SennaAndRuby2\S&R\Assets\Rabbits\Demo\Prefabs.meta
-    projectPath: Assets\Rabbits\Demo\Prefabs.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: S&R\Assets\Rabbits\Demo\Prefabs\Demo White Rabbit.prefab
-    fullPath: C:\Users\yikch\Documents\GitHub\SennaAndRuby2\S&R\Assets\Rabbits\Demo\Prefabs\Demo
-      White Rabbit.prefab
-    projectPath: Assets\Rabbits\Demo\Prefabs\Demo White Rabbit.prefab
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: S&R\Assets\Rabbits\Demo\Prefabs\Demo White Rabbit.prefab.meta
-    fullPath: C:\Users\yikch\Documents\GitHub\SennaAndRuby2\S&R\Assets\Rabbits\Demo\Prefabs\Demo
-      White Rabbit.prefab.meta
-    projectPath: Assets\Rabbits\Demo\Prefabs\Demo White Rabbit.prefab.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: S&R\Assets\Rabbits\Demo\Scenes.meta
-    fullPath: C:\Users\yikch\Documents\GitHub\SennaAndRuby2\S&R\Assets\Rabbits\Demo\Scenes.meta
-    projectPath: Assets\Rabbits\Demo\Scenes.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: S&R\Assets\Rabbits\Demo\Scenes\WhiteRabbitDemoScene.unity
-    fullPath: C:\Users\yikch\Documents\GitHub\SennaAndRuby2\S&R\Assets\Rabbits\Demo\Scenes\WhiteRabbitDemoScene.unity
-    projectPath: Assets\Rabbits\Demo\Scenes\WhiteRabbitDemoScene.unity
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: S&R\Assets\Rabbits\Demo\Scenes\WhiteRabbitDemoScene.unity.meta
-    fullPath: C:\Users\yikch\Documents\GitHub\SennaAndRuby2\S&R\Assets\Rabbits\Demo\Scenes\WhiteRabbitDemoScene.unity.meta
-    projectPath: Assets\Rabbits\Demo\Scenes\WhiteRabbitDemoScene.unity.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: S&R\Assets\Rabbits\Demo\Scripts.meta
-    fullPath: C:\Users\yikch\Documents\GitHub\SennaAndRuby2\S&R\Assets\Rabbits\Demo\Scripts.meta
-    projectPath: Assets\Rabbits\Demo\Scripts.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: S&R\Assets\Rabbits\Demo\Scripts\AnimatorParamatersChange.cs
-    fullPath: C:\Users\yikch\Documents\GitHub\SennaAndRuby2\S&R\Assets\Rabbits\Demo\Scripts\AnimatorParamatersChange.cs
-    projectPath: Assets\Rabbits\Demo\Scripts\AnimatorParamatersChange.cs
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: S&R\Assets\Rabbits\Demo\Scripts\AnimatorParamatersChange.cs.meta
-    fullPath: C:\Users\yikch\Documents\GitHub\SennaAndRuby2\S&R\Assets\Rabbits\Demo\Scripts\AnimatorParamatersChange.cs.meta
-    projectPath: Assets\Rabbits\Demo\Scripts\AnimatorParamatersChange.cs.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: S&R\Assets\Rabbits\Materials.meta
-    fullPath: C:\Users\yikch\Documents\GitHub\SennaAndRuby2\S&R\Assets\Rabbits\Materials.meta
-    projectPath: Assets\Rabbits\Materials.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: S&R\Assets\Rabbits\Materials\Rabbit_Eyes.mat
-    fullPath: C:\Users\yikch\Documents\GitHub\SennaAndRuby2\S&R\Assets\Rabbits\Materials\Rabbit_Eyes.mat
-    projectPath: Assets\Rabbits\Materials\Rabbit_Eyes.mat
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: S&R\Assets\Rabbits\Materials\Rabbit_Eyes.mat.meta
-    fullPath: C:\Users\yikch\Documents\GitHub\SennaAndRuby2\S&R\Assets\Rabbits\Materials\Rabbit_Eyes.mat.meta
-    projectPath: Assets\Rabbits\Materials\Rabbit_Eyes.mat.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: S&R\Assets\Rabbits\Materials\Rabbit1.mat
-    fullPath: C:\Users\yikch\Documents\GitHub\SennaAndRuby2\S&R\Assets\Rabbits\Materials\Rabbit1.mat
-    projectPath: Assets\Rabbits\Materials\Rabbit1.mat
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: S&R\Assets\Rabbits\Materials\Rabbit1.mat.meta
-    fullPath: C:\Users\yikch\Documents\GitHub\SennaAndRuby2\S&R\Assets\Rabbits\Materials\Rabbit1.mat.meta
-    projectPath: Assets\Rabbits\Materials\Rabbit1.mat.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: S&R\Assets\Rabbits\Model.meta
-    fullPath: C:\Users\yikch\Documents\GitHub\SennaAndRuby2\S&R\Assets\Rabbits\Model.meta
-    projectPath: Assets\Rabbits\Model.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: S&R\Assets\Rabbits\Model\Rabbit.fbx
-    fullPath: C:\Users\yikch\Documents\GitHub\SennaAndRuby2\S&R\Assets\Rabbits\Model\Rabbit.fbx
-    projectPath: Assets\Rabbits\Model\Rabbit.fbx
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: S&R\Assets\Rabbits\Model\Rabbit.fbx.meta
-    fullPath: C:\Users\yikch\Documents\GitHub\SennaAndRuby2\S&R\Assets\Rabbits\Model\Rabbit.fbx.meta
-    projectPath: Assets\Rabbits\Model\Rabbit.fbx.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: S&R\Assets\Rabbits\Prefabs.meta
-    fullPath: C:\Users\yikch\Documents\GitHub\SennaAndRuby2\S&R\Assets\Rabbits\Prefabs.meta
-    projectPath: Assets\Rabbits\Prefabs.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: S&R\Assets\Rabbits\Prefabs\Rabbit 1.prefab
-    fullPath: C:\Users\yikch\Documents\GitHub\SennaAndRuby2\S&R\Assets\Rabbits\Prefabs\Rabbit
-      1.prefab
-    projectPath: Assets\Rabbits\Prefabs\Rabbit 1.prefab
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: S&R\Assets\Rabbits\Prefabs\Rabbit 1.prefab.meta
-    fullPath: C:\Users\yikch\Documents\GitHub\SennaAndRuby2\S&R\Assets\Rabbits\Prefabs\Rabbit
-      1.prefab.meta
-    projectPath: Assets\Rabbits\Prefabs\Rabbit 1.prefab.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: S&R\Assets\Rabbits\Texture.meta
-    fullPath: C:\Users\yikch\Documents\GitHub\SennaAndRuby2\S&R\Assets\Rabbits\Texture.meta
-    projectPath: Assets\Rabbits\Texture.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: S&R\Assets\Rabbits\Texture\Rabbit_Normal.png
-    fullPath: C:\Users\yikch\Documents\GitHub\SennaAndRuby2\S&R\Assets\Rabbits\Texture\Rabbit_Normal.png
-    projectPath: Assets\Rabbits\Texture\Rabbit_Normal.png
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: S&R\Assets\Rabbits\Texture\Rabbit_Normal.png.meta
-    fullPath: C:\Users\yikch\Documents\GitHub\SennaAndRuby2\S&R\Assets\Rabbits\Texture\Rabbit_Normal.png.meta
-    projectPath: Assets\Rabbits\Texture\Rabbit_Normal.png.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: S&R\Assets\Rabbits\Texture\Rabbit1.png
-    fullPath: C:\Users\yikch\Documents\GitHub\SennaAndRuby2\S&R\Assets\Rabbits\Texture\Rabbit1.png
-    projectPath: Assets\Rabbits\Texture\Rabbit1.png
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: S&R\Assets\Rabbits\Texture\Rabbit1.png.meta
-    fullPath: C:\Users\yikch\Documents\GitHub\SennaAndRuby2\S&R\Assets\Rabbits\Texture\Rabbit1.png.meta
-    projectPath: Assets\Rabbits\Texture\Rabbit1.png.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: S&R\Assets\Scenes\MainScene.meta
-    fullPath: C:\Users\yikch\Documents\GitHub\SennaAndRuby2\S&R\Assets\Scenes\MainScene.meta
-    projectPath: Assets\Scenes\MainScene.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: S&R\Assets\Scenes\MainScene.unity
-    fullPath: C:\Users\yikch\Documents\GitHub\SennaAndRuby2\S&R\Assets\Scenes\MainScene.unity
-    projectPath: Assets\Scenes\MainScene.unity
+  - path: S&R\Assets\Scenes\Menu.unity
+    fullPath: C:\Users\yikch\Documents\GitHub\SennaAndRuby2\S&R\Assets\Scenes\Menu.unity
+    projectPath: Assets\Scenes\Menu.unity
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: S&R\Assets\Scenes\MainScene\NavMesh.asset
-    fullPath: C:\Users\yikch\Documents\GitHub\SennaAndRuby2\S&R\Assets\Scenes\MainScene\NavMesh.asset
-    projectPath: Assets\Scenes\MainScene\NavMesh.asset
+  - path: S&R\Assets\Sound.meta
+    fullPath: C:\Users\yikch\Documents\GitHub\SennaAndRuby2\S&R\Assets\Sound.meta
+    projectPath: Assets\Sound.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: S&R\Assets\Scenes\MainScene\NavMesh.asset.meta
-    fullPath: C:\Users\yikch\Documents\GitHub\SennaAndRuby2\S&R\Assets\Scenes\MainScene\NavMesh.asset.meta
-    projectPath: Assets\Scenes\MainScene\NavMesh.asset.meta
+  - path: S&R\Assets\Sound\Menu Game Button Click Sound Effect.mp3
+    fullPath: C:\Users\yikch\Documents\GitHub\SennaAndRuby2\S&R\Assets\Sound\Menu
+      Game Button Click Sound Effect.mp3
+    projectPath: Assets\Sound\Menu Game Button Click Sound Effect.mp3
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
+  - path: S&R\Assets\Sound\Menu Game Button Click Sound Effect.mp3.meta
+    fullPath: C:\Users\yikch\Documents\GitHub\SennaAndRuby2\S&R\Assets\Sound\Menu
+      Game Button Click Sound Effect.mp3.meta
+    projectPath: Assets\Sound\Menu Game Button Click Sound Effect.mp3.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: S&R\Assets\UI\Script\btnSound.cs
+    fullPath: C:\Users\yikch\Documents\GitHub\SennaAndRuby2\S&R\Assets\UI\Script\btnSound.cs
+    projectPath: Assets\UI\Script\btnSound.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: S&R\Assets\UI\Script\btnSound.cs.meta
+    fullPath: C:\Users\yikch\Documents\GitHub\SennaAndRuby2\S&R\Assets\UI\Script\btnSound.cs.meta
+    projectPath: Assets\UI\Script\btnSound.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: S&R\Assets\UI\Script\StartGame.cs
+    fullPath: C:\Users\yikch\Documents\GitHub\SennaAndRuby2\S&R\Assets\UI\Script\StartGame.cs
+    projectPath: Assets\UI\Script\StartGame.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
   - path: S&R\Library\ArtifactDB
     fullPath: C:\Users\yikch\Documents\GitHub\SennaAndRuby2\S&R\Library\ArtifactDB
     projectPath: Library\ArtifactDB
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+  - path: S&R\Library\Artifacts\d3\d3445fd3165ad04cf2aafc6c5112460c
+    fullPath: C:\Users\yikch\Documents\GitHub\SennaAndRuby2\S&R\Library\Artifacts\d3\d3445fd3165ad04cf2aafc6c5112460c
+    projectPath: Library\Artifacts\d3\d3445fd3165ad04cf2aafc6c5112460c
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
   - path: S&R\Library\gfu\cache\branches.yaml
     fullPath: C:\Users\yikch\Documents\GitHub\SennaAndRuby2\S&R\Library\gfu\cache\branches.yaml
     projectPath: Library\gfu\cache\branches.yaml
@@ -401,12 +162,6 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: S&R\Library\UIElements\EditorWindows\UnityEditor.PackageManager.UI.PackageManagerWindow.pref
-    fullPath: C:\Users\yikch\Documents\GitHub\SennaAndRuby2\S&R\Library\UIElements\EditorWindows\UnityEditor.PackageManager.UI.PackageManagerWindow.pref
-    projectPath: Library\UIElements\EditorWindows\UnityEditor.PackageManager.UI.PackageManagerWindow.pref
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
   - path: S&R\Logs\AssetImportWorker0.log
     fullPath: C:\Users\yikch\Documents\GitHub\SennaAndRuby2\S&R\Logs\AssetImportWorker0.log
     projectPath: Logs\AssetImportWorker0.log
@@ -437,33 +192,9 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: S&R\Logs\shadercompiler-UnityShaderCompiler.exe3.log
-    fullPath: C:\Users\yikch\Documents\GitHub\SennaAndRuby2\S&R\Logs\shadercompiler-UnityShaderCompiler.exe3.log
-    projectPath: Logs\shadercompiler-UnityShaderCompiler.exe3.log
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: S&R\Logs\shadercompiler-UnityShaderCompiler.exe4.log
-    fullPath: C:\Users\yikch\Documents\GitHub\SennaAndRuby2\S&R\Logs\shadercompiler-UnityShaderCompiler.exe4.log
-    projectPath: Logs\shadercompiler-UnityShaderCompiler.exe4.log
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: S&R\Logs\shadercompiler-UnityShaderCompiler.exe5.log
-    fullPath: C:\Users\yikch\Documents\GitHub\SennaAndRuby2\S&R\Logs\shadercompiler-UnityShaderCompiler.exe5.log
-    projectPath: Logs\shadercompiler-UnityShaderCompiler.exe5.log
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: S&R\Logs\shadercompiler-UnityShaderCompiler.exe6.log
-    fullPath: C:\Users\yikch\Documents\GitHub\SennaAndRuby2\S&R\Logs\shadercompiler-UnityShaderCompiler.exe6.log
-    projectPath: Logs\shadercompiler-UnityShaderCompiler.exe6.log
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: S&R\Logs\shadercompiler-UnityShaderCompiler.exe7.log
-    fullPath: C:\Users\yikch\Documents\GitHub\SennaAndRuby2\S&R\Logs\shadercompiler-UnityShaderCompiler.exe7.log
-    projectPath: Logs\shadercompiler-UnityShaderCompiler.exe7.log
+  - path: S&R\obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache
+    fullPath: C:\Users\yikch\Documents\GitHub\SennaAndRuby2\S&R\obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache
+    projectPath: obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
