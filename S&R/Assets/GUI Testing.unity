@@ -246,7 +246,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Texture: {fileID: 0}
+  m_Texture: {fileID: 2800000, guid: 518bd1a36b093834c8446f281588b8a8, type: 3}
   m_UVRect:
     serializedVersion: 2
     x: 0
@@ -424,7 +424,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Total:_/4
+  m_Text: /4
 --- !u!222 &1952775039
 CanvasRenderer:
   m_ObjectHideFlags: 0

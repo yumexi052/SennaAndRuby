@@ -13,12 +13,30 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 6
-  lastUpdatedAtString: 2021-12-09T11:34:20.349+08:00
-  initializedAtString: 2021-12-09T11:03:16.421+08:00
+  lastUpdatedAtString: 2021-12-09T11:55:35.591+08:00
+  initializedAtString: 2021-12-09T11:35:56.914+08:00
   entries:
-  - path: S&R\Assets\Scenes\Level3.unity
-    fullPath: C:\Users\yikch\Documents\GitHub\SennaAndRuby2\S&R\Assets\Scenes\Level3.unity
-    projectPath: Assets\Scenes\Level3.unity
+  - path: S&R\Assets\GUI Testing.unity
+    fullPath: C:\Users\yikch\Documents\GitHub\SennaAndRuby2\S&R\Assets\GUI Testing.unity
+    projectPath: Assets\GUI Testing.unity
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: S&R\Assets\UI\JPG Folder\toppng.com-pink-crystal-heart-600x519.png
+    fullPath: C:\Users\yikch\Documents\GitHub\SennaAndRuby2\S&R\Assets\UI\JPG Folder\toppng.com-pink-crystal-heart-600x519.png
+    projectPath: Assets\UI\JPG Folder\toppng.com-pink-crystal-heart-600x519.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: S&R\Assets\UI\JPG Folder\toppng.com-pink-crystal-heart-600x519.png.meta
+    fullPath: C:\Users\yikch\Documents\GitHub\SennaAndRuby2\S&R\Assets\UI\JPG Folder\toppng.com-pink-crystal-heart-600x519.png.meta
+    projectPath: Assets\UI\JPG Folder\toppng.com-pink-crystal-heart-600x519.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: S&R\Assets\UI\Script\diamondScore.cs
+    fullPath: C:\Users\yikch\Documents\GitHub\SennaAndRuby2\S&R\Assets\UI\Script\diamondScore.cs
+    projectPath: Assets\UI\Script\diamondScore.cs
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -28,12 +46,1272 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: S&R\Library\gfu\cache\branches.yaml
-    fullPath: C:\Users\yikch\Documents\GitHub\SennaAndRuby2\S&R\Library\gfu\cache\branches.yaml
-    projectPath: Library\gfu\cache\branches.yaml
+  - path: S&R\Library\Artifacts\01\01106de403749278f3c2cb4d467b1ceb
+    fullPath: C:\Users\yikch\Documents\GitHub\SennaAndRuby2\S&R\Library\Artifacts\01\01106de403749278f3c2cb4d467b1ceb
+    projectPath: Library\Artifacts\01\01106de403749278f3c2cb4d467b1ceb
     originalPath: 
     indexStatus: 0
-    workTreeStatus: 3
+    workTreeStatus: 5
+  - path: S&R\Library\Artifacts\01\0111de5ed435620fc89af71510085eda
+    fullPath: C:\Users\yikch\Documents\GitHub\SennaAndRuby2\S&R\Library\Artifacts\01\0111de5ed435620fc89af71510085eda
+    projectPath: Library\Artifacts\01\0111de5ed435620fc89af71510085eda
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: S&R\Library\Artifacts\01\0132a79e5235ae083e820feaeabde461
+    fullPath: C:\Users\yikch\Documents\GitHub\SennaAndRuby2\S&R\Library\Artifacts\01\0132a79e5235ae083e820feaeabde461
+    projectPath: Library\Artifacts\01\0132a79e5235ae083e820feaeabde461
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: S&R\Library\Artifacts\03\03528b7a826eab647b287c2f82d1afeb
+    fullPath: C:\Users\yikch\Documents\GitHub\SennaAndRuby2\S&R\Library\Artifacts\03\03528b7a826eab647b287c2f82d1afeb
+    projectPath: Library\Artifacts\03\03528b7a826eab647b287c2f82d1afeb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: S&R\Library\Artifacts\05\05c51a99c71e09a8e2e0f118aab53389
+    fullPath: C:\Users\yikch\Documents\GitHub\SennaAndRuby2\S&R\Library\Artifacts\05\05c51a99c71e09a8e2e0f118aab53389
+    projectPath: Library\Artifacts\05\05c51a99c71e09a8e2e0f118aab53389
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: S&R\Library\Artifacts\06\066204bcd8b239a95121b3cc1b092ccb
+    fullPath: C:\Users\yikch\Documents\GitHub\SennaAndRuby2\S&R\Library\Artifacts\06\066204bcd8b239a95121b3cc1b092ccb
+    projectPath: Library\Artifacts\06\066204bcd8b239a95121b3cc1b092ccb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: S&R\Library\Artifacts\06\06c7c1306036fb684ceeb14af96177cb
+    fullPath: C:\Users\yikch\Documents\GitHub\SennaAndRuby2\S&R\Library\Artifacts\06\06c7c1306036fb684ceeb14af96177cb
+    projectPath: Library\Artifacts\06\06c7c1306036fb684ceeb14af96177cb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: S&R\Library\Artifacts\09\097cdea257e029a78e80359c52f320ba
+    fullPath: C:\Users\yikch\Documents\GitHub\SennaAndRuby2\S&R\Library\Artifacts\09\097cdea257e029a78e80359c52f320ba
+    projectPath: Library\Artifacts\09\097cdea257e029a78e80359c52f320ba
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: S&R\Library\Artifacts\09\09c97f4cad3a51233d46c7a3371d255b
+    fullPath: C:\Users\yikch\Documents\GitHub\SennaAndRuby2\S&R\Library\Artifacts\09\09c97f4cad3a51233d46c7a3371d255b
+    projectPath: Library\Artifacts\09\09c97f4cad3a51233d46c7a3371d255b
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: S&R\Library\Artifacts\0b\0b42c97c4771acb33c215d6b9d44fe80
+    fullPath: C:\Users\yikch\Documents\GitHub\SennaAndRuby2\S&R\Library\Artifacts\0b\0b42c97c4771acb33c215d6b9d44fe80
+    projectPath: Library\Artifacts\0b\0b42c97c4771acb33c215d6b9d44fe80
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: S&R\Library\Artifacts\0d\0d24403f4f843f495fd26bdbd65d8a73
+    fullPath: C:\Users\yikch\Documents\GitHub\SennaAndRuby2\S&R\Library\Artifacts\0d\0d24403f4f843f495fd26bdbd65d8a73
+    projectPath: Library\Artifacts\0d\0d24403f4f843f495fd26bdbd65d8a73
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: S&R\Library\Artifacts\0e\0e4c4ea308a4e2139cb80a834dc43a82
+    fullPath: C:\Users\yikch\Documents\GitHub\SennaAndRuby2\S&R\Library\Artifacts\0e\0e4c4ea308a4e2139cb80a834dc43a82
+    projectPath: Library\Artifacts\0e\0e4c4ea308a4e2139cb80a834dc43a82
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: S&R\Library\Artifacts\0f\0f4a55a49d2c152854427320a78a07d4
+    fullPath: C:\Users\yikch\Documents\GitHub\SennaAndRuby2\S&R\Library\Artifacts\0f\0f4a55a49d2c152854427320a78a07d4
+    projectPath: Library\Artifacts\0f\0f4a55a49d2c152854427320a78a07d4
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: S&R\Library\Artifacts\10\10c3c7b109812510639b61d2a93faec7
+    fullPath: C:\Users\yikch\Documents\GitHub\SennaAndRuby2\S&R\Library\Artifacts\10\10c3c7b109812510639b61d2a93faec7
+    projectPath: Library\Artifacts\10\10c3c7b109812510639b61d2a93faec7
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: S&R\Library\Artifacts\11\111c9e86dfd41b0ce9f02a2eed3653b6
+    fullPath: C:\Users\yikch\Documents\GitHub\SennaAndRuby2\S&R\Library\Artifacts\11\111c9e86dfd41b0ce9f02a2eed3653b6
+    projectPath: Library\Artifacts\11\111c9e86dfd41b0ce9f02a2eed3653b6
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: S&R\Library\Artifacts\13\13ac83dea972f15d6e432f114582436e
+    fullPath: C:\Users\yikch\Documents\GitHub\SennaAndRuby2\S&R\Library\Artifacts\13\13ac83dea972f15d6e432f114582436e
+    projectPath: Library\Artifacts\13\13ac83dea972f15d6e432f114582436e
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: S&R\Library\Artifacts\15\15dcf3a9e7f69b382742a3e7970ee739
+    fullPath: C:\Users\yikch\Documents\GitHub\SennaAndRuby2\S&R\Library\Artifacts\15\15dcf3a9e7f69b382742a3e7970ee739
+    projectPath: Library\Artifacts\15\15dcf3a9e7f69b382742a3e7970ee739
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: S&R\Library\Artifacts\17\17420c3ab00ed79f2d575b09d1ac3898
+    fullPath: C:\Users\yikch\Documents\GitHub\SennaAndRuby2\S&R\Library\Artifacts\17\17420c3ab00ed79f2d575b09d1ac3898
+    projectPath: Library\Artifacts\17\17420c3ab00ed79f2d575b09d1ac3898
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: S&R\Library\Artifacts\17\1797821c34251f221d36696d3a7ef61b
+    fullPath: C:\Users\yikch\Documents\GitHub\SennaAndRuby2\S&R\Library\Artifacts\17\1797821c34251f221d36696d3a7ef61b
+    projectPath: Library\Artifacts\17\1797821c34251f221d36696d3a7ef61b
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: S&R\Library\Artifacts\18\18368137d120c72d0d8fc308527bfb02
+    fullPath: C:\Users\yikch\Documents\GitHub\SennaAndRuby2\S&R\Library\Artifacts\18\18368137d120c72d0d8fc308527bfb02
+    projectPath: Library\Artifacts\18\18368137d120c72d0d8fc308527bfb02
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: S&R\Library\Artifacts\1a\1ac094903c7b4480789f3db6336c94dd
+    fullPath: C:\Users\yikch\Documents\GitHub\SennaAndRuby2\S&R\Library\Artifacts\1a\1ac094903c7b4480789f3db6336c94dd
+    projectPath: Library\Artifacts\1a\1ac094903c7b4480789f3db6336c94dd
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: S&R\Library\Artifacts\1b\1b220e079a41b543a9dbb852fd725af5
+    fullPath: C:\Users\yikch\Documents\GitHub\SennaAndRuby2\S&R\Library\Artifacts\1b\1b220e079a41b543a9dbb852fd725af5
+    projectPath: Library\Artifacts\1b\1b220e079a41b543a9dbb852fd725af5
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: S&R\Library\Artifacts\1d\1d3090aab630960595b801b7a6b5aef1
+    fullPath: C:\Users\yikch\Documents\GitHub\SennaAndRuby2\S&R\Library\Artifacts\1d\1d3090aab630960595b801b7a6b5aef1
+    projectPath: Library\Artifacts\1d\1d3090aab630960595b801b7a6b5aef1
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: S&R\Library\Artifacts\1f\1f35dd0f686fb24dab4ad066993c38d1
+    fullPath: C:\Users\yikch\Documents\GitHub\SennaAndRuby2\S&R\Library\Artifacts\1f\1f35dd0f686fb24dab4ad066993c38d1
+    projectPath: Library\Artifacts\1f\1f35dd0f686fb24dab4ad066993c38d1
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: S&R\Library\Artifacts\22\2231a55b8bec30edb90a7508a25b0b44
+    fullPath: C:\Users\yikch\Documents\GitHub\SennaAndRuby2\S&R\Library\Artifacts\22\2231a55b8bec30edb90a7508a25b0b44
+    projectPath: Library\Artifacts\22\2231a55b8bec30edb90a7508a25b0b44
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: S&R\Library\Artifacts\23\233d47397f8608f3655dea890a22b4f5
+    fullPath: C:\Users\yikch\Documents\GitHub\SennaAndRuby2\S&R\Library\Artifacts\23\233d47397f8608f3655dea890a22b4f5
+    projectPath: Library\Artifacts\23\233d47397f8608f3655dea890a22b4f5
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: S&R\Library\Artifacts\24\249baca5965c9247b615671c02f1c0a1
+    fullPath: C:\Users\yikch\Documents\GitHub\SennaAndRuby2\S&R\Library\Artifacts\24\249baca5965c9247b615671c02f1c0a1
+    projectPath: Library\Artifacts\24\249baca5965c9247b615671c02f1c0a1
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: S&R\Library\Artifacts\25\258c7a9ae65ca4a1af315c41943b28d5
+    fullPath: C:\Users\yikch\Documents\GitHub\SennaAndRuby2\S&R\Library\Artifacts\25\258c7a9ae65ca4a1af315c41943b28d5
+    projectPath: Library\Artifacts\25\258c7a9ae65ca4a1af315c41943b28d5
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: S&R\Library\Artifacts\26\263283098e3100255192ff1fbb00bd0c
+    fullPath: C:\Users\yikch\Documents\GitHub\SennaAndRuby2\S&R\Library\Artifacts\26\263283098e3100255192ff1fbb00bd0c
+    projectPath: Library\Artifacts\26\263283098e3100255192ff1fbb00bd0c
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: S&R\Library\Artifacts\26\26f0a1a664e89be9599073cbcfc7b6d6
+    fullPath: C:\Users\yikch\Documents\GitHub\SennaAndRuby2\S&R\Library\Artifacts\26\26f0a1a664e89be9599073cbcfc7b6d6
+    projectPath: Library\Artifacts\26\26f0a1a664e89be9599073cbcfc7b6d6
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: S&R\Library\Artifacts\27\27051799111e786b489955b0e07ffed4
+    fullPath: C:\Users\yikch\Documents\GitHub\SennaAndRuby2\S&R\Library\Artifacts\27\27051799111e786b489955b0e07ffed4
+    projectPath: Library\Artifacts\27\27051799111e786b489955b0e07ffed4
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: S&R\Library\Artifacts\27\27afee52e98b03a987be6c4485ccac99
+    fullPath: C:\Users\yikch\Documents\GitHub\SennaAndRuby2\S&R\Library\Artifacts\27\27afee52e98b03a987be6c4485ccac99
+    projectPath: Library\Artifacts\27\27afee52e98b03a987be6c4485ccac99
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: S&R\Library\Artifacts\2b\2b330f9d88e57ba20abbd37418b42e23
+    fullPath: C:\Users\yikch\Documents\GitHub\SennaAndRuby2\S&R\Library\Artifacts\2b\2b330f9d88e57ba20abbd37418b42e23
+    projectPath: Library\Artifacts\2b\2b330f9d88e57ba20abbd37418b42e23
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: S&R\Library\Artifacts\2c\2c32e9bbbfb3a643ba9fa507583056e5
+    fullPath: C:\Users\yikch\Documents\GitHub\SennaAndRuby2\S&R\Library\Artifacts\2c\2c32e9bbbfb3a643ba9fa507583056e5
+    projectPath: Library\Artifacts\2c\2c32e9bbbfb3a643ba9fa507583056e5
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: S&R\Library\Artifacts\2c\2cb7492de47a65c7ad376ddbe10bfdb5
+    fullPath: C:\Users\yikch\Documents\GitHub\SennaAndRuby2\S&R\Library\Artifacts\2c\2cb7492de47a65c7ad376ddbe10bfdb5
+    projectPath: Library\Artifacts\2c\2cb7492de47a65c7ad376ddbe10bfdb5
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: S&R\Library\Artifacts\2d\2d31a62f199d5b63a0f7c994c04e095a
+    fullPath: C:\Users\yikch\Documents\GitHub\SennaAndRuby2\S&R\Library\Artifacts\2d\2d31a62f199d5b63a0f7c994c04e095a
+    projectPath: Library\Artifacts\2d\2d31a62f199d5b63a0f7c994c04e095a
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: S&R\Library\Artifacts\2e\2e1404cbbbbeee0ead7844f4b72d5737
+    fullPath: C:\Users\yikch\Documents\GitHub\SennaAndRuby2\S&R\Library\Artifacts\2e\2e1404cbbbbeee0ead7844f4b72d5737
+    projectPath: Library\Artifacts\2e\2e1404cbbbbeee0ead7844f4b72d5737
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: S&R\Library\Artifacts\2e\2edbb9d53b066fc33e4d8c304a5befcc
+    fullPath: C:\Users\yikch\Documents\GitHub\SennaAndRuby2\S&R\Library\Artifacts\2e\2edbb9d53b066fc33e4d8c304a5befcc
+    projectPath: Library\Artifacts\2e\2edbb9d53b066fc33e4d8c304a5befcc
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: S&R\Library\Artifacts\2f\2fa7e46cbedbe9299b5d165ac9390413
+    fullPath: C:\Users\yikch\Documents\GitHub\SennaAndRuby2\S&R\Library\Artifacts\2f\2fa7e46cbedbe9299b5d165ac9390413
+    projectPath: Library\Artifacts\2f\2fa7e46cbedbe9299b5d165ac9390413
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: S&R\Library\Artifacts\30\30af41d94ec28b50e0fc20090fbef337
+    fullPath: C:\Users\yikch\Documents\GitHub\SennaAndRuby2\S&R\Library\Artifacts\30\30af41d94ec28b50e0fc20090fbef337
+    projectPath: Library\Artifacts\30\30af41d94ec28b50e0fc20090fbef337
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: S&R\Library\Artifacts\31\31a3fa9fd3d05b5a9b7f2c57e8f7d929
+    fullPath: C:\Users\yikch\Documents\GitHub\SennaAndRuby2\S&R\Library\Artifacts\31\31a3fa9fd3d05b5a9b7f2c57e8f7d929
+    projectPath: Library\Artifacts\31\31a3fa9fd3d05b5a9b7f2c57e8f7d929
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: S&R\Library\Artifacts\33\33816cf92d557bdebd32f92ab42cb7de
+    fullPath: C:\Users\yikch\Documents\GitHub\SennaAndRuby2\S&R\Library\Artifacts\33\33816cf92d557bdebd32f92ab42cb7de
+    projectPath: Library\Artifacts\33\33816cf92d557bdebd32f92ab42cb7de
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: S&R\Library\Artifacts\34\341c91ec0401e649cb8909d947647cc2
+    fullPath: C:\Users\yikch\Documents\GitHub\SennaAndRuby2\S&R\Library\Artifacts\34\341c91ec0401e649cb8909d947647cc2
+    projectPath: Library\Artifacts\34\341c91ec0401e649cb8909d947647cc2
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: S&R\Library\Artifacts\35\3536d162f44e99647dc3e436bfb3bd0b
+    fullPath: C:\Users\yikch\Documents\GitHub\SennaAndRuby2\S&R\Library\Artifacts\35\3536d162f44e99647dc3e436bfb3bd0b
+    projectPath: Library\Artifacts\35\3536d162f44e99647dc3e436bfb3bd0b
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: S&R\Library\Artifacts\36\36e304e85968f318fa633e3b0e885bdc
+    fullPath: C:\Users\yikch\Documents\GitHub\SennaAndRuby2\S&R\Library\Artifacts\36\36e304e85968f318fa633e3b0e885bdc
+    projectPath: Library\Artifacts\36\36e304e85968f318fa633e3b0e885bdc
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: S&R\Library\Artifacts\37\37c2cffd54345f4f108c50e50667ffe3
+    fullPath: C:\Users\yikch\Documents\GitHub\SennaAndRuby2\S&R\Library\Artifacts\37\37c2cffd54345f4f108c50e50667ffe3
+    projectPath: Library\Artifacts\37\37c2cffd54345f4f108c50e50667ffe3
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: S&R\Library\Artifacts\38\380a173b44680ba1eb564d60a4d77c44
+    fullPath: C:\Users\yikch\Documents\GitHub\SennaAndRuby2\S&R\Library\Artifacts\38\380a173b44680ba1eb564d60a4d77c44
+    projectPath: Library\Artifacts\38\380a173b44680ba1eb564d60a4d77c44
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: S&R\Library\Artifacts\38\38521fde27b021177591fd890bd0563d
+    fullPath: C:\Users\yikch\Documents\GitHub\SennaAndRuby2\S&R\Library\Artifacts\38\38521fde27b021177591fd890bd0563d
+    projectPath: Library\Artifacts\38\38521fde27b021177591fd890bd0563d
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: S&R\Library\Artifacts\3e\3e4f2c91fa9df732e6593b81b3258324
+    fullPath: C:\Users\yikch\Documents\GitHub\SennaAndRuby2\S&R\Library\Artifacts\3e\3e4f2c91fa9df732e6593b81b3258324
+    projectPath: Library\Artifacts\3e\3e4f2c91fa9df732e6593b81b3258324
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: S&R\Library\Artifacts\40\403e50d407110a47bb30042286ad076e
+    fullPath: C:\Users\yikch\Documents\GitHub\SennaAndRuby2\S&R\Library\Artifacts\40\403e50d407110a47bb30042286ad076e
+    projectPath: Library\Artifacts\40\403e50d407110a47bb30042286ad076e
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: S&R\Library\Artifacts\40\40c8ff0a3c41ed473f7ad7338f6ae005
+    fullPath: C:\Users\yikch\Documents\GitHub\SennaAndRuby2\S&R\Library\Artifacts\40\40c8ff0a3c41ed473f7ad7338f6ae005
+    projectPath: Library\Artifacts\40\40c8ff0a3c41ed473f7ad7338f6ae005
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: S&R\Library\Artifacts\41\4106a7f63a1c573ab340890708a7b400
+    fullPath: C:\Users\yikch\Documents\GitHub\SennaAndRuby2\S&R\Library\Artifacts\41\4106a7f63a1c573ab340890708a7b400
+    projectPath: Library\Artifacts\41\4106a7f63a1c573ab340890708a7b400
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: S&R\Library\Artifacts\43\43ff8c4444290847b227fcca75d82481
+    fullPath: C:\Users\yikch\Documents\GitHub\SennaAndRuby2\S&R\Library\Artifacts\43\43ff8c4444290847b227fcca75d82481
+    projectPath: Library\Artifacts\43\43ff8c4444290847b227fcca75d82481
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: S&R\Library\Artifacts\46\4605c2d4d232e41fd9274ac71622924e
+    fullPath: C:\Users\yikch\Documents\GitHub\SennaAndRuby2\S&R\Library\Artifacts\46\4605c2d4d232e41fd9274ac71622924e
+    projectPath: Library\Artifacts\46\4605c2d4d232e41fd9274ac71622924e
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: S&R\Library\Artifacts\46\466bddd1e094404cc778a9b99c4ec224
+    fullPath: C:\Users\yikch\Documents\GitHub\SennaAndRuby2\S&R\Library\Artifacts\46\466bddd1e094404cc778a9b99c4ec224
+    projectPath: Library\Artifacts\46\466bddd1e094404cc778a9b99c4ec224
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: S&R\Library\Artifacts\47\4733e0ac9bd4f32319babbb318a8fac8
+    fullPath: C:\Users\yikch\Documents\GitHub\SennaAndRuby2\S&R\Library\Artifacts\47\4733e0ac9bd4f32319babbb318a8fac8
+    projectPath: Library\Artifacts\47\4733e0ac9bd4f32319babbb318a8fac8
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: S&R\Library\Artifacts\47\47edca2f05b3d47cbcefbba8bdde805a
+    fullPath: C:\Users\yikch\Documents\GitHub\SennaAndRuby2\S&R\Library\Artifacts\47\47edca2f05b3d47cbcefbba8bdde805a
+    projectPath: Library\Artifacts\47\47edca2f05b3d47cbcefbba8bdde805a
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: S&R\Library\Artifacts\48\4884ea056bddda95af76e71df9611d9c
+    fullPath: C:\Users\yikch\Documents\GitHub\SennaAndRuby2\S&R\Library\Artifacts\48\4884ea056bddda95af76e71df9611d9c
+    projectPath: Library\Artifacts\48\4884ea056bddda95af76e71df9611d9c
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: S&R\Library\Artifacts\49\49ef302f3621697df028f8eba88dfb1f
+    fullPath: C:\Users\yikch\Documents\GitHub\SennaAndRuby2\S&R\Library\Artifacts\49\49ef302f3621697df028f8eba88dfb1f
+    projectPath: Library\Artifacts\49\49ef302f3621697df028f8eba88dfb1f
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: S&R\Library\Artifacts\4a\4a78a117a0a12814aefdb87e4d056ff4
+    fullPath: C:\Users\yikch\Documents\GitHub\SennaAndRuby2\S&R\Library\Artifacts\4a\4a78a117a0a12814aefdb87e4d056ff4
+    projectPath: Library\Artifacts\4a\4a78a117a0a12814aefdb87e4d056ff4
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: S&R\Library\Artifacts\4d\4d8b2075d06e9c83696cbc96d1f2d298
+    fullPath: C:\Users\yikch\Documents\GitHub\SennaAndRuby2\S&R\Library\Artifacts\4d\4d8b2075d06e9c83696cbc96d1f2d298
+    projectPath: Library\Artifacts\4d\4d8b2075d06e9c83696cbc96d1f2d298
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: S&R\Library\Artifacts\4d\4dc48262f8e5832c1a8eab16428d5855
+    fullPath: C:\Users\yikch\Documents\GitHub\SennaAndRuby2\S&R\Library\Artifacts\4d\4dc48262f8e5832c1a8eab16428d5855
+    projectPath: Library\Artifacts\4d\4dc48262f8e5832c1a8eab16428d5855
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: S&R\Library\Artifacts\4e\4e30dd43d8cad1bad1737a51b82354de
+    fullPath: C:\Users\yikch\Documents\GitHub\SennaAndRuby2\S&R\Library\Artifacts\4e\4e30dd43d8cad1bad1737a51b82354de
+    projectPath: Library\Artifacts\4e\4e30dd43d8cad1bad1737a51b82354de
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: S&R\Library\Artifacts\4e\4ebaea6a692ff55f031628589c8d1fe8
+    fullPath: C:\Users\yikch\Documents\GitHub\SennaAndRuby2\S&R\Library\Artifacts\4e\4ebaea6a692ff55f031628589c8d1fe8
+    projectPath: Library\Artifacts\4e\4ebaea6a692ff55f031628589c8d1fe8
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: S&R\Library\Artifacts\4f\4fe18b41568b747ddccb917b5c5c189a
+    fullPath: C:\Users\yikch\Documents\GitHub\SennaAndRuby2\S&R\Library\Artifacts\4f\4fe18b41568b747ddccb917b5c5c189a
+    projectPath: Library\Artifacts\4f\4fe18b41568b747ddccb917b5c5c189a
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: S&R\Library\Artifacts\4f\4fe9e9b55cf332420478eff3bef80b66
+    fullPath: C:\Users\yikch\Documents\GitHub\SennaAndRuby2\S&R\Library\Artifacts\4f\4fe9e9b55cf332420478eff3bef80b66
+    projectPath: Library\Artifacts\4f\4fe9e9b55cf332420478eff3bef80b66
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: S&R\Library\Artifacts\51\51ba5cd2f203919ce4a3ad4a4dfafbde
+    fullPath: C:\Users\yikch\Documents\GitHub\SennaAndRuby2\S&R\Library\Artifacts\51\51ba5cd2f203919ce4a3ad4a4dfafbde
+    projectPath: Library\Artifacts\51\51ba5cd2f203919ce4a3ad4a4dfafbde
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: S&R\Library\Artifacts\54\5439dadc5e5f99f16d92a34b74bfdcbe
+    fullPath: C:\Users\yikch\Documents\GitHub\SennaAndRuby2\S&R\Library\Artifacts\54\5439dadc5e5f99f16d92a34b74bfdcbe
+    projectPath: Library\Artifacts\54\5439dadc5e5f99f16d92a34b74bfdcbe
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: S&R\Library\Artifacts\56\56415dd6a1ade8abf556a9306d9690a9
+    fullPath: C:\Users\yikch\Documents\GitHub\SennaAndRuby2\S&R\Library\Artifacts\56\56415dd6a1ade8abf556a9306d9690a9
+    projectPath: Library\Artifacts\56\56415dd6a1ade8abf556a9306d9690a9
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: S&R\Library\Artifacts\57\57a48b2d66da82502b35e8fc809e513a
+    fullPath: C:\Users\yikch\Documents\GitHub\SennaAndRuby2\S&R\Library\Artifacts\57\57a48b2d66da82502b35e8fc809e513a
+    projectPath: Library\Artifacts\57\57a48b2d66da82502b35e8fc809e513a
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: S&R\Library\Artifacts\5a\5a02d27d2c6f3be184346aaf703ca600
+    fullPath: C:\Users\yikch\Documents\GitHub\SennaAndRuby2\S&R\Library\Artifacts\5a\5a02d27d2c6f3be184346aaf703ca600
+    projectPath: Library\Artifacts\5a\5a02d27d2c6f3be184346aaf703ca600
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: S&R\Library\Artifacts\5a\5a8633adbd897c975275d36455374a0c
+    fullPath: C:\Users\yikch\Documents\GitHub\SennaAndRuby2\S&R\Library\Artifacts\5a\5a8633adbd897c975275d36455374a0c
+    projectPath: Library\Artifacts\5a\5a8633adbd897c975275d36455374a0c
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: S&R\Library\Artifacts\5c\5cdd73bdadb5e7617f45d3bb46f09741
+    fullPath: C:\Users\yikch\Documents\GitHub\SennaAndRuby2\S&R\Library\Artifacts\5c\5cdd73bdadb5e7617f45d3bb46f09741
+    projectPath: Library\Artifacts\5c\5cdd73bdadb5e7617f45d3bb46f09741
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: S&R\Library\Artifacts\5d\5dac41ba938cf753ff98fca42f05d6f0
+    fullPath: C:\Users\yikch\Documents\GitHub\SennaAndRuby2\S&R\Library\Artifacts\5d\5dac41ba938cf753ff98fca42f05d6f0
+    projectPath: Library\Artifacts\5d\5dac41ba938cf753ff98fca42f05d6f0
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: S&R\Library\Artifacts\5e\5e661cb56d3856a4d4d667915e4193c1
+    fullPath: C:\Users\yikch\Documents\GitHub\SennaAndRuby2\S&R\Library\Artifacts\5e\5e661cb56d3856a4d4d667915e4193c1
+    projectPath: Library\Artifacts\5e\5e661cb56d3856a4d4d667915e4193c1
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: S&R\Library\Artifacts\61\61beb29d9c6532e3959ca5a86e950949
+    fullPath: C:\Users\yikch\Documents\GitHub\SennaAndRuby2\S&R\Library\Artifacts\61\61beb29d9c6532e3959ca5a86e950949
+    projectPath: Library\Artifacts\61\61beb29d9c6532e3959ca5a86e950949
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: S&R\Library\Artifacts\62\62acb8b0e5ea1558e621d2523cda04ab
+    fullPath: C:\Users\yikch\Documents\GitHub\SennaAndRuby2\S&R\Library\Artifacts\62\62acb8b0e5ea1558e621d2523cda04ab
+    projectPath: Library\Artifacts\62\62acb8b0e5ea1558e621d2523cda04ab
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: S&R\Library\Artifacts\62\62ffb8187c27b0d05c3f2a162b74b6f2
+    fullPath: C:\Users\yikch\Documents\GitHub\SennaAndRuby2\S&R\Library\Artifacts\62\62ffb8187c27b0d05c3f2a162b74b6f2
+    projectPath: Library\Artifacts\62\62ffb8187c27b0d05c3f2a162b74b6f2
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: S&R\Library\Artifacts\63\63bceb5b453740a07a15b06c23ba463f
+    fullPath: C:\Users\yikch\Documents\GitHub\SennaAndRuby2\S&R\Library\Artifacts\63\63bceb5b453740a07a15b06c23ba463f
+    projectPath: Library\Artifacts\63\63bceb5b453740a07a15b06c23ba463f
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: S&R\Library\Artifacts\65\655e09266f688d72c25f6a0f35616c75
+    fullPath: C:\Users\yikch\Documents\GitHub\SennaAndRuby2\S&R\Library\Artifacts\65\655e09266f688d72c25f6a0f35616c75
+    projectPath: Library\Artifacts\65\655e09266f688d72c25f6a0f35616c75
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: S&R\Library\Artifacts\69\69fb7b18465e194c3d5ebfd63d7b0df8
+    fullPath: C:\Users\yikch\Documents\GitHub\SennaAndRuby2\S&R\Library\Artifacts\69\69fb7b18465e194c3d5ebfd63d7b0df8
+    projectPath: Library\Artifacts\69\69fb7b18465e194c3d5ebfd63d7b0df8
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: S&R\Library\Artifacts\6a\6abe9d81fad15c07beda643566695baf
+    fullPath: C:\Users\yikch\Documents\GitHub\SennaAndRuby2\S&R\Library\Artifacts\6a\6abe9d81fad15c07beda643566695baf
+    projectPath: Library\Artifacts\6a\6abe9d81fad15c07beda643566695baf
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: S&R\Library\Artifacts\6c\6c400b0bf451de06f91bbc09c1ee75c2
+    fullPath: C:\Users\yikch\Documents\GitHub\SennaAndRuby2\S&R\Library\Artifacts\6c\6c400b0bf451de06f91bbc09c1ee75c2
+    projectPath: Library\Artifacts\6c\6c400b0bf451de06f91bbc09c1ee75c2
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: S&R\Library\Artifacts\6d\6d12101f8e70449ef743f7972831da2c
+    fullPath: C:\Users\yikch\Documents\GitHub\SennaAndRuby2\S&R\Library\Artifacts\6d\6d12101f8e70449ef743f7972831da2c
+    projectPath: Library\Artifacts\6d\6d12101f8e70449ef743f7972831da2c
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: S&R\Library\Artifacts\6e\6ed50a9a2ca8afde38467cf1058e1718
+    fullPath: C:\Users\yikch\Documents\GitHub\SennaAndRuby2\S&R\Library\Artifacts\6e\6ed50a9a2ca8afde38467cf1058e1718
+    projectPath: Library\Artifacts\6e\6ed50a9a2ca8afde38467cf1058e1718
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: S&R\Library\Artifacts\6f\6fabbeff588fe1510373d85f96ca9d9a
+    fullPath: C:\Users\yikch\Documents\GitHub\SennaAndRuby2\S&R\Library\Artifacts\6f\6fabbeff588fe1510373d85f96ca9d9a
+    projectPath: Library\Artifacts\6f\6fabbeff588fe1510373d85f96ca9d9a
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: S&R\Library\Artifacts\6f\6fb92a3eb05abd621ec432840e3cbee3
+    fullPath: C:\Users\yikch\Documents\GitHub\SennaAndRuby2\S&R\Library\Artifacts\6f\6fb92a3eb05abd621ec432840e3cbee3
+    projectPath: Library\Artifacts\6f\6fb92a3eb05abd621ec432840e3cbee3
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: S&R\Library\Artifacts\71\71e7f2180e7c39833f88a178a5d84017
+    fullPath: C:\Users\yikch\Documents\GitHub\SennaAndRuby2\S&R\Library\Artifacts\71\71e7f2180e7c39833f88a178a5d84017
+    projectPath: Library\Artifacts\71\71e7f2180e7c39833f88a178a5d84017
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: S&R\Library\Artifacts\72\722a6beb2c40edaa77c7a902834fab68
+    fullPath: C:\Users\yikch\Documents\GitHub\SennaAndRuby2\S&R\Library\Artifacts\72\722a6beb2c40edaa77c7a902834fab68
+    projectPath: Library\Artifacts\72\722a6beb2c40edaa77c7a902834fab68
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: S&R\Library\Artifacts\72\7247929896512b89048c1b83476a4b42
+    fullPath: C:\Users\yikch\Documents\GitHub\SennaAndRuby2\S&R\Library\Artifacts\72\7247929896512b89048c1b83476a4b42
+    projectPath: Library\Artifacts\72\7247929896512b89048c1b83476a4b42
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: S&R\Library\Artifacts\72\72768bbd4807769c85cec07690b461b0
+    fullPath: C:\Users\yikch\Documents\GitHub\SennaAndRuby2\S&R\Library\Artifacts\72\72768bbd4807769c85cec07690b461b0
+    projectPath: Library\Artifacts\72\72768bbd4807769c85cec07690b461b0
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: S&R\Library\Artifacts\76\7617fe6df12cc5a27db9a4f3089d8345
+    fullPath: C:\Users\yikch\Documents\GitHub\SennaAndRuby2\S&R\Library\Artifacts\76\7617fe6df12cc5a27db9a4f3089d8345
+    projectPath: Library\Artifacts\76\7617fe6df12cc5a27db9a4f3089d8345
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: S&R\Library\Artifacts\77\77389959693bb4f950ee325a59392ede
+    fullPath: C:\Users\yikch\Documents\GitHub\SennaAndRuby2\S&R\Library\Artifacts\77\77389959693bb4f950ee325a59392ede
+    projectPath: Library\Artifacts\77\77389959693bb4f950ee325a59392ede
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: S&R\Library\Artifacts\77\77b40ecc78e5e82c71a8e36c5ba23bdf
+    fullPath: C:\Users\yikch\Documents\GitHub\SennaAndRuby2\S&R\Library\Artifacts\77\77b40ecc78e5e82c71a8e36c5ba23bdf
+    projectPath: Library\Artifacts\77\77b40ecc78e5e82c71a8e36c5ba23bdf
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: S&R\Library\Artifacts\7c\7c6a49330bde61e1c68d468f42b8a78c
+    fullPath: C:\Users\yikch\Documents\GitHub\SennaAndRuby2\S&R\Library\Artifacts\7c\7c6a49330bde61e1c68d468f42b8a78c
+    projectPath: Library\Artifacts\7c\7c6a49330bde61e1c68d468f42b8a78c
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: S&R\Library\Artifacts\7d\7d9c9a0f185a7aa9be41f8f1f1f625a5
+    fullPath: C:\Users\yikch\Documents\GitHub\SennaAndRuby2\S&R\Library\Artifacts\7d\7d9c9a0f185a7aa9be41f8f1f1f625a5
+    projectPath: Library\Artifacts\7d\7d9c9a0f185a7aa9be41f8f1f1f625a5
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: S&R\Library\Artifacts\7d\7daf66f9c17dfccdfb76157548ccaec3
+    fullPath: C:\Users\yikch\Documents\GitHub\SennaAndRuby2\S&R\Library\Artifacts\7d\7daf66f9c17dfccdfb76157548ccaec3
+    projectPath: Library\Artifacts\7d\7daf66f9c17dfccdfb76157548ccaec3
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: S&R\Library\Artifacts\7e\7ee1afcb80e6eba79f258f50a70596ea
+    fullPath: C:\Users\yikch\Documents\GitHub\SennaAndRuby2\S&R\Library\Artifacts\7e\7ee1afcb80e6eba79f258f50a70596ea
+    projectPath: Library\Artifacts\7e\7ee1afcb80e6eba79f258f50a70596ea
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: S&R\Library\Artifacts\7f\7f2c643cfcef5b97aa6b98b27229aefc
+    fullPath: C:\Users\yikch\Documents\GitHub\SennaAndRuby2\S&R\Library\Artifacts\7f\7f2c643cfcef5b97aa6b98b27229aefc
+    projectPath: Library\Artifacts\7f\7f2c643cfcef5b97aa6b98b27229aefc
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: S&R\Library\Artifacts\7f\7f7ebe4919799168769adde9808a6e50
+    fullPath: C:\Users\yikch\Documents\GitHub\SennaAndRuby2\S&R\Library\Artifacts\7f\7f7ebe4919799168769adde9808a6e50
+    projectPath: Library\Artifacts\7f\7f7ebe4919799168769adde9808a6e50
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: S&R\Library\Artifacts\7f\7fbd5f9058d86b856a8a53a91ac2634e
+    fullPath: C:\Users\yikch\Documents\GitHub\SennaAndRuby2\S&R\Library\Artifacts\7f\7fbd5f9058d86b856a8a53a91ac2634e
+    projectPath: Library\Artifacts\7f\7fbd5f9058d86b856a8a53a91ac2634e
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: S&R\Library\Artifacts\81\81bdaf7fc03e90b64d80516c4c28b478
+    fullPath: C:\Users\yikch\Documents\GitHub\SennaAndRuby2\S&R\Library\Artifacts\81\81bdaf7fc03e90b64d80516c4c28b478
+    projectPath: Library\Artifacts\81\81bdaf7fc03e90b64d80516c4c28b478
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: S&R\Library\Artifacts\82\820c551af99905227047cf0469058963
+    fullPath: C:\Users\yikch\Documents\GitHub\SennaAndRuby2\S&R\Library\Artifacts\82\820c551af99905227047cf0469058963
+    projectPath: Library\Artifacts\82\820c551af99905227047cf0469058963
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: S&R\Library\Artifacts\85\85247ea4e9d0de5bab98cef647837e28
+    fullPath: C:\Users\yikch\Documents\GitHub\SennaAndRuby2\S&R\Library\Artifacts\85\85247ea4e9d0de5bab98cef647837e28
+    projectPath: Library\Artifacts\85\85247ea4e9d0de5bab98cef647837e28
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: S&R\Library\Artifacts\85\85d0ceabfab3098c3bf4dd8fecf7a033
+    fullPath: C:\Users\yikch\Documents\GitHub\SennaAndRuby2\S&R\Library\Artifacts\85\85d0ceabfab3098c3bf4dd8fecf7a033
+    projectPath: Library\Artifacts\85\85d0ceabfab3098c3bf4dd8fecf7a033
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: S&R\Library\Artifacts\85\85fb9df8d0fa4ca5c3868b5322d297f7
+    fullPath: C:\Users\yikch\Documents\GitHub\SennaAndRuby2\S&R\Library\Artifacts\85\85fb9df8d0fa4ca5c3868b5322d297f7
+    projectPath: Library\Artifacts\85\85fb9df8d0fa4ca5c3868b5322d297f7
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: S&R\Library\Artifacts\87\874d4b87e55818f1a25261a6ecf551ac
+    fullPath: C:\Users\yikch\Documents\GitHub\SennaAndRuby2\S&R\Library\Artifacts\87\874d4b87e55818f1a25261a6ecf551ac
+    projectPath: Library\Artifacts\87\874d4b87e55818f1a25261a6ecf551ac
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: S&R\Library\Artifacts\87\87c87cce4fb33de0afc79189190242ef
+    fullPath: C:\Users\yikch\Documents\GitHub\SennaAndRuby2\S&R\Library\Artifacts\87\87c87cce4fb33de0afc79189190242ef
+    projectPath: Library\Artifacts\87\87c87cce4fb33de0afc79189190242ef
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: S&R\Library\Artifacts\87\87fcaf4c293ae7d0fa581c9ea03e3fb7
+    fullPath: C:\Users\yikch\Documents\GitHub\SennaAndRuby2\S&R\Library\Artifacts\87\87fcaf4c293ae7d0fa581c9ea03e3fb7
+    projectPath: Library\Artifacts\87\87fcaf4c293ae7d0fa581c9ea03e3fb7
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: S&R\Library\Artifacts\8a\8a4311a746a6c1cf0957711720663a88
+    fullPath: C:\Users\yikch\Documents\GitHub\SennaAndRuby2\S&R\Library\Artifacts\8a\8a4311a746a6c1cf0957711720663a88
+    projectPath: Library\Artifacts\8a\8a4311a746a6c1cf0957711720663a88
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: S&R\Library\Artifacts\8e\8e9d0842b108188e3e2b5be6afb1542e
+    fullPath: C:\Users\yikch\Documents\GitHub\SennaAndRuby2\S&R\Library\Artifacts\8e\8e9d0842b108188e3e2b5be6afb1542e
+    projectPath: Library\Artifacts\8e\8e9d0842b108188e3e2b5be6afb1542e
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: S&R\Library\Artifacts\8e\8ee6b0c3fefe0cd4d1cac82986c9cbea
+    fullPath: C:\Users\yikch\Documents\GitHub\SennaAndRuby2\S&R\Library\Artifacts\8e\8ee6b0c3fefe0cd4d1cac82986c9cbea
+    projectPath: Library\Artifacts\8e\8ee6b0c3fefe0cd4d1cac82986c9cbea
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: S&R\Library\Artifacts\90\90051082cb19330ad18c14209ae350db
+    fullPath: C:\Users\yikch\Documents\GitHub\SennaAndRuby2\S&R\Library\Artifacts\90\90051082cb19330ad18c14209ae350db
+    projectPath: Library\Artifacts\90\90051082cb19330ad18c14209ae350db
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: S&R\Library\Artifacts\91\9193551e6ac03bcb0188626e21ac6057
+    fullPath: C:\Users\yikch\Documents\GitHub\SennaAndRuby2\S&R\Library\Artifacts\91\9193551e6ac03bcb0188626e21ac6057
+    projectPath: Library\Artifacts\91\9193551e6ac03bcb0188626e21ac6057
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: S&R\Library\Artifacts\91\91bb0028a03d7aa5f463d8fefc018c37
+    fullPath: C:\Users\yikch\Documents\GitHub\SennaAndRuby2\S&R\Library\Artifacts\91\91bb0028a03d7aa5f463d8fefc018c37
+    projectPath: Library\Artifacts\91\91bb0028a03d7aa5f463d8fefc018c37
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: S&R\Library\Artifacts\94\94a3b4a73a18dc78d59a5ba427e59e86
+    fullPath: C:\Users\yikch\Documents\GitHub\SennaAndRuby2\S&R\Library\Artifacts\94\94a3b4a73a18dc78d59a5ba427e59e86
+    projectPath: Library\Artifacts\94\94a3b4a73a18dc78d59a5ba427e59e86
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: S&R\Library\Artifacts\94\94ae894e8114189e6aff61b60511de5c
+    fullPath: C:\Users\yikch\Documents\GitHub\SennaAndRuby2\S&R\Library\Artifacts\94\94ae894e8114189e6aff61b60511de5c
+    projectPath: Library\Artifacts\94\94ae894e8114189e6aff61b60511de5c
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: S&R\Library\Artifacts\94\94fc5e80ea3a1c917fbb88083b2e9fe6
+    fullPath: C:\Users\yikch\Documents\GitHub\SennaAndRuby2\S&R\Library\Artifacts\94\94fc5e80ea3a1c917fbb88083b2e9fe6
+    projectPath: Library\Artifacts\94\94fc5e80ea3a1c917fbb88083b2e9fe6
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: S&R\Library\Artifacts\95\951e8723722bd7f1170ef8b3086c2ec6
+    fullPath: C:\Users\yikch\Documents\GitHub\SennaAndRuby2\S&R\Library\Artifacts\95\951e8723722bd7f1170ef8b3086c2ec6
+    projectPath: Library\Artifacts\95\951e8723722bd7f1170ef8b3086c2ec6
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: S&R\Library\Artifacts\97\97b39584badc80d8aa57be3519639c23
+    fullPath: C:\Users\yikch\Documents\GitHub\SennaAndRuby2\S&R\Library\Artifacts\97\97b39584badc80d8aa57be3519639c23
+    projectPath: Library\Artifacts\97\97b39584badc80d8aa57be3519639c23
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: S&R\Library\Artifacts\97\97e33757fa8bc1698301ffc9d623922c
+    fullPath: C:\Users\yikch\Documents\GitHub\SennaAndRuby2\S&R\Library\Artifacts\97\97e33757fa8bc1698301ffc9d623922c
+    projectPath: Library\Artifacts\97\97e33757fa8bc1698301ffc9d623922c
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: S&R\Library\Artifacts\98\981507fc3f327ecd4c79c64fe2ee50ad
+    fullPath: C:\Users\yikch\Documents\GitHub\SennaAndRuby2\S&R\Library\Artifacts\98\981507fc3f327ecd4c79c64fe2ee50ad
+    projectPath: Library\Artifacts\98\981507fc3f327ecd4c79c64fe2ee50ad
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: S&R\Library\Artifacts\99\9981c65088cc8826e2a57c6f1cd80099
+    fullPath: C:\Users\yikch\Documents\GitHub\SennaAndRuby2\S&R\Library\Artifacts\99\9981c65088cc8826e2a57c6f1cd80099
+    projectPath: Library\Artifacts\99\9981c65088cc8826e2a57c6f1cd80099
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: S&R\Library\Artifacts\99\998b0820bf29b6d50b79f5615c9c46bf
+    fullPath: C:\Users\yikch\Documents\GitHub\SennaAndRuby2\S&R\Library\Artifacts\99\998b0820bf29b6d50b79f5615c9c46bf
+    projectPath: Library\Artifacts\99\998b0820bf29b6d50b79f5615c9c46bf
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: S&R\Library\Artifacts\9b\9b9697ddfd035389ea946d3ca54bc37d
+    fullPath: C:\Users\yikch\Documents\GitHub\SennaAndRuby2\S&R\Library\Artifacts\9b\9b9697ddfd035389ea946d3ca54bc37d
+    projectPath: Library\Artifacts\9b\9b9697ddfd035389ea946d3ca54bc37d
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: S&R\Library\Artifacts\9c\9c874ffb1a448cccbad67094ee5fd3b4
+    fullPath: C:\Users\yikch\Documents\GitHub\SennaAndRuby2\S&R\Library\Artifacts\9c\9c874ffb1a448cccbad67094ee5fd3b4
+    projectPath: Library\Artifacts\9c\9c874ffb1a448cccbad67094ee5fd3b4
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: S&R\Library\Artifacts\9e\9eb86c8085891de8dad9820575641d7e
+    fullPath: C:\Users\yikch\Documents\GitHub\SennaAndRuby2\S&R\Library\Artifacts\9e\9eb86c8085891de8dad9820575641d7e
+    projectPath: Library\Artifacts\9e\9eb86c8085891de8dad9820575641d7e
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: S&R\Library\Artifacts\9f\9f523bba06bd97cd9a7d749d31646e45
+    fullPath: C:\Users\yikch\Documents\GitHub\SennaAndRuby2\S&R\Library\Artifacts\9f\9f523bba06bd97cd9a7d749d31646e45
+    projectPath: Library\Artifacts\9f\9f523bba06bd97cd9a7d749d31646e45
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: S&R\Library\Artifacts\a0\a05ef6b67c796085faf1c081b700c790
+    fullPath: C:\Users\yikch\Documents\GitHub\SennaAndRuby2\S&R\Library\Artifacts\a0\a05ef6b67c796085faf1c081b700c790
+    projectPath: Library\Artifacts\a0\a05ef6b67c796085faf1c081b700c790
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: S&R\Library\Artifacts\a0\a0981ab92134dc736252c0a5163a26f2
+    fullPath: C:\Users\yikch\Documents\GitHub\SennaAndRuby2\S&R\Library\Artifacts\a0\a0981ab92134dc736252c0a5163a26f2
+    projectPath: Library\Artifacts\a0\a0981ab92134dc736252c0a5163a26f2
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: S&R\Library\Artifacts\a3\a353fc231084c04a124159bef2cb4bab
+    fullPath: C:\Users\yikch\Documents\GitHub\SennaAndRuby2\S&R\Library\Artifacts\a3\a353fc231084c04a124159bef2cb4bab
+    projectPath: Library\Artifacts\a3\a353fc231084c04a124159bef2cb4bab
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: S&R\Library\Artifacts\a3\a3cd38f84668c50dfeb8936c287b5ca0
+    fullPath: C:\Users\yikch\Documents\GitHub\SennaAndRuby2\S&R\Library\Artifacts\a3\a3cd38f84668c50dfeb8936c287b5ca0
+    projectPath: Library\Artifacts\a3\a3cd38f84668c50dfeb8936c287b5ca0
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: S&R\Library\Artifacts\a3\a3ff4ab5d6d2f23e130d21c731ff21d7
+    fullPath: C:\Users\yikch\Documents\GitHub\SennaAndRuby2\S&R\Library\Artifacts\a3\a3ff4ab5d6d2f23e130d21c731ff21d7
+    projectPath: Library\Artifacts\a3\a3ff4ab5d6d2f23e130d21c731ff21d7
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: S&R\Library\Artifacts\a6\a6468b6dd22ceb478b72bdeb81a18215
+    fullPath: C:\Users\yikch\Documents\GitHub\SennaAndRuby2\S&R\Library\Artifacts\a6\a6468b6dd22ceb478b72bdeb81a18215
+    projectPath: Library\Artifacts\a6\a6468b6dd22ceb478b72bdeb81a18215
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: S&R\Library\Artifacts\a6\a6ce3dcb9f3eda4c7f37930f3da4c28c
+    fullPath: C:\Users\yikch\Documents\GitHub\SennaAndRuby2\S&R\Library\Artifacts\a6\a6ce3dcb9f3eda4c7f37930f3da4c28c
+    projectPath: Library\Artifacts\a6\a6ce3dcb9f3eda4c7f37930f3da4c28c
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: S&R\Library\Artifacts\a7\a77e5a293d2d2047815831ec1480c2c4
+    fullPath: C:\Users\yikch\Documents\GitHub\SennaAndRuby2\S&R\Library\Artifacts\a7\a77e5a293d2d2047815831ec1480c2c4
+    projectPath: Library\Artifacts\a7\a77e5a293d2d2047815831ec1480c2c4
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: S&R\Library\Artifacts\ac\acca76bea49d15477fc4121ec4743c48
+    fullPath: C:\Users\yikch\Documents\GitHub\SennaAndRuby2\S&R\Library\Artifacts\ac\acca76bea49d15477fc4121ec4743c48
+    projectPath: Library\Artifacts\ac\acca76bea49d15477fc4121ec4743c48
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: S&R\Library\Artifacts\ad\ad5ddfcc89d65f572a42c7362ce62422
+    fullPath: C:\Users\yikch\Documents\GitHub\SennaAndRuby2\S&R\Library\Artifacts\ad\ad5ddfcc89d65f572a42c7362ce62422
+    projectPath: Library\Artifacts\ad\ad5ddfcc89d65f572a42c7362ce62422
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: S&R\Library\Artifacts\ad\ad857226a151a62de7d500d4206a4bc7
+    fullPath: C:\Users\yikch\Documents\GitHub\SennaAndRuby2\S&R\Library\Artifacts\ad\ad857226a151a62de7d500d4206a4bc7
+    projectPath: Library\Artifacts\ad\ad857226a151a62de7d500d4206a4bc7
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: S&R\Library\Artifacts\ae\ae9103750b18dffddd9e9773d47cc5cd
+    fullPath: C:\Users\yikch\Documents\GitHub\SennaAndRuby2\S&R\Library\Artifacts\ae\ae9103750b18dffddd9e9773d47cc5cd
+    projectPath: Library\Artifacts\ae\ae9103750b18dffddd9e9773d47cc5cd
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: S&R\Library\Artifacts\b0\b01ab5284295b8475c834bb5b4ee7654
+    fullPath: C:\Users\yikch\Documents\GitHub\SennaAndRuby2\S&R\Library\Artifacts\b0\b01ab5284295b8475c834bb5b4ee7654
+    projectPath: Library\Artifacts\b0\b01ab5284295b8475c834bb5b4ee7654
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: S&R\Library\Artifacts\b1\b1ede7078ccc55acd2ac3568eb1e94a8
+    fullPath: C:\Users\yikch\Documents\GitHub\SennaAndRuby2\S&R\Library\Artifacts\b1\b1ede7078ccc55acd2ac3568eb1e94a8
+    projectPath: Library\Artifacts\b1\b1ede7078ccc55acd2ac3568eb1e94a8
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: S&R\Library\Artifacts\b2\b257b4eee3e6d4b95b77a79a7d9d9878
+    fullPath: C:\Users\yikch\Documents\GitHub\SennaAndRuby2\S&R\Library\Artifacts\b2\b257b4eee3e6d4b95b77a79a7d9d9878
+    projectPath: Library\Artifacts\b2\b257b4eee3e6d4b95b77a79a7d9d9878
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: S&R\Library\Artifacts\b3\b397c242c05c6a4e628d41e09c2751f7
+    fullPath: C:\Users\yikch\Documents\GitHub\SennaAndRuby2\S&R\Library\Artifacts\b3\b397c242c05c6a4e628d41e09c2751f7
+    projectPath: Library\Artifacts\b3\b397c242c05c6a4e628d41e09c2751f7
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: S&R\Library\Artifacts\b4\b48fd5416dd06e2cfd2f30773f5849f2
+    fullPath: C:\Users\yikch\Documents\GitHub\SennaAndRuby2\S&R\Library\Artifacts\b4\b48fd5416dd06e2cfd2f30773f5849f2
+    projectPath: Library\Artifacts\b4\b48fd5416dd06e2cfd2f30773f5849f2
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: S&R\Library\Artifacts\b7\b79a82be0ad9f1c66b8b8923c3da528b
+    fullPath: C:\Users\yikch\Documents\GitHub\SennaAndRuby2\S&R\Library\Artifacts\b7\b79a82be0ad9f1c66b8b8923c3da528b
+    projectPath: Library\Artifacts\b7\b79a82be0ad9f1c66b8b8923c3da528b
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: S&R\Library\Artifacts\b7\b7bb02c89bd22af4b025cd27fee69fff
+    fullPath: C:\Users\yikch\Documents\GitHub\SennaAndRuby2\S&R\Library\Artifacts\b7\b7bb02c89bd22af4b025cd27fee69fff
+    projectPath: Library\Artifacts\b7\b7bb02c89bd22af4b025cd27fee69fff
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: S&R\Library\Artifacts\b7\b7c8b556f6502ae8175f036487b606f3
+    fullPath: C:\Users\yikch\Documents\GitHub\SennaAndRuby2\S&R\Library\Artifacts\b7\b7c8b556f6502ae8175f036487b606f3
+    projectPath: Library\Artifacts\b7\b7c8b556f6502ae8175f036487b606f3
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: S&R\Library\Artifacts\b8\b86816be9c25afe963a36135b5041db2
+    fullPath: C:\Users\yikch\Documents\GitHub\SennaAndRuby2\S&R\Library\Artifacts\b8\b86816be9c25afe963a36135b5041db2
+    projectPath: Library\Artifacts\b8\b86816be9c25afe963a36135b5041db2
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: S&R\Library\Artifacts\b8\b8b895ee6b9ac6925bcdfe1e8d0b3c6e
+    fullPath: C:\Users\yikch\Documents\GitHub\SennaAndRuby2\S&R\Library\Artifacts\b8\b8b895ee6b9ac6925bcdfe1e8d0b3c6e
+    projectPath: Library\Artifacts\b8\b8b895ee6b9ac6925bcdfe1e8d0b3c6e
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: S&R\Library\Artifacts\b9\b9334d190ec90bbff0a6b9afaee64107
+    fullPath: C:\Users\yikch\Documents\GitHub\SennaAndRuby2\S&R\Library\Artifacts\b9\b9334d190ec90bbff0a6b9afaee64107
+    projectPath: Library\Artifacts\b9\b9334d190ec90bbff0a6b9afaee64107
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: S&R\Library\Artifacts\b9\b9c70c6e23673a78b755a2d122ce4ec8
+    fullPath: C:\Users\yikch\Documents\GitHub\SennaAndRuby2\S&R\Library\Artifacts\b9\b9c70c6e23673a78b755a2d122ce4ec8
+    projectPath: Library\Artifacts\b9\b9c70c6e23673a78b755a2d122ce4ec8
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: S&R\Library\Artifacts\b9\b9f3572d450d004b838b6121266ae3ea
+    fullPath: C:\Users\yikch\Documents\GitHub\SennaAndRuby2\S&R\Library\Artifacts\b9\b9f3572d450d004b838b6121266ae3ea
+    projectPath: Library\Artifacts\b9\b9f3572d450d004b838b6121266ae3ea
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: S&R\Library\Artifacts\ba\baeb385bef2e09ba8e2592398742b978
+    fullPath: C:\Users\yikch\Documents\GitHub\SennaAndRuby2\S&R\Library\Artifacts\ba\baeb385bef2e09ba8e2592398742b978
+    projectPath: Library\Artifacts\ba\baeb385bef2e09ba8e2592398742b978
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: S&R\Library\Artifacts\bb\bb4d648da920255a3b37f089490e1ab2
+    fullPath: C:\Users\yikch\Documents\GitHub\SennaAndRuby2\S&R\Library\Artifacts\bb\bb4d648da920255a3b37f089490e1ab2
+    projectPath: Library\Artifacts\bb\bb4d648da920255a3b37f089490e1ab2
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: S&R\Library\Artifacts\bd\bd23924527bacca36907ae309a7dd00a
+    fullPath: C:\Users\yikch\Documents\GitHub\SennaAndRuby2\S&R\Library\Artifacts\bd\bd23924527bacca36907ae309a7dd00a
+    projectPath: Library\Artifacts\bd\bd23924527bacca36907ae309a7dd00a
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: S&R\Library\Artifacts\bf\bf81360d7e36934dba22b4e7ae41f1b8
+    fullPath: C:\Users\yikch\Documents\GitHub\SennaAndRuby2\S&R\Library\Artifacts\bf\bf81360d7e36934dba22b4e7ae41f1b8
+    projectPath: Library\Artifacts\bf\bf81360d7e36934dba22b4e7ae41f1b8
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: S&R\Library\Artifacts\c0\c0abe345a8f24140ec1912ef9dd3423d
+    fullPath: C:\Users\yikch\Documents\GitHub\SennaAndRuby2\S&R\Library\Artifacts\c0\c0abe345a8f24140ec1912ef9dd3423d
+    projectPath: Library\Artifacts\c0\c0abe345a8f24140ec1912ef9dd3423d
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: S&R\Library\Artifacts\c1\c12d87c147445ca610b507735b18dd39
+    fullPath: C:\Users\yikch\Documents\GitHub\SennaAndRuby2\S&R\Library\Artifacts\c1\c12d87c147445ca610b507735b18dd39
+    projectPath: Library\Artifacts\c1\c12d87c147445ca610b507735b18dd39
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: S&R\Library\Artifacts\c1\c142ab0c55a90cb03c5f7aee11fb692f
+    fullPath: C:\Users\yikch\Documents\GitHub\SennaAndRuby2\S&R\Library\Artifacts\c1\c142ab0c55a90cb03c5f7aee11fb692f
+    projectPath: Library\Artifacts\c1\c142ab0c55a90cb03c5f7aee11fb692f
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: S&R\Library\Artifacts\c2\c2763f1aebcf58e507a995ed4101c155
+    fullPath: C:\Users\yikch\Documents\GitHub\SennaAndRuby2\S&R\Library\Artifacts\c2\c2763f1aebcf58e507a995ed4101c155
+    projectPath: Library\Artifacts\c2\c2763f1aebcf58e507a995ed4101c155
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: S&R\Library\Artifacts\c2\c282dd65e2edcf7dbc7be9b3878e37ce
+    fullPath: C:\Users\yikch\Documents\GitHub\SennaAndRuby2\S&R\Library\Artifacts\c2\c282dd65e2edcf7dbc7be9b3878e37ce
+    projectPath: Library\Artifacts\c2\c282dd65e2edcf7dbc7be9b3878e37ce
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: S&R\Library\Artifacts\c2\c2a60aa58bb0f1606162297606d3c382
+    fullPath: C:\Users\yikch\Documents\GitHub\SennaAndRuby2\S&R\Library\Artifacts\c2\c2a60aa58bb0f1606162297606d3c382
+    projectPath: Library\Artifacts\c2\c2a60aa58bb0f1606162297606d3c382
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: S&R\Library\Artifacts\c3\c353d963e571518ebafb600a9a28d2c5
+    fullPath: C:\Users\yikch\Documents\GitHub\SennaAndRuby2\S&R\Library\Artifacts\c3\c353d963e571518ebafb600a9a28d2c5
+    projectPath: Library\Artifacts\c3\c353d963e571518ebafb600a9a28d2c5
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: S&R\Library\Artifacts\c3\c376869e5d029ee611eb91453e0abb14
+    fullPath: C:\Users\yikch\Documents\GitHub\SennaAndRuby2\S&R\Library\Artifacts\c3\c376869e5d029ee611eb91453e0abb14
+    projectPath: Library\Artifacts\c3\c376869e5d029ee611eb91453e0abb14
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: S&R\Library\Artifacts\c6\c61f445c7c125b08f80b827a40ee4b79
+    fullPath: C:\Users\yikch\Documents\GitHub\SennaAndRuby2\S&R\Library\Artifacts\c6\c61f445c7c125b08f80b827a40ee4b79
+    projectPath: Library\Artifacts\c6\c61f445c7c125b08f80b827a40ee4b79
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: S&R\Library\Artifacts\c7\c7f5c76c91a5ff827f32c40d68cf291b
+    fullPath: C:\Users\yikch\Documents\GitHub\SennaAndRuby2\S&R\Library\Artifacts\c7\c7f5c76c91a5ff827f32c40d68cf291b
+    projectPath: Library\Artifacts\c7\c7f5c76c91a5ff827f32c40d68cf291b
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: S&R\Library\Artifacts\c8\c836a6e5ffa1e59c0e515d386e74ad3f
+    fullPath: C:\Users\yikch\Documents\GitHub\SennaAndRuby2\S&R\Library\Artifacts\c8\c836a6e5ffa1e59c0e515d386e74ad3f
+    projectPath: Library\Artifacts\c8\c836a6e5ffa1e59c0e515d386e74ad3f
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: S&R\Library\Artifacts\c8\c83dc9e6071595e0887c7578d0ab938f
+    fullPath: C:\Users\yikch\Documents\GitHub\SennaAndRuby2\S&R\Library\Artifacts\c8\c83dc9e6071595e0887c7578d0ab938f
+    projectPath: Library\Artifacts\c8\c83dc9e6071595e0887c7578d0ab938f
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: S&R\Library\Artifacts\c8\c8bb6be29292c37c5cd43ad37eeecad6
+    fullPath: C:\Users\yikch\Documents\GitHub\SennaAndRuby2\S&R\Library\Artifacts\c8\c8bb6be29292c37c5cd43ad37eeecad6
+    projectPath: Library\Artifacts\c8\c8bb6be29292c37c5cd43ad37eeecad6
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: S&R\Library\Artifacts\cb\cbbf4295cf5fc924585d31f07d496665
+    fullPath: C:\Users\yikch\Documents\GitHub\SennaAndRuby2\S&R\Library\Artifacts\cb\cbbf4295cf5fc924585d31f07d496665
+    projectPath: Library\Artifacts\cb\cbbf4295cf5fc924585d31f07d496665
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: S&R\Library\Artifacts\cd\cd2139f3cf560e1b326076519951efdb
+    fullPath: C:\Users\yikch\Documents\GitHub\SennaAndRuby2\S&R\Library\Artifacts\cd\cd2139f3cf560e1b326076519951efdb
+    projectPath: Library\Artifacts\cd\cd2139f3cf560e1b326076519951efdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: S&R\Library\Artifacts\cf\cf0e5beb3fff511fe017fdff33ad0c7b
+    fullPath: C:\Users\yikch\Documents\GitHub\SennaAndRuby2\S&R\Library\Artifacts\cf\cf0e5beb3fff511fe017fdff33ad0c7b
+    projectPath: Library\Artifacts\cf\cf0e5beb3fff511fe017fdff33ad0c7b
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: S&R\Library\Artifacts\cf\cf7fb28fb7858834f0d4f7025c63cfc9
+    fullPath: C:\Users\yikch\Documents\GitHub\SennaAndRuby2\S&R\Library\Artifacts\cf\cf7fb28fb7858834f0d4f7025c63cfc9
+    projectPath: Library\Artifacts\cf\cf7fb28fb7858834f0d4f7025c63cfc9
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: S&R\Library\Artifacts\d0\d0b400f092a898a79ffc7ad6df45340b
+    fullPath: C:\Users\yikch\Documents\GitHub\SennaAndRuby2\S&R\Library\Artifacts\d0\d0b400f092a898a79ffc7ad6df45340b
+    projectPath: Library\Artifacts\d0\d0b400f092a898a79ffc7ad6df45340b
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: S&R\Library\Artifacts\d2\d2341b646463df334751acb8a961d71e
+    fullPath: C:\Users\yikch\Documents\GitHub\SennaAndRuby2\S&R\Library\Artifacts\d2\d2341b646463df334751acb8a961d71e
+    projectPath: Library\Artifacts\d2\d2341b646463df334751acb8a961d71e
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: S&R\Library\Artifacts\d2\d2432d984ebd6af0b6db1b469c59979c
+    fullPath: C:\Users\yikch\Documents\GitHub\SennaAndRuby2\S&R\Library\Artifacts\d2\d2432d984ebd6af0b6db1b469c59979c
+    projectPath: Library\Artifacts\d2\d2432d984ebd6af0b6db1b469c59979c
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: S&R\Library\Artifacts\d2\d24380a4e6c44179355fd47372ffb33b
+    fullPath: C:\Users\yikch\Documents\GitHub\SennaAndRuby2\S&R\Library\Artifacts\d2\d24380a4e6c44179355fd47372ffb33b
+    projectPath: Library\Artifacts\d2\d24380a4e6c44179355fd47372ffb33b
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: S&R\Library\Artifacts\d2\d2ec141aae150f4d8e0c3e5a7906fe2a
+    fullPath: C:\Users\yikch\Documents\GitHub\SennaAndRuby2\S&R\Library\Artifacts\d2\d2ec141aae150f4d8e0c3e5a7906fe2a
+    projectPath: Library\Artifacts\d2\d2ec141aae150f4d8e0c3e5a7906fe2a
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: S&R\Library\Artifacts\d3\d3a7bdad5687124003bd5440a5dbcf3f
+    fullPath: C:\Users\yikch\Documents\GitHub\SennaAndRuby2\S&R\Library\Artifacts\d3\d3a7bdad5687124003bd5440a5dbcf3f
+    projectPath: Library\Artifacts\d3\d3a7bdad5687124003bd5440a5dbcf3f
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: S&R\Library\Artifacts\d4\d42adc00d43240e113b537c649db76a8
+    fullPath: C:\Users\yikch\Documents\GitHub\SennaAndRuby2\S&R\Library\Artifacts\d4\d42adc00d43240e113b537c649db76a8
+    projectPath: Library\Artifacts\d4\d42adc00d43240e113b537c649db76a8
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: S&R\Library\Artifacts\d4\d44c09d5e2e90c1ce4d64f7f6a494bc4
+    fullPath: C:\Users\yikch\Documents\GitHub\SennaAndRuby2\S&R\Library\Artifacts\d4\d44c09d5e2e90c1ce4d64f7f6a494bc4
+    projectPath: Library\Artifacts\d4\d44c09d5e2e90c1ce4d64f7f6a494bc4
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: S&R\Library\Artifacts\d7\d7b95d64f473710a861b877bbedeb8c7
+    fullPath: C:\Users\yikch\Documents\GitHub\SennaAndRuby2\S&R\Library\Artifacts\d7\d7b95d64f473710a861b877bbedeb8c7
+    projectPath: Library\Artifacts\d7\d7b95d64f473710a861b877bbedeb8c7
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: S&R\Library\Artifacts\d7\d7d5924c296ab5059f368716e3a20730
+    fullPath: C:\Users\yikch\Documents\GitHub\SennaAndRuby2\S&R\Library\Artifacts\d7\d7d5924c296ab5059f368716e3a20730
+    projectPath: Library\Artifacts\d7\d7d5924c296ab5059f368716e3a20730
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: S&R\Library\Artifacts\d8\d8ef2f51d43da8cda75d7fed4a09a661
+    fullPath: C:\Users\yikch\Documents\GitHub\SennaAndRuby2\S&R\Library\Artifacts\d8\d8ef2f51d43da8cda75d7fed4a09a661
+    projectPath: Library\Artifacts\d8\d8ef2f51d43da8cda75d7fed4a09a661
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: S&R\Library\Artifacts\dc\dc493697c40dfa5a471eedcc12098fc1
+    fullPath: C:\Users\yikch\Documents\GitHub\SennaAndRuby2\S&R\Library\Artifacts\dc\dc493697c40dfa5a471eedcc12098fc1
+    projectPath: Library\Artifacts\dc\dc493697c40dfa5a471eedcc12098fc1
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: S&R\Library\Artifacts\dc\dc9f2823c30c8a348a0ca09e59887a2e
+    fullPath: C:\Users\yikch\Documents\GitHub\SennaAndRuby2\S&R\Library\Artifacts\dc\dc9f2823c30c8a348a0ca09e59887a2e
+    projectPath: Library\Artifacts\dc\dc9f2823c30c8a348a0ca09e59887a2e
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: S&R\Library\Artifacts\dd\dd2c1027e7f68a4066e5f2069f74ac0b
+    fullPath: C:\Users\yikch\Documents\GitHub\SennaAndRuby2\S&R\Library\Artifacts\dd\dd2c1027e7f68a4066e5f2069f74ac0b
+    projectPath: Library\Artifacts\dd\dd2c1027e7f68a4066e5f2069f74ac0b
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: S&R\Library\Artifacts\dd\ddd0362a6c258f8695be2b1531d3d5c6
+    fullPath: C:\Users\yikch\Documents\GitHub\SennaAndRuby2\S&R\Library\Artifacts\dd\ddd0362a6c258f8695be2b1531d3d5c6
+    projectPath: Library\Artifacts\dd\ddd0362a6c258f8695be2b1531d3d5c6
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: S&R\Library\Artifacts\dd\ddf5608bcfb70fac86942b021609e67c
+    fullPath: C:\Users\yikch\Documents\GitHub\SennaAndRuby2\S&R\Library\Artifacts\dd\ddf5608bcfb70fac86942b021609e67c
+    projectPath: Library\Artifacts\dd\ddf5608bcfb70fac86942b021609e67c
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: S&R\Library\Artifacts\de\de17bfbd1790287182eae0ef986c2238
+    fullPath: C:\Users\yikch\Documents\GitHub\SennaAndRuby2\S&R\Library\Artifacts\de\de17bfbd1790287182eae0ef986c2238
+    projectPath: Library\Artifacts\de\de17bfbd1790287182eae0ef986c2238
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: S&R\Library\Artifacts\de\def9cf51552123d549ae2d59780424e8
+    fullPath: C:\Users\yikch\Documents\GitHub\SennaAndRuby2\S&R\Library\Artifacts\de\def9cf51552123d549ae2d59780424e8
+    projectPath: Library\Artifacts\de\def9cf51552123d549ae2d59780424e8
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: S&R\Library\Artifacts\df\dfcd078ac4b13cdfaa9602410767bd8d
+    fullPath: C:\Users\yikch\Documents\GitHub\SennaAndRuby2\S&R\Library\Artifacts\df\dfcd078ac4b13cdfaa9602410767bd8d
+    projectPath: Library\Artifacts\df\dfcd078ac4b13cdfaa9602410767bd8d
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: S&R\Library\Artifacts\e0\e09816042e3a713d03dc4a2982fb4f90
+    fullPath: C:\Users\yikch\Documents\GitHub\SennaAndRuby2\S&R\Library\Artifacts\e0\e09816042e3a713d03dc4a2982fb4f90
+    projectPath: Library\Artifacts\e0\e09816042e3a713d03dc4a2982fb4f90
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: S&R\Library\Artifacts\e1\e10b3ef4315024e17ec29bbbfdc4fa54
+    fullPath: C:\Users\yikch\Documents\GitHub\SennaAndRuby2\S&R\Library\Artifacts\e1\e10b3ef4315024e17ec29bbbfdc4fa54
+    projectPath: Library\Artifacts\e1\e10b3ef4315024e17ec29bbbfdc4fa54
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: S&R\Library\Artifacts\e2\e20339d8dd0c2e85f63a00d6af2dcaae
+    fullPath: C:\Users\yikch\Documents\GitHub\SennaAndRuby2\S&R\Library\Artifacts\e2\e20339d8dd0c2e85f63a00d6af2dcaae
+    projectPath: Library\Artifacts\e2\e20339d8dd0c2e85f63a00d6af2dcaae
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: S&R\Library\Artifacts\ec\ec76e370f3c59ff81ce62f636592a57c
+    fullPath: C:\Users\yikch\Documents\GitHub\SennaAndRuby2\S&R\Library\Artifacts\ec\ec76e370f3c59ff81ce62f636592a57c
+    projectPath: Library\Artifacts\ec\ec76e370f3c59ff81ce62f636592a57c
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: S&R\Library\Artifacts\ec\ec9d389228a0185f20c287c7b61724c0
+    fullPath: C:\Users\yikch\Documents\GitHub\SennaAndRuby2\S&R\Library\Artifacts\ec\ec9d389228a0185f20c287c7b61724c0
+    projectPath: Library\Artifacts\ec\ec9d389228a0185f20c287c7b61724c0
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: S&R\Library\Artifacts\ee\eeae21c732d586c36e15df5194d11293
+    fullPath: C:\Users\yikch\Documents\GitHub\SennaAndRuby2\S&R\Library\Artifacts\ee\eeae21c732d586c36e15df5194d11293
+    projectPath: Library\Artifacts\ee\eeae21c732d586c36e15df5194d11293
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: S&R\Library\Artifacts\ef\ef97fda741771c66facb383bb93ef40e
+    fullPath: C:\Users\yikch\Documents\GitHub\SennaAndRuby2\S&R\Library\Artifacts\ef\ef97fda741771c66facb383bb93ef40e
+    projectPath: Library\Artifacts\ef\ef97fda741771c66facb383bb93ef40e
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: S&R\Library\Artifacts\ef\efc53c92b5b5e00e4c286e649317887e
+    fullPath: C:\Users\yikch\Documents\GitHub\SennaAndRuby2\S&R\Library\Artifacts\ef\efc53c92b5b5e00e4c286e649317887e
+    projectPath: Library\Artifacts\ef\efc53c92b5b5e00e4c286e649317887e
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: S&R\Library\Artifacts\f0\f058f8b77e60acf38627081c21ca38e5
+    fullPath: C:\Users\yikch\Documents\GitHub\SennaAndRuby2\S&R\Library\Artifacts\f0\f058f8b77e60acf38627081c21ca38e5
+    projectPath: Library\Artifacts\f0\f058f8b77e60acf38627081c21ca38e5
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: S&R\Library\Artifacts\f4\f48666f55c463218ffeeeebb4a3bc424
+    fullPath: C:\Users\yikch\Documents\GitHub\SennaAndRuby2\S&R\Library\Artifacts\f4\f48666f55c463218ffeeeebb4a3bc424
+    projectPath: Library\Artifacts\f4\f48666f55c463218ffeeeebb4a3bc424
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: S&R\Library\Artifacts\f6\f61e38cd9b17bcdb4df97e95c3b8cb25
+    fullPath: C:\Users\yikch\Documents\GitHub\SennaAndRuby2\S&R\Library\Artifacts\f6\f61e38cd9b17bcdb4df97e95c3b8cb25
+    projectPath: Library\Artifacts\f6\f61e38cd9b17bcdb4df97e95c3b8cb25
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: S&R\Library\Artifacts\f8\f8751637d8719244ef68ec55d419fe06
+    fullPath: C:\Users\yikch\Documents\GitHub\SennaAndRuby2\S&R\Library\Artifacts\f8\f8751637d8719244ef68ec55d419fe06
+    projectPath: Library\Artifacts\f8\f8751637d8719244ef68ec55d419fe06
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: S&R\Library\Artifacts\f8\f8d045d24e34ef1801c02ae0b7e1389b
+    fullPath: C:\Users\yikch\Documents\GitHub\SennaAndRuby2\S&R\Library\Artifacts\f8\f8d045d24e34ef1801c02ae0b7e1389b
+    projectPath: Library\Artifacts\f8\f8d045d24e34ef1801c02ae0b7e1389b
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: S&R\Library\Artifacts\f9\f96c6f12859fa3ea49624223c7450692
+    fullPath: C:\Users\yikch\Documents\GitHub\SennaAndRuby2\S&R\Library\Artifacts\f9\f96c6f12859fa3ea49624223c7450692
+    projectPath: Library\Artifacts\f9\f96c6f12859fa3ea49624223c7450692
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: S&R\Library\Artifacts\f9\f9f8425ac4138c71e1e57c90bca5d0a9
+    fullPath: C:\Users\yikch\Documents\GitHub\SennaAndRuby2\S&R\Library\Artifacts\f9\f9f8425ac4138c71e1e57c90bca5d0a9
+    projectPath: Library\Artifacts\f9\f9f8425ac4138c71e1e57c90bca5d0a9
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: S&R\Library\Artifacts\fd\fdb72392f9d1d747d5c3c7684ea531f7
+    fullPath: C:\Users\yikch\Documents\GitHub\SennaAndRuby2\S&R\Library\Artifacts\fd\fdb72392f9d1d747d5c3c7684ea531f7
+    projectPath: Library\Artifacts\fd\fdb72392f9d1d747d5c3c7684ea531f7
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: S&R\Library\Artifacts\fe\fe5edf109d842b696814e876eaac05c7
+    fullPath: C:\Users\yikch\Documents\GitHub\SennaAndRuby2\S&R\Library\Artifacts\fe\fe5edf109d842b696814e876eaac05c7
+    projectPath: Library\Artifacts\fe\fe5edf109d842b696814e876eaac05c7
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: S&R\Library\Artifacts\ff\ff51b2214deeb7f311568ecd84a127e5
+    fullPath: C:\Users\yikch\Documents\GitHub\SennaAndRuby2\S&R\Library\Artifacts\ff\ff51b2214deeb7f311568ecd84a127e5
+    projectPath: Library\Artifacts\ff\ff51b2214deeb7f311568ecd84a127e5
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
   - path: S&R\Library\gfu\cache\gitlocks.yaml
     fullPath: C:\Users\yikch\Documents\GitHub\SennaAndRuby2\S&R\Library\gfu\cache\gitlocks.yaml
     projectPath: Library\gfu\cache\gitlocks.yaml
@@ -70,6 +1348,18 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+  - path: S&R\Library\ScriptAssemblies\Assembly-CSharp.dll
+    fullPath: C:\Users\yikch\Documents\GitHub\SennaAndRuby2\S&R\Library\ScriptAssemblies\Assembly-CSharp.dll
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: S&R\Library\ShaderCache.db
+    fullPath: C:\Users\yikch\Documents\GitHub\SennaAndRuby2\S&R\Library\ShaderCache.db
+    projectPath: Library\ShaderCache.db
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
   - path: S&R\Library\ShaderCache\EditorEncounteredVariants
     fullPath: C:\Users\yikch\Documents\GitHub\SennaAndRuby2\S&R\Library\ShaderCache\EditorEncounteredVariants
     projectPath: Library\ShaderCache\EditorEncounteredVariants
@@ -100,9 +1390,69 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+  - path: S&R\Logs\AssetImportWorker0-prev.log
+    fullPath: C:\Users\yikch\Documents\GitHub\SennaAndRuby2\S&R\Logs\AssetImportWorker0-prev.log
+    projectPath: Logs\AssetImportWorker0-prev.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: S&R\Logs\shadercompiler-AssetImportWorker0.log
+    fullPath: C:\Users\yikch\Documents\GitHub\SennaAndRuby2\S&R\Logs\shadercompiler-AssetImportWorker0.log
+    projectPath: Logs\shadercompiler-AssetImportWorker0.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
   - path: S&R\Logs\shadercompiler-UnityShaderCompiler.exe0.log
     fullPath: C:\Users\yikch\Documents\GitHub\SennaAndRuby2\S&R\Logs\shadercompiler-UnityShaderCompiler.exe0.log
     projectPath: Logs\shadercompiler-UnityShaderCompiler.exe0.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: S&R\Logs\shadercompiler-UnityShaderCompiler.exe1.log
+    fullPath: C:\Users\yikch\Documents\GitHub\SennaAndRuby2\S&R\Logs\shadercompiler-UnityShaderCompiler.exe1.log
+    projectPath: Logs\shadercompiler-UnityShaderCompiler.exe1.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: S&R\Logs\shadercompiler-UnityShaderCompiler.exe2.log
+    fullPath: C:\Users\yikch\Documents\GitHub\SennaAndRuby2\S&R\Logs\shadercompiler-UnityShaderCompiler.exe2.log
+    projectPath: Logs\shadercompiler-UnityShaderCompiler.exe2.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: S&R\Logs\shadercompiler-UnityShaderCompiler.exe3.log
+    fullPath: C:\Users\yikch\Documents\GitHub\SennaAndRuby2\S&R\Logs\shadercompiler-UnityShaderCompiler.exe3.log
+    projectPath: Logs\shadercompiler-UnityShaderCompiler.exe3.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: S&R\Logs\shadercompiler-UnityShaderCompiler.exe4.log
+    fullPath: C:\Users\yikch\Documents\GitHub\SennaAndRuby2\S&R\Logs\shadercompiler-UnityShaderCompiler.exe4.log
+    projectPath: Logs\shadercompiler-UnityShaderCompiler.exe4.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: S&R\Logs\shadercompiler-UnityShaderCompiler.exe5.log
+    fullPath: C:\Users\yikch\Documents\GitHub\SennaAndRuby2\S&R\Logs\shadercompiler-UnityShaderCompiler.exe5.log
+    projectPath: Logs\shadercompiler-UnityShaderCompiler.exe5.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: S&R\Logs\shadercompiler-UnityShaderCompiler.exe6.log
+    fullPath: C:\Users\yikch\Documents\GitHub\SennaAndRuby2\S&R\Logs\shadercompiler-UnityShaderCompiler.exe6.log
+    projectPath: Logs\shadercompiler-UnityShaderCompiler.exe6.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: S&R\Logs\shadercompiler-UnityShaderCompiler.exe7.log
+    fullPath: C:\Users\yikch\Documents\GitHub\SennaAndRuby2\S&R\Logs\shadercompiler-UnityShaderCompiler.exe7.log
+    projectPath: Logs\shadercompiler-UnityShaderCompiler.exe7.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: S&R\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+    fullPath: C:\Users\yikch\Documents\GitHub\SennaAndRuby2\S&R\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+    projectPath: obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
